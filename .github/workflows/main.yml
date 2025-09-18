@@ -1,0 +1,83 @@
+name: Event Fetcher
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-events-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install System Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+
+      - name: Install Python Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install aiohttp
+          pip install requests==2.31.0
+          pip install pyzipper==0.3.6
+          pip install urllib3==2.0.7
+
+      - name: Extract Protected Script
+        run: |
+          if [ ! -f "eventsfetcher.zip" ]; then
+            echo "❌ eventsfetcher.zip not found"
+            exit 1
+          fi
+          ZIP_PASSWORD="${{ secrets.ZIP_PASSWORD }}" python extract_script.py
+          if [ $? -ne 0 ]; then
+            echo "❌ Script extraction failed"
+            exit 1
+          fi
+
+      - name: Run Event Fetcher
+        run: |
+          python main.py
+          if [ $? -ne 0 ]; then
+            echo "❌ Event fetcher failed"
+            exit 1
+          fi
+          if [ ! -f "output.json" ]; then
+            echo "❌ output.json was not created"
+            exit 1
+          fi
+          echo "✅ Event fetcher completed successfully"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add output.json if it exists
+          if [ -f "output.json" ]; then
+            git add output.json
+          fi
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto update events data - $(date '+%Y-%m-%d %H:%M:%S')"
+          fi
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+permissions:
+  contents: write
