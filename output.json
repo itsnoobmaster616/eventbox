@@ -17,23 +17,28 @@
     "channels": [
       {
         "id": 277,
-        "name": "MultiFeed"
+        "name": "MultiFeed",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOckN5bnpOdHpheUJzZTNMSjcrNHBUZGRwU1VVMWJyOXlyNlZWVnlnPT0/master.m3u8"
       },
       {
         "id": 261,
-        "name": "BBFeed 1"
+        "name": "BBFeed 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOckNpL3pOdHpheUJzZTNMSjdnQXVUNVhIQlZ6SmMybUNoVDJFdWNnPT0/master.m3u8"
       },
       {
         "id": 262,
-        "name": "BBFeed 2"
+        "name": "BBFeed 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOckNpenpOdHpheUJzZTNMSjdzWGc0WFZEN2ZzemF4N0tKb3VaaFhBPT0/master.m3u8"
       },
       {
         "id": 263,
-        "name": "BBFeed 3"
+        "name": "BBFeed 3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOckNpM3pOdHpheUJzZTNMSjdINmxleXJBU21abFl6UHlSK1p0YnVRPT0/master.m3u8"
       },
       {
         "id": 264,
-        "name": "BBFeed 4"
+        "name": "BBFeed 4",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOckNpcnpOdHpheUJzZTNMSjcwNTl2TFJLUExUSFcvQmJZZWVqL0FBPT0/master.m3u8"
       }
     ]
   },
@@ -55,7 +60,8 @@
     "channels": [
       {
         "id": 230,
-        "name": "MainFeed"
+        "name": "MainFeed",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckR5N3pOdHpheUJzZTNMSjdaSGtHL2VmTkZIV0s0ZElYRkVBcTJnPT0/master.m3u8"
       }
     ]
   },
@@ -77,7 +83,8 @@
     "channels": [
       {
         "id": 20,
-        "name": "RTVS Sport Slovakia"
+        "name": "RTVS Sport Slovakia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y1MlVYR3lOSjNabEVCTDFNdlA5Y0xkQ0ZocU5Sc1ZoU21iS3c9PQ/master.m3u8"
       }
     ]
   },
@@ -99,7 +106,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "ORF Sport Plus"
+        "name": "ORF Sport Plus",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
@@ -121,7 +129,8 @@
     "channels": [
       {
         "id": 573,
-        "name": "Match Premier Russia"
+        "name": "Match Premier Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
       }
     ]
   },
@@ -143,7 +152,8 @@
     "channels": [
       {
         "id": 400,
-        "name": "Digi Sport 1 Romania"
+        "name": "Digi Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
       }
     ]
   },
@@ -165,7 +175,8 @@
     "channels": [
       {
         "id": 558,
-        "name": "Sky Sport Bundesliga 1"
+        "name": "Sky Sport Bundesliga 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NTYnpOdHpheUJzZTNMSjc0Rkp1cU12TjhUYWdEVGRFUElFNjNRPT0/master.m3u8"
       }
     ]
   },
@@ -187,7 +198,8 @@
     "channels": [
       {
         "id": 49,
-        "name": "Sport TV1 Portugal"
+        "name": "Sport TV1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEJUR3hOTjNiaVZoQW12Ly9Fa21CdGVCR0tJZ203VXJmd1JLbw/master.m3u8"
       }
     ]
   },
@@ -209,7 +221,8 @@
     "channels": [
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       }
     ]
   },
@@ -231,7 +244,8 @@
     "channels": [
       {
         "id": 168,
-        "name": "Pro Arena Romania"
+        "name": "Pro Arena Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0NpYnpOdHpheUJzZTNMSjdPYmJiRzRjR3EwNXU1VFprQ1ZhanVBPT0/master.m3u8"
       }
     ]
   },
@@ -253,7 +267,8 @@
     "channels": [
       {
         "id": 2,
-        "name": "Qazsport"
+        "name": "Qazsport",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
       }
     ]
   },
@@ -275,7 +290,8 @@
     "channels": [
       {
         "id": 447,
-        "name": "DAZN3 Spain"
+        "name": "DAZN3 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENDbnpOdHpheUJzZTNMSjc0MUdwSUxPR28vRGlMQzlJOEVZamxBPT0/master.m3u8"
       }
     ]
   },
@@ -297,11 +313,13 @@
     "channels": [
       {
         "id": 445,
-        "name": "DAZN1 Spain"
+        "name": "DAZN1 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENDdnpOdHpheUJzZTNMSjdTcXhmNDByS3lzT1VmRGJnenpFYVpnPT0/master.m3u8"
       },
       {
         "id": 530,
-        "name": "GOL PLAY Spain"
+        "name": "GOL PLAY Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib0NFaUZnY2dhaHQvb3QvbDg3c1JiUFBOMStES0ZXdGJtZmVFMTQ9/master.m3u8"
       }
     ]
   },
@@ -323,15 +341,18 @@
     "channels": [
       {
         "id": 386,
-        "name": "ESPN 2 NL"
+        "name": "ESPN 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJDanpOdHpheUJzZTNMSjcyTW1Ocmc5Z01JMzlKa0tWRXI0ZHBBPT0/master.m3u8"
       },
       {
         "id": 550,
-        "name": "Viaplay Sports 2 UK"
+        "name": "Viaplay Sports 2 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0NTN3pOdHpheUJzZTNMSjdDTW5VSWljMlowbGJEQU8vdm1mSzV3PT0/master.m3u8"
       },
       {
         "id": 410,
-        "name": "Sportsnet World"
+        "name": "Sportsnet World",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERTN3pOdHpheUJzZTNMSjdaY1JyU0dmK3MwbzRMRG12Y0dtNVlBPT0/master.m3u8"
       },
       {
         "id": 430,
@@ -340,7 +361,8 @@
       },
       {
         "id": 799,
-        "name": "Premier Sports 2 Ireland"
+        "name": "Premier Sports 2 Ireland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUJTZnpOdHpheUJzZTNMSjdGMDJjc2Q0RDR5WlFZNjJ4MzRrYmlnPT0/master.m3u8"
       },
       {
         "id": 571,
@@ -349,19 +371,23 @@
       },
       {
         "id": 604,
-        "name": "Dubai Sports 1"
+        "name": "Dubai Sports 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWU9BaUZnY2dhaHQvb3QvbHhHZENVT0VZVnpIdUNWSW82QUo3bFU9/master.m3u8"
       },
       {
         "id": 3,
-        "name": "Polsat Sport Premium 2 Poland"
+        "name": "Polsat Sport Premium 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
       },
       {
         "id": 926,
-        "name": "ESPN2 Mexico"
+        "name": "ESPN2 Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dkUzT3pOZHlheWdZRzEya3ZOL0g4L3R2Z2cwbXJQOWs3NUhjPQ/master.m3u8"
       },
       {
         "id": 471,
-        "name": "Ring bg"
+        "name": "Ring bg",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5L3pOdHpheUJzZTNMSjduRUo5bmZORXFST0JneVpzSllyZjNRPT0/master.m3u8"
       }
     ]
   },
@@ -383,7 +409,8 @@
     "channels": [
       {
         "id": 379,
-        "name": "ESPN 1 NL"
+        "name": "ESPN 1 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5ZnpOdHpheUJzZTNMSjdxWEhRVTNnOHVoY0oxbE5GMDFmNHJnPT0/master.m3u8"
       }
     ]
   },
@@ -405,11 +432,13 @@
     "channels": [
       {
         "id": 259,
-        "name": "Canal+ Sport 3 Poland"
+        "name": "Canal+ Sport 3 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckNTZnpOdHpheUJzZTNMSjdwWFFrbDNRNE5JQWpGTDBXbWtxYlNBPT0/master.m3u8"
       },
       {
         "id": 567,
-        "name": "Canal+ 360 Poland"
+        "name": "Canal+ 360 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib1dEaUZnY2dhaHQvb3QvbDhIa0NBWWwvYVlIeExJYVRNK1lnQ0U9/master.m3u8"
       },
       {
         "id": 433,
@@ -418,7 +447,8 @@
       },
       {
         "id": 431,
-        "name": "Arena Sport 3 Serbia"
+        "name": "Arena Sport 3 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdER5L3pOdHpheUJzZTNMSjcrZGdpSGxUWi94dXN1MGNCMFdGSVRRPT0/master.m3u8"
       }
     ]
   },
@@ -440,7 +470,8 @@
     "channels": [
       {
         "id": 36,
-        "name": "Sky Sports+"
+        "name": "Sky Sports+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNqR3hOTjNiaVZoQW12OTNyNGhWNjFsckhucXpZL3BvaG5Sbw/master.m3u8"
       }
     ]
   },
@@ -467,7 +498,8 @@
       },
       {
         "id": 411,
-        "name": "Sportsnet One"
+        "name": "Sportsnet One",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERTL3pOdHpheUJzZTNMSjcvVW8yTTcrSTg0ZklZZkl2b3BuUHZBPT0/master.m3u8"
       },
       {
         "id": 377,
@@ -476,11 +508,13 @@
       },
       {
         "id": 38,
-        "name": "Sky Sports Main Event UK"
+        "name": "Sky Sports Main Event UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
         "id": 591,
-        "name": "Sky Sport 4 NZ"
+        "name": "Sky Sport 4 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
       },
       {
         "id": 640,
@@ -489,7 +523,8 @@
       },
       {
         "id": 682,
-        "name": "Sky Showcase UK"
+        "name": "Sky Showcase UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkJDenpOdHpheUJzZTNMSjdPUnRQVTg1YmdHWHhOTW5sSjdYT1FRPT0/master.m3u8"
       },
       {
         "id": 81,
@@ -684,55 +719,68 @@
     "channels": [
       {
         "id": 877,
-        "name": "DAZN Zona IT"
+        "name": "DAZN Zona IT",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcVBsdUUzT3pOZHlheWdZRzE3Y3lmamVhS2pHRjd4cERkblc5Umo4PQ/master.m3u8"
       },
       {
         "id": 910,
-        "name": "CBS Sports Golazo"
+        "name": "CBS Sports Golazo",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
       },
       {
         "id": 426,
-        "name": "DAZN1 DE"
+        "name": "DAZN1 DE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERpanpOdHpheUJzZTNMSjcvSmdLTFBRWHN1TENudkVxZFNjdUJRPT0/master.m3u8"
       },
       {
         "id": 74,
-        "name": "Sport TV2 Portugal"
+        "name": "Sport TV2 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSWVieWxvZGdPa3VvTTB5bWJDVkZqbU9IWWJBdXZkYWdTSkVxUT09/master.m3u8"
       },
       {
         "id": 71,
-        "name": "Eleven Sports 1 Poland"
+        "name": "Eleven Sports 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURUR3hOTjNiaVZoQW12OHRudGU4MHlSc0pRQit3aFo1T0JHeA/master.m3u8"
       },
       {
         "id": 403,
-        "name": "Digi Sport 4 Romania"
+        "name": "Digi Sport 4 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cUUzT3pOZHlheWdZRzF6d254OTYzaFVIaEtPWmhucGR5N2VZPQ/master.m3u8"
       },
       {
         "id": 584,
-        "name": "Prima Sport 2 Romania"
+        "name": "Prima Sport 2 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VBaUZnY2dhaHQvb3QvbDh6ck9SYWs3Y0w2M3VGaXJpaFJ3UWs9/master.m3u8"
       },
       {
         "id": 136,
-        "name": "Match! Football 1 Russia"
+        "name": "Match! Football 1 Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5anpOdHpheUJzZTNMSjd6emIrZ21memJVYS9xZC80MlcrL3FnPT0/master.m3u8"
       },
       {
         "id": 398,
-        "name": "Ziggo Sport 2 NL"
+        "name": "Ziggo Sport 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJTYnpOdHpheUJzZTNMSjdtOE41Z2FPOERGN3FDWTVkYjJPeE13PT0/master.m3u8"
       },
       {
         "id": 925,
-        "name": "ESPN Mexico"
+        "name": "ESPN Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4c0UzT3pOZHlheWdZRzEzQ1hGc3ZWQUYzOVVXRkd1SllWeUU0PQ/master.m3u8"
       },
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 747,
-        "name": "TV4 Fotball"
+        "name": "TV4 Fotball",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC9wdUUzT3pOZHlheWdZRzExakJ5aHI2eHJiY25HMjNyOGRNTmlZPQ/master.m3u8"
       },
       {
         "id": 432,
-        "name": "Arena Sport 1 Croatia"
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
       },
       {
         "id": 474,
@@ -741,11 +789,13 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 56,
-        "name": "SuperSport Football"
+        "name": "SuperSport Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NqR3hOTjNiaVZoQW12OUUzOG9odUtSbkpkN2l1UFQyMml3YQ/master.m3u8"
       }
     ]
   },
@@ -812,7 +862,8 @@
     "channels": [
       {
         "id": 558,
-        "name": "Sky Sport Bundesliga 1"
+        "name": "Sky Sport Bundesliga 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NTYnpOdHpheUJzZTNMSjc0Rkp1cU12TjhUYWdEVGRFUElFNjNRPT0/master.m3u8"
       }
     ]
   },
@@ -839,7 +890,8 @@
       },
       {
         "id": 176,
-        "name": "ESPN Select"
+        "name": "ESPN Select",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0N5anpOdHpheUJzZTNMSjdlcnd2TkN2YWw1MTV5dnFzZElzUEx3PT0/master.m3u8"
       }
     ]
   },
@@ -927,11 +979,13 @@
       },
       {
         "id": 107,
-        "name": "Sky Sport 258 IT"
+        "name": "Sky Sport 258 IT",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDbnpOdHpheUJzZTNMSjdTa3dnTkwwemRKVWdjTGtOQlYycll3PT0/master.m3u8"
       },
       {
         "id": 497,
-        "name": "beIN Sports MAX 7 France"
+        "name": "beIN Sports MAX 7 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTbnpOdHpheUJzZTNMSjdzdFpybldIdEJ5RUhOMVVFUU1JVjdBPT0/master.m3u8"
       },
       {
         "id": 9,
@@ -940,15 +994,18 @@
       },
       {
         "id": 103,
-        "name": "Sportklub 3 Croatia"
+        "name": "Sportklub 3 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
       },
       {
         "id": 633,
-        "name": "Nova Sports 3 Greece"
+        "name": "Nova Sports 3 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUNIaUZnY2dhaHQvb3QvbHhUK25TeUovTlVCSUpFQ2pUUHJMUEU9/master.m3u8"
       },
       {
         "id": 143,
-        "name": "Sport 4 Israel"
+        "name": "Sport 4 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDM3pOdHpheUJzZTNMSjdOTnhRTVVvaXRJQ2NlQ0dnVE1DOFNBPT0/master.m3u8"
       }
     ]
   },
@@ -970,7 +1027,8 @@
     "channels": [
       {
         "id": 573,
-        "name": "Match Premier Russia"
+        "name": "Match Premier Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
       },
       {
         "id": 135,
@@ -997,7 +1055,8 @@
     "channels": [
       {
         "id": 10,
-        "name": "Magenta Sport 301"
+        "name": "Magenta Sport 301",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1MlVYR3lOSjNabEVCTENQQUEwRGlnM050ZVNwaDBudURIOUE9PQ/master.m3u8"
       }
     ]
   },
@@ -1019,7 +1078,8 @@
     "channels": [
       {
         "id": 175,
-        "name": "ETV 2 Estonia"
+        "name": "ETV 2 Estonia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0N5dnpOdHpheUJzZTNMSjdTOCtFakFyZ3ZtUC8xeWlFbVF4QUFRPT0/master.m3u8"
       }
     ]
   },
@@ -1041,7 +1101,8 @@
     "channels": [
       {
         "id": 779,
-        "name": "MAX Sport 1 Croatia"
+        "name": "MAX Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSVNOaUZnY2dhaHQvb3QvbDgvczZ3VEYySlA3cHNVaWlVU0graE09/master.m3u8"
       }
     ]
   },
@@ -1063,7 +1124,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "Blue Sport 1 Live"
+        "name": "Blue Sport 1 Live",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       }
     ]
   },
@@ -1108,7 +1170,8 @@
     "channels": [
       {
         "id": 12,
-        "name": "Discovery+"
+        "name": "Discovery+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Z4MlVYR3lOSjNabEVCTDh6UFNXZ0h6ZGJ4Y2JUS0pJUEpKbkE9PQ/master.m3u8"
       }
     ]
   },
@@ -1130,15 +1193,18 @@
     "channels": [
       {
         "id": 13,
-        "name": "Discovery+"
+        "name": "Discovery+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2YxMlVYR3lOSjNabEVCTGp0STdIeDFhb1EvZGZ1ZjMvL3NPcUE9PQ/master.m3u8"
       },
       {
         "id": 14,
-        "name": "Kanal 5 Sweden"
+        "name": "Kanal 5 Sweden",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZwMlVYR3lOSjNabEVCTFBYZWx4RW9IamhWYUJjMlA0c1hiSlE9PQ/master.m3u8"
       },
       {
         "id": 581,
-        "name": "Arena Sport 4 Serbia"
+        "name": "Arena Sport 4 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDL3pOdHpheUJzZTNMSjdFZERGMGNhZkw0YWxBZlpLaFJ5dFZnPT0/master.m3u8"
       }
     ]
   },
@@ -1160,7 +1226,8 @@
     "channels": [
       {
         "id": 15,
-        "name": "Blue Sport 3 Live"
+        "name": "Blue Sport 3 Live",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Z0MlVYR3lOSjNabEVCTFFKWk1nVmF1V3FiYkZoanhQY3ljRVE9PQ/master.m3u8"
       }
     ]
   },
@@ -1205,15 +1272,18 @@
     "channels": [
       {
         "id": 84,
-        "name": "M+ LALIGA TV"
+        "name": "M+ LALIGA TV",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaENER3hOTjNiaVZoQW12OHVPcm9ORTFyeHhieUQ0THFEZi84WQ/master.m3u8"
       },
       {
         "id": 276,
-        "name": "LaLiga TV UK"
+        "name": "LaLiga TV UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckN5anpOdHpheUJzZTNMSjdZd1FPRGdJa0VZQ3I0aGNyTzZVakZnPT0/master.m3u8"
       },
       {
         "id": 451,
-        "name": "Viaplay Sports 1 UK"
+        "name": "Viaplay Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTL3pOdHpheUJzZTNMSjdybzlTWENDS0FoZVhIeGJhMy84VUZRPT0/master.m3u8"
       },
       {
         "id": 1024,
@@ -1226,7 +1296,8 @@
       },
       {
         "id": 455,
-        "name": "DAZN Eleven 1 Portugal"
+        "name": "DAZN Eleven 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdENTdnpOdHpheUJzZTNMSjdnOXBHTmtpWk01SjBhV3FDNndUWWx3PT0/master.m3u8"
       },
       {
         "id": 17,
@@ -1245,7 +1316,8 @@
       },
       {
         "id": 400,
-        "name": "Digi Sport 1 Romania"
+        "name": "Digi Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
       },
       {
         "id": 583,
@@ -1294,15 +1366,18 @@
       },
       {
         "id": 475,
-        "name": "MAX Sport 4 Bulgaria"
+        "name": "MAX Sport 4 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5dnpOdHpheUJzZTNMSjdZUWZud25Eak5FV0pyaDROU0g0MFNnPT0/master.m3u8"
       },
       {
         "id": 415,
-        "name": "SuperSport Laliga"
+        "name": "SuperSport Laliga",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTdnpOdHpheUJzZTNMSjc1a0FadGU4RVpacFpVUXZ2SCs5UEJ3PT0/master.m3u8"
       },
       {
         "id": 93,
-        "name": "beIN Sports MENA 3"
+        "name": "beIN Sports MENA 3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0NieWxvZGdPa3VvTTB5c016ckJHeHd2eDgwWDBPMVpWc056Zz09/master.m3u8"
       }
     ]
   },
@@ -1324,7 +1399,8 @@
     "channels": [
       {
         "id": 174,
-        "name": "Azam Sports 4 HD"
+        "name": "Azam Sports 4 HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0N5cnpOdHpheUJzZTNMSjdOUTVzTGdHOTllV1doeUtsbTM1ZDhRPT0/master.m3u8"
       }
     ]
   },
@@ -1346,7 +1422,8 @@
     "channels": [
       {
         "id": 809,
-        "name": "TV3 Sport Denmark"
+        "name": "TV3 Sport Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERDZnpOdHpheUJzZTNMSjdYQWlrWFNYeGo1VUN5KzBLNkhBbXZ3PT0/master.m3u8"
       }
     ]
   },
@@ -1368,7 +1445,8 @@
     "channels": [
       {
         "id": 465,
-        "name": "Diema Sport Bulgaria"
+        "name": "Diema Sport Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpdnpOdHpheUJzZTNMSjdlR0Z3SXBrRVljZUM0QVpXTlVUUnJnPT0/master.m3u8"
       }
     ]
   },
@@ -1390,7 +1468,8 @@
     "channels": [
       {
         "id": 18,
-        "name": "Duna World Hungary"
+        "name": "Duna World Hungary",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZaMlVYR3lOSjNabEVCTFkvOUsrTjN1ZVVkVzFET0NacXIrVmc9PQ/master.m3u8"
       }
     ]
   },
@@ -1412,7 +1491,8 @@
     "channels": [
       {
         "id": 19,
-        "name": "Astro Arena Bola"
+        "name": "Astro Arena Bola",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZkMlVYR3lOSjNabEVCTEhoNmp2Y0ZIcmZUWHgrYjh1YU81WWc9PQ/master.m3u8"
       }
     ]
   },
@@ -1434,7 +1514,8 @@
     "channels": [
       {
         "id": 559,
-        "name": "Sky Sport Austria 1"
+        "name": "Sky Sport Austria 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NTZnpOdHpheUJzZTNMSjdUb01JUHlza0ZtTWlCbmxjWi93QU9BPT0/master.m3u8"
       }
     ]
   },
@@ -1456,7 +1537,8 @@
     "channels": [
       {
         "id": 20,
-        "name": "Sky Sport Austria 2"
+        "name": "Sky Sport Austria 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y1MlVYR3lOSjNabEVCTDFNdlA5Y0xkQ0ZocU5Sc1ZoU21iS3c9PQ/master.m3u8"
       }
     ]
   },
@@ -1478,7 +1560,8 @@
     "channels": [
       {
         "id": 21,
-        "name": "Sky Sport Austria 3"
+        "name": "Sky Sport Austria 3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y5MlVYR3lOSjNabEVCTHFTb21zTjUwM092ckpzNXJXaURjSHc9PQ/master.m3u8"
       }
     ]
   },
@@ -1500,15 +1583,18 @@
     "channels": [
       {
         "id": 888,
-        "name": "ESPN 3 NL"
+        "name": "ESPN 3 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaEJDYnpOdHpheUJzZTNMSjc2ZjN6K0dHV2FBTXg2eVh3QTlVVWJ3PT0/master.m3u8"
       },
       {
         "id": 410,
-        "name": "Sportsnet World"
+        "name": "Sportsnet World",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERTN3pOdHpheUJzZTNMSjdaY1JyU0dmK3MwbzRMRG12Y0dtNVlBPT0/master.m3u8"
       },
       {
         "id": 530,
-        "name": "GOL PLAY Spain"
+        "name": "GOL PLAY Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib0NFaUZnY2dhaHQvb3QvbDg3c1JiUFBOMStES0ZXdGJtZmVFMTQ9/master.m3u8"
       },
       {
         "id": 571,
@@ -1517,19 +1603,23 @@
       },
       {
         "id": 22,
-        "name": "Polsat Sport Premium 1 Poland"
+        "name": "Polsat Sport Premium 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Z4MlVYR3lOSjNabEVCTEx3Z2RmL3VPb1Q5b0VySG9PenNWUXc9PQ/master.m3u8"
       },
       {
         "id": 124,
-        "name": "Astro Football"
+        "name": "Astro Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpcnpOdHpheUJzZTNMSjdtZUlxZUtSeldyeGJxaCtxUzZBSWtBPT0/master.m3u8"
       },
       {
         "id": 926,
-        "name": "ESPN2 Mexico"
+        "name": "ESPN2 Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dkUzT3pOZHlheWdZRzEya3ZOL0g4L3R2Z2cwbXJQOWs3NUhjPQ/master.m3u8"
       },
       {
         "id": 604,
-        "name": "Dubai Sports 1"
+        "name": "Dubai Sports 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWU9BaUZnY2dhaHQvb3QvbHhHZENVT0VZVnpIdUNWSW82QUo3bFU9/master.m3u8"
       },
       {
         "id": 637,
@@ -1538,11 +1628,13 @@
       },
       {
         "id": 431,
-        "name": "Arena Sport 3 Serbia"
+        "name": "Arena Sport 3 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdER5L3pOdHpheUJzZTNMSjcrZGdpSGxUWi94dXN1MGNCMFdGSVRRPT0/master.m3u8"
       },
       {
         "id": 471,
-        "name": "Ring bg"
+        "name": "Ring bg",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5L3pOdHpheUJzZTNMSjduRUo5bmZORXFST0JneVpzSllyZjNRPT0/master.m3u8"
       }
     ]
   },
@@ -1564,7 +1656,8 @@
     "channels": [
       {
         "id": 379,
-        "name": "ESPN 1 NL"
+        "name": "ESPN 1 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5ZnpOdHpheUJzZTNMSjdxWEhRVTNnOHVoY0oxbE5GMDFmNHJnPT0/master.m3u8"
       }
     ]
   },
@@ -1586,7 +1679,8 @@
     "channels": [
       {
         "id": 23,
-        "name": "CBC Sport Azerbaijan"
+        "name": "CBC Sport Azerbaijan",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3YxMlVYR3lOSjNabEVCTFV1bjBPdWNuZFl6cEFXU1c1REpTZHc9PQ/master.m3u8"
       }
     ]
   },
@@ -1608,7 +1702,8 @@
     "channels": [
       {
         "id": 259,
-        "name": "Canal+ Sport 3 Poland"
+        "name": "Canal+ Sport 3 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckNTZnpOdHpheUJzZTNMSjdwWFFrbDNRNE5JQWpGTDBXbWtxYlNBPT0/master.m3u8"
       },
       {
         "id": 944,
@@ -1658,7 +1753,8 @@
     "channels": [
       {
         "id": 24,
-        "name": "Tabii Spor 6 Turkey"
+        "name": "Tabii Spor 6 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZwMlVYR3lOSjNabEVCTDRVeHE0YkI2V3BadWVrN3UrUXlIK2c9PQ/master.m3u8"
       }
     ]
   },
@@ -1726,7 +1822,8 @@
     "channels": [
       {
         "id": 27,
-        "name": "Sport TV+ Portugal"
+        "name": "Sport TV+ Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZsMlVYR3lOSjNabEVCTFoyNVJMcFdBSjBMdFRqRnRtQmRPcGc9PQ/master.m3u8"
       }
     ]
   },
@@ -1771,7 +1868,8 @@
     "channels": [
       {
         "id": 2,
-        "name": "Qazsport"
+        "name": "Qazsport",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
       }
     ]
   },
@@ -1793,7 +1891,8 @@
     "channels": [
       {
         "id": 55,
-        "name": "Azam Sports HD"
+        "name": "Azam Sports HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       }
     ]
   },
@@ -1815,31 +1914,38 @@
     "channels": [
       {
         "id": 29,
-        "name": "Hub Premier"
+        "name": "Hub Premier",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZkMlVYR3lOSjNabEVCTHdpVnNtRHM2ZVhmanVHV2RvbXJsdlE9PQ/master.m3u8"
       },
       {
         "id": 343,
-        "name": "USA Network"
+        "name": "USA Network",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby9wcUUzT3pOZHlheWdZRzF3TTUxT3R2dllhUXlmZ3h6THlIaytjPQ/master.m3u8"
       },
       {
         "id": 38,
-        "name": "Sky Sports Main Event UK"
+        "name": "Sky Sports Main Event UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
         "id": 130,
-        "name": "Sky Sports Premier League UK"
+        "name": "Sky Sports Premier League UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhb0NFaUZnY2dhaHQvb3QvbDJ1QzF2WlZhTndrdFFPbFExKy9mcW89/master.m3u8"
       },
       {
         "id": 595,
-        "name": "Sky Sport 8 NZ"
+        "name": "Sky Sport 8 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FCaUZnY2dhaHQvb3QvbC9CU2NlblJXak9OMSsvUWVhRVVsMG89/master.m3u8"
       },
       {
         "id": 64,
-        "name": "beIN Sports 3 Turkey"
+        "name": "beIN Sports 3 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdkNER3hOTjNiaVZoQW12OXZxc1RhUXBSS1BCcFdaY1ZEZ2N2cg/master.m3u8"
       },
       {
         "id": 445,
-        "name": "DAZN1 Spain"
+        "name": "DAZN1 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENDdnpOdHpheUJzZTNMSjdTcXhmNDByS3lzT1VmRGJnenpFYVpnPT0/master.m3u8"
       },
       {
         "id": 30,
@@ -1873,7 +1979,8 @@
       },
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 59,
@@ -1891,7 +1998,8 @@
       },
       {
         "id": 432,
-        "name": "Arena Sport 1 Croatia"
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
       },
       {
         "id": 466,
@@ -1900,27 +2008,33 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 414,
-        "name": "SuperSport Premier League"
+        "name": "SuperSport Premier League",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTcnpOdHpheUJzZTNMSjdTSkYvSWcvdGdzL2JXa1gzUkpKMTRnPT0/master.m3u8"
       },
       {
         "id": 91,
-        "name": "beIN Sports MENA 1"
+        "name": "beIN Sports MENA 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0tieWxvZGdPa3VvTTB5Q09wY1RjNjlrTjdua2VpeGM4YzllQT09/master.m3u8"
       },
       {
         "id": 61,
-        "name": "beIN Sports MENA English 1"
+        "name": "beIN Sports MENA English 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkRUR3hOTjNiaVZoQW12OGxDVGRWTkhIdUxrNW1tV3REM2ZXbQ/master.m3u8"
       },
       {
         "id": 488,
-        "name": "Canal+ Sport 3 Afrique"
+        "name": "Canal+ Sport 3 Afrique",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJDYnpOdHpheUJzZTNMSjdYdzM1SlMzWTNLZVNFOWZVWm1LRG5nPT0/master.m3u8"
       },
       {
         "id": 92,
-        "name": "beIN Sports MENA 2"
+        "name": "beIN Sports MENA 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0dieWxvZGdPa3VvTTB5N04rd29MMFdLUC9kdUJZM2JoVVZsUT09/master.m3u8"
       },
       {
         "id": 140,
@@ -1947,15 +2061,18 @@
     "channels": [
       {
         "id": 76,
-        "name": "DAZN France"
+        "name": "DAZN France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdUNqR3hOTjNiaVZoQW12OWpyekFlVHBERXF6Q1VpNVlLbktnTg/master.m3u8"
       },
       {
         "id": 425,
-        "name": "beIN SPORTS USA"
+        "name": "beIN SPORTS USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERpdnpOdHpheUJzZTNMSjdLNlFVVFFZR2tGZmRudUtqU0NJS0J3PT0/master.m3u8"
       },
       {
         "id": 372,
-        "name": "beIN SPORTS en Español"
+        "name": "beIN SPORTS en Español",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5enpOdHpheUJzZTNMSjdvSWxQVkY1SnFVV2ZrZkd2NVRsZ3J3PT0/master.m3u8"
       },
       {
         "id": 454,
@@ -1969,11 +2086,13 @@
       },
       {
         "id": 468,
-        "name": "Nova Sport Bulgaria"
+        "name": "Nova Sport Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpYnpOdHpheUJzZTNMSjdFMzY0VmYwRklXZ1luQUR0MkNUWDh3PT0/master.m3u8"
       },
       {
         "id": 487,
-        "name": "Canal+ Sport 2 Afrique"
+        "name": "Canal+ Sport 2 Afrique",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJDbnpOdHpheUJzZTNMSjdxN0Q4ZllnS1VxTU1lVTFmUGZqd0NBPT0/master.m3u8"
       },
       {
         "id": 94,
@@ -1982,7 +2101,8 @@
       },
       {
         "id": 144,
-        "name": "5Sport Israel"
+        "name": "5Sport Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDcnpOdHpheUJzZTNMSjcrT3BoMXVpL0FDZ1NTTXZwekxNWThRPT0/master.m3u8"
       }
     ]
   },
@@ -2009,11 +2129,13 @@
       },
       {
         "id": 179,
-        "name": "Paramount+"
+        "name": "Paramount+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0N5ZnpOdHpheUJzZTNMSjdYaEdrV1dXOHRVb00reVFlZGg1YnJBPT0/master.m3u8"
       },
       {
         "id": 72,
-        "name": "Eleven Sports 2 Poland"
+        "name": "Eleven Sports 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURqR3hOTjNiaVZoQW12OEdOVytkNlEyU294MnM2dnYrZHorZA/master.m3u8"
       },
       {
         "id": 138,
@@ -2022,7 +2144,8 @@
       },
       {
         "id": 402,
-        "name": "Digi Sport 3 Romania"
+        "name": "Digi Sport 3 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1ckUzT3pOZHlheWdZRzF6U3dKemRRME1QcVp2NDY0NjJYQ2ZFPQ/master.m3u8"
       },
       {
         "id": 585,
@@ -2031,11 +2154,13 @@
       },
       {
         "id": 429,
-        "name": "Arena Sport 1 Serbia"
+        "name": "Arena Sport 1 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERpZnpOdHpheUJzZTNMSjcyRFdCUWJweGtEVzNyeStZZDdKNmhnPT0/master.m3u8"
       },
       {
         "id": 703,
-        "name": "TV4 Sport Live 1"
+        "name": "TV4 Sport Live 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdURDM3pOdHpheUJzZTNMSjdZalpOeHI1QzdyTVZFWnZESm5kenFnPT0/master.m3u8"
       },
       {
         "id": 141,
@@ -2062,43 +2187,53 @@
     "channels": [
       {
         "id": 877,
-        "name": "DAZN Zona IT"
+        "name": "DAZN Zona IT",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcVBsdUUzT3pOZHlheWdZRzE3Y3lmamVhS2pHRjd4cERkblc5Umo4PQ/master.m3u8"
       },
       {
         "id": 910,
-        "name": "CBS Sports Golazo"
+        "name": "CBS Sports Golazo",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
       },
       {
         "id": 74,
-        "name": "Sport TV2 Portugal"
+        "name": "Sport TV2 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSWVieWxvZGdPa3VvTTB5bWJDVkZqbU9IWWJBdXZkYWdTSkVxUT09/master.m3u8"
       },
       {
         "id": 71,
-        "name": "Eleven Sports 1 Poland"
+        "name": "Eleven Sports 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURUR3hOTjNiaVZoQW12OHRudGU4MHlSc0pRQit3aFo1T0JHeA/master.m3u8"
       },
       {
         "id": 398,
-        "name": "Ziggo Sport 2 NL"
+        "name": "Ziggo Sport 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJTYnpOdHpheUJzZTNMSjdtOE41Z2FPOERGN3FDWTVkYjJPeE13PT0/master.m3u8"
       },
       {
         "id": 136,
-        "name": "Match! Football 1 Russia"
+        "name": "Match! Football 1 Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5anpOdHpheUJzZTNMSjd6emIrZ21memJVYS9xZC80MlcrL3FnPT0/master.m3u8"
       },
       {
         "id": 403,
-        "name": "Digi Sport 4 Romania"
+        "name": "Digi Sport 4 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cUUzT3pOZHlheWdZRzF6d254OTYzaFVIaEtPWmhucGR5N2VZPQ/master.m3u8"
       },
       {
         "id": 643,
-        "name": "FOX Deportes"
+        "name": "FOX Deportes",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8"
       },
       {
         "id": 927,
-        "name": "ESPN3 Mexico"
+        "name": "ESPN3 Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dUUzT3pOZHlheWdZRzEyRzQxeGdicTFucnpWSHdRdVBlQUdBPQ/master.m3u8"
       },
       {
         "id": 747,
-        "name": "TV4 Fotball"
+        "name": "TV4 Fotball",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC9wdUUzT3pOZHlheWdZRzExakJ5aHI2eHJiY25HMjNyOGRNTmlZPQ/master.m3u8"
       },
       {
         "id": 86,
@@ -2132,7 +2267,8 @@
       },
       {
         "id": 56,
-        "name": "SuperSport Football"
+        "name": "SuperSport Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NqR3hOTjNiaVZoQW12OUUzOG9odUtSbkpkN2l1UFQyMml3YQ/master.m3u8"
       }
     ]
   },
@@ -2386,7 +2522,8 @@
       },
       {
         "id": 103,
-        "name": "Sportklub 3 Croatia"
+        "name": "Sportklub 3 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
       },
       {
         "id": 886,
@@ -2410,7 +2547,8 @@
       },
       {
         "id": 143,
-        "name": "Sport 4 Israel"
+        "name": "Sport 4 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDM3pOdHpheUJzZTNMSjdOTnhRTVVvaXRJQ2NlQ0dnVE1DOFNBPT0/master.m3u8"
       }
     ]
   },
@@ -2432,11 +2570,13 @@
     "channels": [
       {
         "id": 591,
-        "name": "Sky Sport 4 NZ"
+        "name": "Sky Sport 4 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
       },
       {
         "id": 411,
-        "name": "Sportsnet One"
+        "name": "Sportsnet One",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERTL3pOdHpheUJzZTNMSjcvVW8yTTcrSTg0ZklZZkl2b3BuUHZBPT0/master.m3u8"
       },
       {
         "id": 640,
@@ -2445,7 +2585,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       },
       {
         "id": 418,
@@ -2472,7 +2613,8 @@
     "channels": [
       {
         "id": 308,
-        "name": "CBS Sports Network USA"
+        "name": "CBS Sports Network USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8"
       },
       {
         "id": 35,
@@ -2481,11 +2623,13 @@
       },
       {
         "id": 291,
-        "name": "Sport TV6 Portugal"
+        "name": "Sport TV6 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOckJTL3pOdHpheUJzZTNMSjc0MEYrbVhCa1dPZXZYU3BiQlpEVHdnPT0/master.m3u8"
       },
       {
         "id": 3,
-        "name": "Polsat Sport Premium 2 Poland"
+        "name": "Polsat Sport Premium 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
       },
       {
         "id": 940,
@@ -2494,7 +2638,8 @@
       },
       {
         "id": 471,
-        "name": "Ring bg"
+        "name": "Ring bg",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5L3pOdHpheUJzZTNMSjduRUo5bmZORXFST0JneVpzSllyZjNRPT0/master.m3u8"
       }
     ]
   },
@@ -2516,7 +2661,8 @@
     "channels": [
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       }
     ]
   },
@@ -2561,7 +2707,8 @@
     "channels": [
       {
         "id": 181,
-        "name": "NRK 1 Norway"
+        "name": "NRK 1 Norway",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Zab0UzT3pOZHlheWdZRzF4TkJNelJmR0duK1FJVHZ3Ym5TcFZrPQ/master.m3u8"
       }
     ]
   },
@@ -2583,7 +2730,8 @@
     "channels": [
       {
         "id": 622,
-        "name": "Cosmote Sport 1 Greece"
+        "name": "Cosmote Sport 1 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUdHaUZnY2dhaHQvb3QvbHloSDFkUDhTeVIyS1ord1dycXVlckk9/master.m3u8"
       },
       {
         "id": 101,
@@ -2633,7 +2781,8 @@
     "channels": [
       {
         "id": 62,
-        "name": "beIN Sports 1 Turkey"
+        "name": "beIN Sports 1 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdkRqR3hOTjNiaVZoQW12ODQvYlNZTnNlM01DSHlOQjVOSDVleg/master.m3u8"
       }
     ]
   },
@@ -2655,7 +2804,8 @@
     "channels": [
       {
         "id": 779,
-        "name": "MAX Sport 1 Croatia"
+        "name": "MAX Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSVNOaUZnY2dhaHQvb3QvbDgvczZ3VEYySlA3cHNVaWlVU0graE09/master.m3u8"
       }
     ]
   },
@@ -2677,7 +2827,8 @@
     "channels": [
       {
         "id": 184,
-        "name": "ON Time Sports Egypt"
+        "name": "ON Time Sports Egypt",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZadEUzT3pOZHlheWdZRzF6bUpVSG9sRytQWU52M1pTR2lnMFJJPQ/master.m3u8"
       }
     ]
   },
@@ -2699,11 +2850,13 @@
     "channels": [
       {
         "id": 573,
-        "name": "Match Premier Russia"
+        "name": "Match Premier Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
       },
       {
         "id": 943,
-        "name": "Arena Sport 8 Serbia"
+        "name": "Arena Sport 8 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZwcUUzT3pOZHlheWdZRzF5MmxJT3g3OFdwaXBPdVRLRlFSNGhNPQ/master.m3u8"
       }
     ]
   },
@@ -2725,7 +2878,8 @@
     "channels": [
       {
         "id": 581,
-        "name": "Arena Sport 4 Serbia"
+        "name": "Arena Sport 4 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDL3pOdHpheUJzZTNMSjdFZERGMGNhZkw0YWxBZlpLaFJ5dFZnPT0/master.m3u8"
       }
     ]
   },
@@ -2747,7 +2901,8 @@
     "channels": [
       {
         "id": 808,
-        "name": "TV2 Sport X Denmark"
+        "name": "TV2 Sport X Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZNE9NaUZnY2dhaHQvb3QvbDY5aElweFNZTGNjVlp6ek9HenRwaEU9/master.m3u8"
       }
     ]
   },
@@ -2769,7 +2924,8 @@
     "channels": [
       {
         "id": 447,
-        "name": "DAZN3 Spain"
+        "name": "DAZN3 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENDbnpOdHpheUJzZTNMSjc0MUdwSUxPR28vRGlMQzlJOEVZamxBPT0/master.m3u8"
       }
     ]
   },
@@ -2814,7 +2970,8 @@
     "channels": [
       {
         "id": 183,
-        "name": "LALIGA TV Hypermotion"
+        "name": "LALIGA TV Hypermotion",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZacUUzT3pOZHlheWdZRzF3SnU4dWVSczIzbzNMUlpPOHdaYlhjPQ/master.m3u8"
       }
     ]
   },
@@ -2841,11 +2998,13 @@
       },
       {
         "id": 276,
-        "name": "LaLiga TV UK"
+        "name": "LaLiga TV UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckN5anpOdHpheUJzZTNMSjdZd1FPRGdJa0VZQ3I0aGNyTzZVakZnPT0/master.m3u8"
       },
       {
         "id": 451,
-        "name": "Viaplay Sports 1 UK"
+        "name": "Viaplay Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTL3pOdHpheUJzZTNMSjdybzlTWENDS0FoZVhIeGJhMy84VUZRPT0/master.m3u8"
       },
       {
         "id": 1024,
@@ -2858,7 +3017,8 @@
       },
       {
         "id": 455,
-        "name": "DAZN Eleven 1 Portugal"
+        "name": "DAZN Eleven 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdENTdnpOdHpheUJzZTNMSjdnOXBHTmtpWk01SjBhV3FDNndUWWx3PT0/master.m3u8"
       },
       {
         "id": 73,
@@ -2872,7 +3032,8 @@
       },
       {
         "id": 499,
-        "name": "beIN Sports MAX 9 France"
+        "name": "beIN Sports MAX 9 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTZnpOdHpheUJzZTNMSjc2TG9JVWlUV2JuQWJWb0dYUUNWY253PT0/master.m3u8"
       },
       {
         "id": 712,
@@ -2896,7 +3057,8 @@
       },
       {
         "id": 638,
-        "name": "Nova Sports Prime Greece"
+        "name": "Nova Sports Prime Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUNNaUZnY2dhaHQvb3QvbHpSUU1oMUNCRW9HQnVRUjM2V3NqaHM9/master.m3u8"
       },
       {
         "id": 434,
@@ -2905,15 +3067,18 @@
       },
       {
         "id": 704,
-        "name": "TV4 Sport Live 2"
+        "name": "TV4 Sport Live 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdURDcnpOdHpheUJzZTNMSjdyZ0I4SVJ6ZldodWJJWEdLcGdUWEV3PT0/master.m3u8"
       },
       {
         "id": 475,
-        "name": "MAX Sport 4 Bulgaria"
+        "name": "MAX Sport 4 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5dnpOdHpheUJzZTNMSjdZUWZud25Eak5FV0pyaDROU0g0MFNnPT0/master.m3u8"
       },
       {
         "id": 415,
-        "name": "SuperSport Laliga"
+        "name": "SuperSport Laliga",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTdnpOdHpheUJzZTNMSjc1a0FadGU4RVpacFpVUXZ2SCs5UEJ3PT0/master.m3u8"
       }
     ]
   },
@@ -2935,7 +3100,8 @@
     "channels": [
       {
         "id": 49,
-        "name": "Sport TV1 Portugal"
+        "name": "Sport TV1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEJUR3hOTjNiaVZoQW12Ly9Fa21CdGVCR0tJZ203VXJmd1JLbw/master.m3u8"
       }
     ]
   },
@@ -2957,7 +3123,8 @@
     "channels": [
       {
         "id": 465,
-        "name": "Diema Sport Bulgaria"
+        "name": "Diema Sport Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpdnpOdHpheUJzZTNMSjdlR0Z3SXBrRVljZUM0QVpXTlVUUnJnPT0/master.m3u8"
       }
     ]
   },
@@ -2979,7 +3146,8 @@
     "channels": [
       {
         "id": 10,
-        "name": "Magenta Sport 301"
+        "name": "Magenta Sport 301",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1MlVYR3lOSjNabEVCTENQQUEwRGlnM050ZVNwaDBudURIOUE9PQ/master.m3u8"
       }
     ]
   },
@@ -3024,7 +3192,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "Blue Sport 4 Live"
+        "name": "Blue Sport 4 Live",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
@@ -3092,7 +3261,8 @@
     "channels": [
       {
         "id": 400,
-        "name": "Digi Sport 1 Romania"
+        "name": "Digi Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
       },
       {
         "id": 583,
@@ -3119,7 +3289,8 @@
     "channels": [
       {
         "id": 386,
-        "name": "ESPN 2 NL"
+        "name": "ESPN 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJDanpOdHpheUJzZTNMSjcyTW1Ocmc5Z01JMzlKa0tWRXI0ZHBBPT0/master.m3u8"
       }
     ]
   },
@@ -3141,7 +3312,8 @@
     "channels": [
       {
         "id": 429,
-        "name": "Arena Sport 1 Serbia"
+        "name": "Arena Sport 1 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERpZnpOdHpheUJzZTNMSjcyRFdCUWJweGtEVzNyeStZZDdKNmhnPT0/master.m3u8"
       }
     ]
   },
@@ -3163,7 +3335,8 @@
     "channels": [
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       }
     ]
   },
@@ -3208,7 +3381,8 @@
     "channels": [
       {
         "id": 559,
-        "name": "Sky Sport Austria 1"
+        "name": "Sky Sport Austria 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NTZnpOdHpheUJzZTNMSjdUb01JUHlza0ZtTWlCbmxjWi93QU9BPT0/master.m3u8"
       }
     ]
   },
@@ -3230,7 +3404,8 @@
     "channels": [
       {
         "id": 23,
-        "name": "CBC Sport Azerbaijan"
+        "name": "CBC Sport Azerbaijan",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3YxMlVYR3lOSjNabEVCTFV1bjBPdWNuZFl6cEFXU1c1REpTZHc9PQ/master.m3u8"
       }
     ]
   },
@@ -3275,7 +3450,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "KTV Sport Kuwait"
+        "name": "KTV Sport Kuwait",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       }
     ]
   },
@@ -3297,7 +3473,8 @@
     "channels": [
       {
         "id": 175,
-        "name": "BBC Alba"
+        "name": "BBC Alba",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0N5dnpOdHpheUJzZTNMSjdTOCtFakFyZ3ZtUC8xeWlFbVF4QUFRPT0/master.m3u8"
       }
     ]
   },
@@ -3462,7 +3639,8 @@
     "channels": [
       {
         "id": 446,
-        "name": "DAZN2 Spain"
+        "name": "DAZN2 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENDanpOdHpheUJzZTNMSjdUWURQdDFOdlJLVmdKMkZRcXpzWmNRPT0/master.m3u8"
       }
     ]
   },
@@ -3484,7 +3662,8 @@
     "channels": [
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       }
     ]
   },
@@ -3506,7 +3685,8 @@
     "channels": [
       {
         "id": 24,
-        "name": "Tabii Spor 6 Turkey"
+        "name": "Tabii Spor 6 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZwMlVYR3lOSjNabEVCTDRVeHE0YkI2V3BadWVrN3UrUXlIK2c9PQ/master.m3u8"
       }
     ]
   },
@@ -3597,7 +3777,8 @@
     "channels": [
       {
         "id": 107,
-        "name": "DAZN France"
+        "name": "DAZN France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDbnpOdHpheUJzZTNMSjdTa3dnTkwwemRKVWdjTGtOQlYycll3PT0/master.m3u8"
       }
     ]
   },
@@ -3661,11 +3842,13 @@
       },
       {
         "id": 425,
-        "name": "beIN SPORTS USA"
+        "name": "beIN SPORTS USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERpdnpOdHpheUJzZTNMSjdLNlFVVFFZR2tGZmRudUtqU0NJS0J3PT0/master.m3u8"
       },
       {
         "id": 372,
-        "name": "beIN SPORTS en Español"
+        "name": "beIN SPORTS en Español",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5enpOdHpheUJzZTNMSjdvSWxQVkY1SnFVV2ZrZkd2NVRsZ3J3PT0/master.m3u8"
       },
       {
         "id": 1025,
@@ -3688,11 +3871,13 @@
       },
       {
         "id": 487,
-        "name": "Canal+ Sport 2 Afrique"
+        "name": "Canal+ Sport 2 Afrique",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJDbnpOdHpheUJzZTNMSjdxN0Q4ZllnS1VxTU1lVTFmUGZqd0NBPT0/master.m3u8"
       },
       {
         "id": 468,
-        "name": "Nova Sport Bulgaria"
+        "name": "Nova Sport Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpYnpOdHpheUJzZTNMSjdFMzY0VmYwRklXZ1luQUR0MkNUWDh3PT0/master.m3u8"
       },
       {
         "id": 94,
@@ -3770,27 +3955,33 @@
     "channels": [
       {
         "id": 29,
-        "name": "Hub Premier"
+        "name": "Hub Premier",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZkMlVYR3lOSjNabEVCTHdpVnNtRHM2ZVhmanVHV2RvbXJsdlE9PQ/master.m3u8"
       },
       {
         "id": 343,
-        "name": "USA Network"
+        "name": "USA Network",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby9wcUUzT3pOZHlheWdZRzF3TTUxT3R2dllhUXlmZ3h6THlIaytjPQ/master.m3u8"
       },
       {
         "id": 38,
-        "name": "Sky Sports Main Event UK"
+        "name": "Sky Sports Main Event UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
         "id": 130,
-        "name": "Sky Sports Premier League UK"
+        "name": "Sky Sports Premier League UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhb0NFaUZnY2dhaHQvb3QvbDJ1QzF2WlZhTndrdFFPbFExKy9mcW89/master.m3u8"
       },
       {
         "id": 595,
-        "name": "Sky Sport 8 NZ"
+        "name": "Sky Sport 8 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FCaUZnY2dhaHQvb3QvbC9CU2NlblJXak9OMSsvUWVhRVVsMG89/master.m3u8"
       },
       {
         "id": 64,
-        "name": "beIN SPORTS 3 Turkey"
+        "name": "beIN SPORTS 3 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdkNER3hOTjNiaVZoQW12OXZxc1RhUXBSS1BCcFdaY1ZEZ2N2cg/master.m3u8"
       },
       {
         "id": 30,
@@ -3814,7 +4005,8 @@
       },
       {
         "id": 445,
-        "name": "DAZN1 Spain"
+        "name": "DAZN1 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENDdnpOdHpheUJzZTNMSjdTcXhmNDByS3lzT1VmRGJnenpFYVpnPT0/master.m3u8"
       },
       {
         "id": 435,
@@ -3858,7 +4050,8 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 599,
@@ -3867,7 +4060,8 @@
       },
       {
         "id": 432,
-        "name": "Arena Sport 1 Croatia"
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
       },
       {
         "id": 59,
@@ -3885,15 +4079,18 @@
       },
       {
         "id": 414,
-        "name": "SuperSport Premier League"
+        "name": "SuperSport Premier League",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTcnpOdHpheUJzZTNMSjdTSkYvSWcvdGdzL2JXa1gzUkpKMTRnPT0/master.m3u8"
       },
       {
         "id": 92,
-        "name": "beIN Sports MENA 2"
+        "name": "beIN Sports MENA 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0dieWxvZGdPa3VvTTB5N04rd29MMFdLUC9kdUJZM2JoVVZsUT09/master.m3u8"
       },
       {
         "id": 61,
-        "name": "beIN Sports MENA English 1"
+        "name": "beIN Sports MENA English 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkRUR3hOTjNiaVZoQW12OGxDVGRWTkhIdUxrNW1tV3REM2ZXbQ/master.m3u8"
       },
       {
         "id": 140,
@@ -3920,7 +4117,8 @@
     "channels": [
       {
         "id": 426,
-        "name": "DAZN1 DE"
+        "name": "DAZN1 DE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERpanpOdHpheUJzZTNMSjcvSmdLTFBRWHN1TENudkVxZFNjdUJRPT0/master.m3u8"
       },
       {
         "id": 160,
@@ -3943,11 +4141,13 @@
       },
       {
         "id": 72,
-        "name": "Eleven Sports 2 Poland"
+        "name": "Eleven Sports 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURqR3hOTjNiaVZoQW12OEdOVytkNlEyU294MnM2dnYrZHorZA/master.m3u8"
       },
       {
         "id": 497,
-        "name": "beIN Sports MAX 7 France"
+        "name": "beIN Sports MAX 7 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTbnpOdHpheUJzZTNMSjdzdFpybldIdEJ5RUhOMVVFUU1JVjdBPT0/master.m3u8"
       },
       {
         "id": 886,
@@ -3956,7 +4156,8 @@
       },
       {
         "id": 403,
-        "name": "Digi Sport 4 Romania"
+        "name": "Digi Sport 4 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cUUzT3pOZHlheWdZRzF6d254OTYzaFVIaEtPWmhucGR5N2VZPQ/master.m3u8"
       },
       {
         "id": 430,
@@ -3965,7 +4166,8 @@
       },
       {
         "id": 633,
-        "name": "Nova Sports 3 Greece"
+        "name": "Nova Sports 3 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUNIaUZnY2dhaHQvb3QvbHhUK25TeUovTlVCSUpFQ2pUUHJMUEU9/master.m3u8"
       },
       {
         "id": 106,
@@ -3984,7 +4186,8 @@
       },
       {
         "id": 103,
-        "name": "Sportklub 3 Croatia"
+        "name": "Sportklub 3 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
       },
       {
         "id": 798,
@@ -3993,7 +4196,8 @@
       },
       {
         "id": 143,
-        "name": "Sport 4 Israel"
+        "name": "Sport 4 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDM3pOdHpheUJzZTNMSjdOTnhRTVVvaXRJQ2NlQ0dnVE1DOFNBPT0/master.m3u8"
       }
     ]
   },
@@ -4015,7 +4219,8 @@
     "channels": [
       {
         "id": 259,
-        "name": "Canal+ Sport 3 Poland"
+        "name": "Canal+ Sport 3 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckNTZnpOdHpheUJzZTNMSjdwWFFrbDNRNE5JQWpGTDBXbWtxYlNBPT0/master.m3u8"
       },
       {
         "id": 128,
@@ -4080,43 +4285,53 @@
       },
       {
         "id": 910,
-        "name": "CBS Sports Golazo"
+        "name": "CBS Sports Golazo",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
       },
       {
         "id": 74,
-        "name": "Sport TV2 Portugal"
+        "name": "Sport TV2 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSWVieWxvZGdPa3VvTTB5bWJDVkZqbU9IWWJBdXZkYWdTSkVxUT09/master.m3u8"
       },
       {
         "id": 72,
-        "name": "Eleven Sports 2 Poland"
+        "name": "Eleven Sports 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURqR3hOTjNiaVZoQW12OEdOVytkNlEyU294MnM2dnYrZHorZA/master.m3u8"
       },
       {
         "id": 398,
-        "name": "Ziggo Sport 2 NL"
+        "name": "Ziggo Sport 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJTYnpOdHpheUJzZTNMSjdtOE41Z2FPOERGN3FDWTVkYjJPeE13PT0/master.m3u8"
       },
       {
         "id": 124,
-        "name": "Astro Football"
+        "name": "Astro Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpcnpOdHpheUJzZTNMSjdtZUlxZUtSeldyeGJxaCtxUzZBSWtBPT0/master.m3u8"
       },
       {
         "id": 643,
-        "name": "FOX Deportes"
+        "name": "FOX Deportes",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8"
       },
       {
         "id": 927,
-        "name": "ESPN3 Mexico"
+        "name": "ESPN3 Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dUUzT3pOZHlheWdZRzEyRzQxeGdicTFucnpWSHdRdVBlQUdBPQ/master.m3u8"
       },
       {
         "id": 136,
-        "name": "Match! Football 1 Russia"
+        "name": "Match! Football 1 Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5anpOdHpheUJzZTNMSjd6emIrZ21memJVYS9xZC80MlcrL3FnPT0/master.m3u8"
       },
       {
         "id": 402,
-        "name": "Digi Sport 3 Romania"
+        "name": "Digi Sport 3 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1ckUzT3pOZHlheWdZRzF6U3dKemRRME1QcVp2NDY0NjJYQ2ZFPQ/master.m3u8"
       },
       {
         "id": 581,
-        "name": "Arena Sport 4 Serbia"
+        "name": "Arena Sport 4 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDL3pOdHpheUJzZTNMSjdFZERGMGNhZkw0YWxBZlpLaFJ5dFZnPT0/master.m3u8"
       },
       {
         "id": 585,
@@ -4130,7 +4345,8 @@
       },
       {
         "id": 703,
-        "name": "TV4 Sport Live 1"
+        "name": "TV4 Sport Live 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdURDM3pOdHpheUJzZTNMSjdZalpOeHI1QzdyTVZFWnZESm5kenFnPT0/master.m3u8"
       },
       {
         "id": 474,
@@ -4139,7 +4355,8 @@
       },
       {
         "id": 56,
-        "name": "SuperSport Football"
+        "name": "SuperSport Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NqR3hOTjNiaVZoQW12OUUzOG9odUtSbkpkN2l1UFQyMml3YQ/master.m3u8"
       }
     ]
   },
@@ -4206,7 +4423,8 @@
     "channels": [
       {
         "id": 819,
-        "name": "TV3+ Denmark"
+        "name": "TV3+ Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERTZnpOdHpheUJzZTNMSjdSVzR6dmN3VzJoY0poZlZSbFVyRFd3PT0/master.m3u8"
       }
     ]
   },
@@ -4251,7 +4469,8 @@
     "channels": [
       {
         "id": 779,
-        "name": "MAX Sport 1 Croatia"
+        "name": "MAX Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSVNOaUZnY2dhaHQvb3QvbDgvczZ3VEYySlA3cHNVaWlVU0graE09/master.m3u8"
       }
     ]
   },
@@ -4273,19 +4492,23 @@
     "channels": [
       {
         "id": 84,
-        "name": "M+ LALIGA TV"
+        "name": "M+ LALIGA TV",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaENER3hOTjNiaVZoQW12OHVPcm9ORTFyeHhieUQ0THFEZi84WQ/master.m3u8"
       },
       {
         "id": 55,
-        "name": "M+ LALIGA TV 2"
+        "name": "M+ LALIGA TV 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       },
       {
         "id": 276,
-        "name": "LaLiga TV UK"
+        "name": "LaLiga TV UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckN5anpOdHpheUJzZTNMSjdZd1FPRGdJa0VZQ3I0aGNyTzZVakZnPT0/master.m3u8"
       },
       {
         "id": 451,
-        "name": "Viaplay Sports 1 UK"
+        "name": "Viaplay Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTL3pOdHpheUJzZTNMSjdybzlTWENDS0FoZVhIeGJhMy84VUZRPT0/master.m3u8"
       },
       {
         "id": 771,
@@ -4298,11 +4521,13 @@
       },
       {
         "id": 455,
-        "name": "DAZN Eleven 1 Portugal"
+        "name": "DAZN Eleven 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdENTdnpOdHpheUJzZTNMSjdnOXBHTmtpWk01SjBhV3FDNndUWWx3PT0/master.m3u8"
       },
       {
         "id": 71,
-        "name": "Eleven Sports 1 Poland"
+        "name": "Eleven Sports 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURUR3hOTjNiaVZoQW12OHRudGU4MHlSc0pRQit3aFo1T0JHeA/master.m3u8"
       },
       {
         "id": 117,
@@ -4336,11 +4561,13 @@
       },
       {
         "id": 584,
-        "name": "Prima Sport 2 Romania"
+        "name": "Prima Sport 2 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VBaUZnY2dhaHQvb3QvbDh6ck9SYWs3Y0w2M3VGaXJpaFJ3UWs9/master.m3u8"
       },
       {
         "id": 747,
-        "name": "TV4 Fotball"
+        "name": "TV4 Fotball",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC9wdUUzT3pOZHlheWdZRzExakJ5aHI2eHJiY25HMjNyOGRNTmlZPQ/master.m3u8"
       },
       {
         "id": 375,
@@ -4349,7 +4576,8 @@
       },
       {
         "id": 431,
-        "name": "Arena Sport 3 Serbia"
+        "name": "Arena Sport 3 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdER5L3pOdHpheUJzZTNMSjcrZGdpSGxUWi94dXN1MGNCMFdGSVRRPT0/master.m3u8"
       },
       {
         "id": 489,
@@ -4368,23 +4596,28 @@
       },
       {
         "id": 808,
-        "name": "TV2 Sport X Denmark"
+        "name": "TV2 Sport X Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZNE9NaUZnY2dhaHQvb3QvbDY5aElweFNZTGNjVlp6ek9HenRwaEU9/master.m3u8"
       },
       {
         "id": 475,
-        "name": "MAX Sport 4 Bulgaria"
+        "name": "MAX Sport 4 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5dnpOdHpheUJzZTNMSjdZUWZud25Eak5FV0pyaDROU0g0MFNnPT0/master.m3u8"
       },
       {
         "id": 415,
-        "name": "SuperSport La Liga"
+        "name": "SuperSport La Liga",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTdnpOdHpheUJzZTNMSjc1a0FadGU4RVpacFpVUXZ2SCs5UEJ3PT0/master.m3u8"
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 91,
-        "name": "beIN Sports MENA 1"
+        "name": "beIN Sports MENA 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0tieWxvZGdPa3VvTTB5Q09wY1RjNjlrTjdua2VpeGM4YzllQT09/master.m3u8"
       }
     ]
   },
@@ -4429,7 +4662,8 @@
     "channels": [
       {
         "id": 2,
-        "name": "Belarus 5"
+        "name": "Belarus 5",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
       }
     ]
   },
@@ -4496,7 +4730,8 @@
     "channels": [
       {
         "id": 161,
-        "name": "LALIGA TV Hypermotion"
+        "name": "LALIGA TV Hypermotion",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0NpL3pOdHpheUJzZTNMSjdyK3lKTTJDZ2RyZjh0QWkraWNKT2NnPT0/master.m3u8"
       }
     ]
   },
@@ -4518,7 +4753,8 @@
     "channels": [
       {
         "id": 174,
-        "name": "LALIGA TV Hypermotion"
+        "name": "LALIGA TV Hypermotion",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0N5cnpOdHpheUJzZTNMSjdOUTVzTGdHOTllV1doeUtsbTM1ZDhRPT0/master.m3u8"
       }
     ]
   },
@@ -4540,7 +4776,8 @@
     "channels": [
       {
         "id": 573,
-        "name": "Match Premier Russia"
+        "name": "Match Premier Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
       },
       {
         "id": 139,
@@ -4567,7 +4804,8 @@
     "channels": [
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 945,
@@ -4617,7 +4855,8 @@
     "channels": [
       {
         "id": 184,
-        "name": "ON Time Sports Egypt"
+        "name": "ON Time Sports Egypt",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZadEUzT3pOZHlheWdZRzF6bUpVSG9sRytQWU52M1pTR2lnMFJJPQ/master.m3u8"
       }
     ]
   },
@@ -4639,7 +4878,8 @@
     "channels": [
       {
         "id": 465,
-        "name": "Diema Sport Bulgaria"
+        "name": "Diema Sport Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpdnpOdHpheUJzZTNMSjdlR0Z3SXBrRVljZUM0QVpXTlVUUnJnPT0/master.m3u8"
       }
     ]
   },
@@ -4684,11 +4924,13 @@
     "channels": [
       {
         "id": 49,
-        "name": "Sport TV1 Portugal"
+        "name": "Sport TV1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEJUR3hOTjNiaVZoQW12Ly9Fa21CdGVCR0tJZ203VXJmd1JLbw/master.m3u8"
       },
       {
         "id": 597,
-        "name": "GOLTV USA"
+        "name": "GOLTV USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0JTbnpOdHpheUJzZTNMSjdYQTQrclZXVGptSFFNcy9ZcXFXYTF3PT0/master.m3u8"
       },
       {
         "id": 571,
@@ -4697,7 +4939,8 @@
       },
       {
         "id": 498,
-        "name": "beIN Sports MAX 8 France"
+        "name": "beIN Sports MAX 8 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTYnpOdHpheUJzZTNMSjdSbXR1eGNRL2lTV1pYYytQRzFobWVnPT0/master.m3u8"
       }
     ]
   },
@@ -4719,7 +4962,8 @@
     "channels": [
       {
         "id": 62,
-        "name": "beIN Sports 1 Turkey"
+        "name": "beIN Sports 1 Turkey",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdkRqR3hOTjNiaVZoQW12ODQvYlNZTnNlM01DSHlOQjVOSDVleg/master.m3u8"
       },
       {
         "id": 290,
@@ -4728,7 +4972,8 @@
       },
       {
         "id": 499,
-        "name": "beIN Sports MAX 9 France"
+        "name": "beIN Sports MAX 9 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTZnpOdHpheUJzZTNMSjc2TG9JVWlUV2JuQWJWb0dYUUNWY253PT0/master.m3u8"
       },
       {
         "id": 138,
@@ -4742,7 +4987,8 @@
       },
       {
         "id": 143,
-        "name": "Sport 4 Israel"
+        "name": "Sport 4 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDM3pOdHpheUJzZTNMSjdOTnhRTVVvaXRJQ2NlQ0dnVE1DOFNBPT0/master.m3u8"
       }
     ]
   },
@@ -4833,7 +5079,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "KTV Sport Kuwait"
+        "name": "KTV Sport Kuwait",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       }
     ]
   },
@@ -4855,7 +5102,8 @@
     "channels": [
       {
         "id": 400,
-        "name": "Digi Sport 1 Romania"
+        "name": "Digi Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
       },
       {
         "id": 583,
@@ -4882,7 +5130,8 @@
     "channels": [
       {
         "id": 10,
-        "name": "Magenta Sport 301"
+        "name": "Magenta Sport 301",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1MlVYR3lOSjNabEVCTENQQUEwRGlnM050ZVNwaDBudURIOUE9PQ/master.m3u8"
       }
     ]
   },
@@ -4904,7 +5153,8 @@
     "channels": [
       {
         "id": 426,
-        "name": "DAZN1 DE"
+        "name": "DAZN1 DE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERpanpOdHpheUJzZTNMSjcvSmdLTFBRWHN1TENudkVxZFNjdUJRPT0/master.m3u8"
       },
       {
         "id": 167,
@@ -4942,7 +5192,8 @@
       },
       {
         "id": 403,
-        "name": "Digi Sport 4 Romania"
+        "name": "Digi Sport 4 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cUUzT3pOZHlheWdZRzF6d254OTYzaFVIaEtPWmhucGR5N2VZPQ/master.m3u8"
       },
       {
         "id": 135,
@@ -4971,7 +5222,8 @@
       },
       {
         "id": 103,
-        "name": "Sportklub 3 Croatia"
+        "name": "Sportklub 3 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
       }
     ]
   },
@@ -4993,7 +5245,8 @@
     "channels": [
       {
         "id": 638,
-        "name": "Nova Sports Prime Greece"
+        "name": "Nova Sports Prime Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUNNaUZnY2dhaHQvb3QvbHpSUU1oMUNCRW9HQnVRUjM2V3NqaHM9/master.m3u8"
       }
     ]
   },
@@ -5043,7 +5296,8 @@
     "channels": [
       {
         "id": 622,
-        "name": "Cosmote Sport 1 Greece"
+        "name": "Cosmote Sport 1 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWUdHaUZnY2dhaHQvb3QvbHloSDFkUDhTeVIyS1ord1dycXVlckk9/master.m3u8"
       },
       {
         "id": 940,
@@ -5098,11 +5352,13 @@
     "channels": [
       {
         "id": 819,
-        "name": "TV3+ HD Denmark"
+        "name": "TV3+ HD Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERTZnpOdHpheUJzZTNMSjdSVzR6dmN3VzJoY0poZlZSbFVyRFd3PT0/master.m3u8"
       },
       {
         "id": 581,
-        "name": "Arena Sport 4 Serbia"
+        "name": "Arena Sport 4 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDL3pOdHpheUJzZTNMSjdFZERGMGNhZkw0YWxBZlpLaFJ5dFZnPT0/master.m3u8"
       },
       {
         "id": 102,
@@ -5139,7 +5395,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       }
     ]
   },
@@ -5276,15 +5533,18 @@
     "channels": [
       {
         "id": 76,
-        "name": "DAZN France"
+        "name": "DAZN France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdUNqR3hOTjNiaVZoQW12OWpyekFlVHBERXF6Q1VpNVlLbktnTg/master.m3u8"
       },
       {
         "id": 425,
-        "name": "beIN SPORTS USA"
+        "name": "beIN SPORTS USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERpdnpOdHpheUJzZTNMSjdLNlFVVFFZR2tGZmRudUtqU0NJS0J3PT0/master.m3u8"
       },
       {
         "id": 372,
-        "name": "beIN SPORTS en Español"
+        "name": "beIN SPORTS en Español",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5enpOdHpheUJzZTNMSjdvSWxQVkY1SnFVV2ZrZkd2NVRsZ3J3PT0/master.m3u8"
       },
       {
         "id": 1023,
@@ -5312,7 +5572,8 @@
       },
       {
         "id": 487,
-        "name": "Canal+ Sport 2 Afrique"
+        "name": "Canal+ Sport 2 Afrique",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJDbnpOdHpheUJzZTNMSjdxN0Q4ZllnS1VxTU1lVTFmUGZqd0NBPT0/master.m3u8"
       },
       {
         "id": 466,
@@ -5354,19 +5615,23 @@
       },
       {
         "id": 910,
-        "name": "CBS Sports Golazo"
+        "name": "CBS Sports Golazo",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
       },
       {
         "id": 877,
-        "name": "DAZN Zona IT"
+        "name": "DAZN Zona IT",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcVBsdUUzT3pOZHlheWdZRzE3Y3lmamVhS2pHRjd4cERkblc5Umo4PQ/master.m3u8"
       },
       {
         "id": 74,
-        "name": "Sport TV2 Portugal"
+        "name": "Sport TV2 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSWVieWxvZGdPa3VvTTB5bWJDVkZqbU9IWWJBdXZkYWdTSkVxUT09/master.m3u8"
       },
       {
         "id": 71,
-        "name": "Eleven Sports 1 Poland"
+        "name": "Eleven Sports 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURUR3hOTjNiaVZoQW12OHRudGU4MHlSc0pRQit3aFo1T0JHeA/master.m3u8"
       },
       {
         "id": 127,
@@ -5375,11 +5640,13 @@
       },
       {
         "id": 136,
-        "name": "Match! Football 1 Russia"
+        "name": "Match! Football 1 Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5anpOdHpheUJzZTNMSjd6emIrZ21memJVYS9xZC80MlcrL3FnPT0/master.m3u8"
       },
       {
         "id": 398,
-        "name": "Ziggo Sport 2 NL"
+        "name": "Ziggo Sport 2 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJTYnpOdHpheUJzZTNMSjdtOE41Z2FPOERGN3FDWTVkYjJPeE13PT0/master.m3u8"
       },
       {
         "id": 401,
@@ -5388,19 +5655,23 @@
       },
       {
         "id": 584,
-        "name": "Prima Sport 2 Romania"
+        "name": "Prima Sport 2 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VBaUZnY2dhaHQvb3QvbDh6ck9SYWs3Y0w2M3VGaXJpaFJ3UWs9/master.m3u8"
       },
       {
         "id": 925,
-        "name": "ESPN Mexico"
+        "name": "ESPN Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4c0UzT3pOZHlheWdZRzEzQ1hGc3ZWQUYzOVVXRkd1SllWeUU0PQ/master.m3u8"
       },
       {
         "id": 124,
-        "name": "Astro Football"
+        "name": "Astro Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpcnpOdHpheUJzZTNMSjdtZUlxZUtSeldyeGJxaCtxUzZBSWtBPT0/master.m3u8"
       },
       {
         "id": 643,
-        "name": "FOX Deportes"
+        "name": "FOX Deportes",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8"
       },
       {
         "id": 139,
@@ -5409,11 +5680,13 @@
       },
       {
         "id": 432,
-        "name": "Arena Sport 1 Croatia"
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
       },
       {
         "id": 1,
-        "name": "TV12 Sweden"
+        "name": "TV12 Sweden",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       },
       {
         "id": 474,
@@ -5432,7 +5705,8 @@
       },
       {
         "id": 56,
-        "name": "SuperSport Football"
+        "name": "SuperSport Football",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NqR3hOTjNiaVZoQW12OUUzOG9odUtSbkpkN2l1UFQyMml3YQ/master.m3u8"
       },
       {
         "id": 140,
@@ -5459,15 +5733,18 @@
     "channels": [
       {
         "id": 84,
-        "name": "M+ LALIGA TV"
+        "name": "M+ LALIGA TV",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaENER3hOTjNiaVZoQW12OHVPcm9ORTFyeHhieUQ0THFEZi84WQ/master.m3u8"
       },
       {
         "id": 276,
-        "name": "LaLiga TV UK"
+        "name": "LaLiga TV UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckN5anpOdHpheUJzZTNMSjdZd1FPRGdJa0VZQ3I0aGNyTzZVakZnPT0/master.m3u8"
       },
       {
         "id": 451,
-        "name": "Viaplay Sports 1 UK"
+        "name": "Viaplay Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTL3pOdHpheUJzZTNMSjdybzlTWENDS0FoZVhIeGJhMy84VUZRPT0/master.m3u8"
       },
       {
         "id": 771,
@@ -5480,11 +5757,13 @@
       },
       {
         "id": 455,
-        "name": "DAZN Eleven 1 Portugal"
+        "name": "DAZN Eleven 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdENTdnpOdHpheUJzZTNMSjdnOXBHTmtpWk01SjBhV3FDNndUWWx3PT0/master.m3u8"
       },
       {
         "id": 72,
-        "name": "Eleven Sports 2 Poland"
+        "name": "Eleven Sports 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdURqR3hOTjNiaVZoQW12OEdOVytkNlEyU294MnM2dnYrZHorZA/master.m3u8"
       },
       {
         "id": 116,
@@ -5508,7 +5787,8 @@
       },
       {
         "id": 402,
-        "name": "Digi Sport 3 Romania"
+        "name": "Digi Sport 3 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1ckUzT3pOZHlheWdZRzF6U3dKemRRME1QcVp2NDY0NjJYQ2ZFPQ/master.m3u8"
       },
       {
         "id": 375,
@@ -5517,7 +5797,8 @@
       },
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 631,
@@ -5531,11 +5812,13 @@
       },
       {
         "id": 747,
-        "name": "TV4 Fotball"
+        "name": "TV4 Fotball",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC9wdUUzT3pOZHlheWdZRzExakJ5aHI2eHJiY25HMjNyOGRNTmlZPQ/master.m3u8"
       },
       {
         "id": 475,
-        "name": "MAX Sport 4 Bulgaria"
+        "name": "MAX Sport 4 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5dnpOdHpheUJzZTNMSjdZUWZud25Eak5FV0pyaDROU0g0MFNnPT0/master.m3u8"
       },
       {
         "id": 585,
@@ -5544,11 +5827,13 @@
       },
       {
         "id": 431,
-        "name": "Arena Sport 3 Serbia"
+        "name": "Arena Sport 3 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdER5L3pOdHpheUJzZTNMSjcrZGdpSGxUWi94dXN1MGNCMFdGSVRRPT0/master.m3u8"
       },
       {
         "id": 93,
-        "name": "beIN Sports MENA 3"
+        "name": "beIN Sports MENA 3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0NieWxvZGdPa3VvTTB5c016ckJHeHd2eDgwWDBPMVpWc056Zz09/master.m3u8"
       },
       {
         "id": 572,
@@ -5557,7 +5842,8 @@
       },
       {
         "id": 415,
-        "name": "SuperSport LaLiga"
+        "name": "SuperSport LaLiga",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERTdnpOdHpheUJzZTNMSjc1a0FadGU4RVpacFpVUXZ2SCs5UEJ3PT0/master.m3u8"
       }
     ]
   },
@@ -5584,11 +5870,13 @@
       },
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       },
       {
         "id": 604,
-        "name": "Dubai Sports 1"
+        "name": "Dubai Sports 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWU9BaUZnY2dhaHQvb3QvbHhHZENVT0VZVnpIdUNWSW82QUo3bFU9/master.m3u8"
       }
     ]
   },
@@ -5681,7 +5969,8 @@
       },
       {
         "id": 597,
-        "name": "GOLTV USA"
+        "name": "GOLTV USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0JTbnpOdHpheUJzZTNMSjdYQTQrclZXVGptSFFNcy9ZcXFXYTF3PT0/master.m3u8"
       }
     ]
   },
@@ -5703,7 +5992,8 @@
     "channels": [
       {
         "id": 49,
-        "name": "Sport TV1 Portugal"
+        "name": "Sport TV1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEJUR3hOTjNiaVZoQW12Ly9Fa21CdGVCR0tJZ203VXJmd1JLbw/master.m3u8"
       },
       {
         "id": 623,
@@ -5712,7 +6002,8 @@
       },
       {
         "id": 143,
-        "name": "Sport 4 Israel"
+        "name": "Sport 4 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDM3pOdHpheUJzZTNMSjdOTnhRTVVvaXRJQ2NlQ0dnVE1DOFNBPT0/master.m3u8"
       }
     ]
   },
@@ -5754,7 +6045,8 @@
       },
       {
         "id": 91,
-        "name": "beIN Sports MENA 1"
+        "name": "beIN Sports MENA 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0tieWxvZGdPa3VvTTB5Q09wY1RjNjlrTjdua2VpeGM4YzllQT09/master.m3u8"
       }
     ]
   },
@@ -5836,7 +6128,8 @@
       },
       {
         "id": 451,
-        "name": "Viaplay Sports 1 UK"
+        "name": "Viaplay Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTL3pOdHpheUJzZTNMSjdybzlTWENDS0FoZVhIeGJhMy84VUZRPT0/master.m3u8"
       },
       {
         "id": 771,
@@ -5850,15 +6143,18 @@
       },
       {
         "id": 74,
-        "name": "Sport TV2 Portugal"
+        "name": "Sport TV2 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiSWVieWxvZGdPa3VvTTB5bWJDVkZqbU9IWWJBdXZkYWdTSkVxUT09/master.m3u8"
       },
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 432,
-        "name": "Arena Sport 1 Croatia"
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
       },
       {
         "id": 140,
@@ -5885,7 +6181,8 @@
     "channels": [
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       }
     ]
   },
@@ -5935,7 +6232,8 @@
       },
       {
         "id": 597,
-        "name": "GOLTV USA"
+        "name": "GOLTV USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0JTbnpOdHpheUJzZTNMSjdYQTQrclZXVGptSFFNcy9ZcXFXYTF3PT0/master.m3u8"
       }
     ]
   },
@@ -5957,7 +6255,8 @@
     "channels": [
       {
         "id": 308,
-        "name": "CBS Sports Network USA"
+        "name": "CBS Sports Network USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8"
       }
     ]
   },
@@ -6094,7 +6393,8 @@
     "channels": [
       {
         "id": 55,
-        "name": "MLS Season Pass"
+        "name": "MLS Season Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       },
       {
         "id": 571,
@@ -6103,7 +6403,8 @@
       },
       {
         "id": 475,
-        "name": "MAX Sport 4 Bulgaria"
+        "name": "MAX Sport 4 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5dnpOdHpheUJzZTNMSjdZUWZud25Eak5FV0pyaDROU0g0MFNnPT0/master.m3u8"
       },
       {
         "id": 388,
@@ -6130,7 +6431,8 @@
     "channels": [
       {
         "id": 758,
-        "name": "Fox Sports 2 USA"
+        "name": "Fox Sports 2 USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNTYnpOdHpheUJzZTNMSjdGeklhb3RaTi9tdWxJRUFmbWNpWjN3PT0/master.m3u8"
       },
       {
         "id": 5,
@@ -6139,7 +6441,8 @@
       },
       {
         "id": 92,
-        "name": "beIN Sports MENA 2"
+        "name": "beIN Sports MENA 2",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0dieWxvZGdPa3VvTTB5N04rd29MMFdLUC9kdUJZM2JoVVZsUT09/master.m3u8"
       }
     ]
   },
@@ -6184,7 +6487,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "Liga 1 Max Peru"
+        "name": "Liga 1 Max Peru",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
@@ -6229,7 +6533,8 @@
     "channels": [
       {
         "id": 643,
-        "name": "FOX Deportes"
+        "name": "FOX Deportes",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVIaUZnY2dhaHQvb3QvbDBLR0gxSy96VEtqdlNXcUF3TUJaWEU9/master.m3u8"
       }
     ]
   },
@@ -6289,7 +6594,8 @@
       },
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       },
       {
         "id": 138,
@@ -6362,7 +6668,8 @@
     "channels": [
       {
         "id": 910,
-        "name": "CBS Sports Golazo USA"
+        "name": "CBS Sports Golazo USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
       },
       {
         "id": 112,
@@ -6394,7 +6701,8 @@
       },
       {
         "id": 597,
-        "name": "GOLTV USA"
+        "name": "GOLTV USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0JTbnpOdHpheUJzZTNMSjdYQTQrclZXVGptSFFNcy9ZcXFXYTF3PT0/master.m3u8"
       }
     ]
   },
@@ -6913,7 +7221,8 @@
       },
       {
         "id": 36,
-        "name": "Sky Sports+"
+        "name": "Sky Sports+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNqR3hOTjNiaVZoQW12OTNyNGhWNjFsckhucXpZL3BvaG5Sbw/master.m3u8"
       },
       {
         "id": 117,
@@ -7010,7 +7319,8 @@
       },
       {
         "id": 445,
-        "name": "DAZN1 ES"
+        "name": "DAZN1 ES",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENDdnpOdHpheUJzZTNMSjdTcXhmNDByS3lzT1VmRGJnenpFYVpnPT0/master.m3u8"
       },
       {
         "id": 121,
@@ -7024,7 +7334,8 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 626,
@@ -7037,7 +7348,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       },
       {
         "id": 101,
@@ -7109,7 +7421,8 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 626,
@@ -7127,7 +7440,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       },
       {
         "id": 393,
@@ -7217,7 +7531,8 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 626,
@@ -7235,7 +7550,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       },
       {
         "id": 393,
@@ -7292,7 +7608,8 @@
       },
       {
         "id": 445,
-        "name": "DAZN1 ES"
+        "name": "DAZN1 ES",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENDdnpOdHpheUJzZTNMSjdTcXhmNDByS3lzT1VmRGJnenpFYVpnPT0/master.m3u8"
       },
       {
         "id": 121,
@@ -7306,7 +7623,8 @@
       },
       {
         "id": 149,
-        "name": "ESPN Argentina"
+        "name": "ESPN Argentina",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0NDZnpOdHpheUJzZTNMSjdkYm9jZUYrVlM4d1JLUXp6OFZGMWdBPT0/master.m3u8"
       },
       {
         "id": 626,
@@ -7324,7 +7642,8 @@
       },
       {
         "id": 85,
-        "name": "ESPN4 Brazil"
+        "name": "ESPN4 Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaENUR3hOTjNiaVZoQW12L25US1BZRVFrSWxGeVd2TmluU2ozcA/master.m3u8"
       },
       {
         "id": 393,
@@ -7412,7 +7731,8 @@
     "channels": [
       {
         "id": 291,
-        "name": "Sport TV6 Portugal"
+        "name": "Sport TV6 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOckJTL3pOdHpheUJzZTNMSjc0MEYrbVhCa1dPZXZYU3BiQlpEVHdnPT0/master.m3u8"
       }
     ]
   },
@@ -7467,7 +7787,8 @@
     "channels": [
       {
         "id": 291,
-        "name": "Sport TV6 Portugal"
+        "name": "Sport TV6 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOckJTL3pOdHpheUJzZTNMSjc0MEYrbVhCa1dPZXZYU3BiQlpEVHdnPT0/master.m3u8"
       }
     ]
   },
@@ -7512,7 +7833,8 @@
     "channels": [
       {
         "id": 343,
-        "name": "USA Network"
+        "name": "USA Network",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby9wcUUzT3pOZHlheWdZRzF3TTUxT3R2dllhUXlmZ3h6THlIaytjPQ/master.m3u8"
       },
       {
         "id": 115,
@@ -7521,7 +7843,8 @@
       },
       {
         "id": 550,
-        "name": "Viaplay Sports 2 UK"
+        "name": "Viaplay Sports 2 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0NTN3pOdHpheUJzZTNMSjdDTW5VSWljMlowbGJEQU8vdm1mSzV3PT0/master.m3u8"
       },
       {
         "id": 260,
@@ -7937,7 +8260,8 @@
     "channels": [
       {
         "id": 12,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Z4MlVYR3lOSjNabEVCTDh6UFNXZ0h6ZGJ4Y2JUS0pJUEpKbkE9PQ/master.m3u8"
       },
       {
         "id": 35,
@@ -7970,7 +8294,8 @@
       },
       {
         "id": 98,
-        "name": "beIN SPORTS MENA 8"
+        "name": "beIN SPORTS MENA 8",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOZ0JER3hOTjNiaVZoQW12OVlFelJWOXh3bEJXNklYRWo5cVlTcQ/master.m3u8"
       },
       {
         "id": 90,
@@ -7997,7 +8322,8 @@
     "channels": [
       {
         "id": 13,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2YxMlVYR3lOSjNabEVCTGp0STdIeDFhb1EvZGZ1ZjMvL3NPcUE9PQ/master.m3u8"
       },
       {
         "id": 930,
@@ -8029,11 +8355,13 @@
     "channels": [
       {
         "id": 14,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZwMlVYR3lOSjNabEVCTFBYZWx4RW9IamhWYUJjMlA0c1hiSlE9PQ/master.m3u8"
       },
       {
         "id": 355,
-        "name": "Channel 5 UK"
+        "name": "Channel 5 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNTdnpOdHpheUJzZTNMSjdYbkpSY2k4YXR1a0hQU3RRbno4UDNnPT0/master.m3u8"
       }
     ]
   },
@@ -8055,7 +8383,8 @@
     "channels": [
       {
         "id": 15,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Z0MlVYR3lOSjNabEVCTFFKWk1nVmF1V3FiYkZoanhQY3ljRVE9PQ/master.m3u8"
       }
     ]
   },
@@ -8077,7 +8406,8 @@
     "channels": [
       {
         "id": 19,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZkMlVYR3lOSjNabEVCTEhoNmp2Y0ZIcmZUWHgrYjh1YU81WWc9PQ/master.m3u8"
       },
       {
         "id": 52,
@@ -8086,7 +8416,8 @@
       },
       {
         "id": 767,
-        "name": "CBSNY USA"
+        "name": "CBSNY USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNpbnpOdHpheUJzZTNMSjd5Q1NuMjBtMmp1a21tUEo1UlIzRVpRPT0/master.m3u8"
       }
     ]
   },
@@ -8108,7 +8439,8 @@
     "channels": [
       {
         "id": 20,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y1MlVYR3lOSjNabEVCTDFNdlA5Y0xkQ0ZocU5Sc1ZoU21iS3c9PQ/master.m3u8"
       },
       {
         "id": 37,
@@ -8122,7 +8454,8 @@
       },
       {
         "id": 888,
-        "name": "ESPN 3 NL"
+        "name": "ESPN 3 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaEJDYnpOdHpheUJzZTNMSjc2ZjN6K0dHV2FBTXg2eVh3QTlVVWJ3PT0/master.m3u8"
       },
       {
         "id": 929,
@@ -8154,7 +8487,8 @@
     "channels": [
       {
         "id": 21,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y5MlVYR3lOSjNabEVCTHFTb21zTjUwM092ckpzNXJXaURjSHc9PQ/master.m3u8"
       }
     ]
   },
@@ -8176,7 +8510,8 @@
     "channels": [
       {
         "id": 3,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
       },
       {
         "id": 35,
@@ -8218,7 +8553,8 @@
       },
       {
         "id": 54,
-        "name": "FOX USA"
+        "name": "FOX USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NER3hOTjNiaVZoQW12OTJFdVhnYTJyTUljaCtpRUlNcitmUw/master.m3u8"
       },
       {
         "id": 768,
@@ -8260,11 +8596,13 @@
       },
       {
         "id": 767,
-        "name": "CBSNY USA"
+        "name": "CBSNY USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNpbnpOdHpheUJzZTNMSjd5Q1NuMjBtMmp1a21tUEo1UlIzRVpRPT0/master.m3u8"
       },
       {
         "id": 38,
-        "name": "Sky Sports Main Event"
+        "name": "Sky Sports Main Event",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
         "id": 37,
@@ -8292,7 +8630,8 @@
       },
       {
         "id": 888,
-        "name": "ESPN 3 NL"
+        "name": "ESPN 3 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaEJDYnpOdHpheUJzZTNMSjc2ZjN6K0dHV2FBTXg2eVh3QTlVVWJ3PT0/master.m3u8"
       },
       {
         "id": 495,
@@ -8326,11 +8665,13 @@
       },
       {
         "id": 98,
-        "name": "beIN SPORTS MENA 8"
+        "name": "beIN SPORTS MENA 8",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOZ0JER3hOTjNiaVZoQW12OVlFelJWOXh3bEJXNklYRWo5cVlTcQ/master.m3u8"
       },
       {
         "id": 61,
-        "name": "beIN SPORTS MENA English 1"
+        "name": "beIN SPORTS MENA English 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkRUR3hOTjNiaVZoQW12OGxDVGRWTkhIdUxrNW1tV3REM2ZXbQ/master.m3u8"
       },
       {
         "id": 146,
@@ -8380,7 +8721,8 @@
     "channels": [
       {
         "id": 2,
-        "name": "NFL Sunday Ticket"
+        "name": "NFL Sunday Ticket",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
       },
       {
         "id": 53,
@@ -8404,7 +8746,8 @@
       },
       {
         "id": 38,
-        "name": "Sky Sports Main Event UK"
+        "name": "Sky Sports Main Event UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
         "id": 37,
@@ -8447,15 +8790,18 @@
       },
       {
         "id": 888,
-        "name": "ESPN 3 NL"
+        "name": "ESPN 3 NL",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaEJDYnpOdHpheUJzZTNMSjc2ZjN6K0dHV2FBTXg2eVh3QTlVVWJ3PT0/master.m3u8"
       },
       {
         "id": 134,
-        "name": "Arena 1 Premium Serbia"
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
       },
       {
         "id": 926,
-        "name": "ESPN 2 Mexico"
+        "name": "ESPN 2 Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dkUzT3pOZHlheWdZRzEya3ZOL0g4L3R2Z2cwbXJQOWs3NUhjPQ/master.m3u8"
       },
       {
         "id": 150,
@@ -8464,7 +8810,8 @@
       },
       {
         "id": 98,
-        "name": "beIN SPORTS MENA 8"
+        "name": "beIN SPORTS MENA 8",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOZ0JER3hOTjNiaVZoQW12OVlFelJWOXh3bEJXNklYRWo5cVlTcQ/master.m3u8"
       },
       {
         "id": 90,
@@ -8529,7 +8876,8 @@
       },
       {
         "id": 591,
-        "name": "Sky Sport 4 NZ"
+        "name": "Sky Sport 4 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
       }
     ]
   },
@@ -8589,7 +8937,8 @@
       },
       {
         "id": 591,
-        "name": "Sky Sport 4 NZ"
+        "name": "Sky Sport 4 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
       }
     ]
   },
@@ -8611,7 +8960,8 @@
     "channels": [
       {
         "id": 22,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Z4MlVYR3lOSjNabEVCTEx3Z2RmL3VPb1Q5b0VySG9PenNWUXc9PQ/master.m3u8"
       },
       {
         "id": 829,
@@ -8648,7 +8998,8 @@
     "channels": [
       {
         "id": 23,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3YxMlVYR3lOSjNabEVCTFV1bjBPdWNuZFl6cEFXU1c1REpTZHc9PQ/master.m3u8"
       },
       {
         "id": 776,
@@ -8675,7 +9026,8 @@
     "channels": [
       {
         "id": 24,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZwMlVYR3lOSjNabEVCTDRVeHE0YkI2V3BadWVrN3UrUXlIK2c9PQ/master.m3u8"
       },
       {
         "id": 762,
@@ -8763,7 +9115,8 @@
     "channels": [
       {
         "id": 27,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZsMlVYR3lOSjNabEVCTFoyNVJMcFdBSjBMdFRqRnRtQmRPcGc9PQ/master.m3u8"
       },
       {
         "id": 755,
@@ -8843,7 +9196,8 @@
     "channels": [
       {
         "id": 29,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3ZkMlVYR3lOSjNabEVCTHdpVnNtRHM2ZVhmanVHV2RvbXJsdlE9PQ/master.m3u8"
       },
       {
         "id": 921,
@@ -8996,7 +9350,8 @@
     "channels": [
       {
         "id": 107,
-        "name": "MLB League Pass"
+        "name": "MLB League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDbnpOdHpheUJzZTNMSjdTa3dnTkwwemRKVWdjTGtOQlYycll3PT0/master.m3u8"
       },
       {
         "id": 920,
@@ -9253,7 +9608,8 @@
       },
       {
         "id": 429,
-        "name": "Arena Sport 1 Serbia"
+        "name": "Arena Sport 1 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERpZnpOdHpheUJzZTNMSjcyRFdCUWJweGtEVzNyeStZZDdKNmhnPT0/master.m3u8"
       }
     ]
   },
@@ -9321,7 +9677,8 @@
     "channels": [
       {
         "id": 431,
-        "name": "Arena Sport 3 Serbia"
+        "name": "Arena Sport 3 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdER5L3pOdHpheUJzZTNMSjcrZGdpSGxUWi94dXN1MGNCMFdGSVRRPT0/master.m3u8"
       }
     ]
   },
@@ -9389,7 +9746,8 @@
     "channels": [
       {
         "id": 943,
-        "name": "Arena Sport 8 Serbia"
+        "name": "Arena Sport 8 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZwcUUzT3pOZHlheWdZRzF5MmxJT3g3OFdwaXBPdVRLRlFSNGhNPQ/master.m3u8"
       }
     ]
   },
@@ -9523,7 +9881,8 @@
     "channels": [
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       }
     ]
   },
@@ -9863,7 +10222,8 @@
     "channels": [
       {
         "id": 540,
-        "name": "Canal 11 Portugal"
+        "name": "Canal 11 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
       }
     ]
   },
@@ -10063,7 +10423,8 @@
       },
       {
         "id": 584,
-        "name": "Prima Sport 2 Romania"
+        "name": "Prima Sport 2 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VBaUZnY2dhaHQvb3QvbDh6ck9SYWs3Y0w2M3VGaXJpaFJ3UWs9/master.m3u8"
       }
     ]
   },
@@ -10085,7 +10446,8 @@
     "channels": [
       {
         "id": 18,
-        "name": "Duna World Hungary"
+        "name": "Duna World Hungary",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZaMlVYR3lOSjNabEVCTFkvOUsrTjN1ZVVkVzFET0NacXIrVmc9PQ/master.m3u8"
       }
     ]
   },
@@ -10107,7 +10469,8 @@
     "channels": [
       {
         "id": 168,
-        "name": "Pro Arena Romania"
+        "name": "Pro Arena Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0NpYnpOdHpheUJzZTNMSjdPYmJiRzRjR3EwNXU1VFprQ1ZhanVBPT0/master.m3u8"
       }
     ]
   },
@@ -10396,7 +10759,8 @@
     "channels": [
       {
         "id": 758,
-        "name": "Fox Sports 2 USA"
+        "name": "Fox Sports 2 USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNTYnpOdHpheUJzZTNMSjdGeklhb3RaTi9tdWxJRUFmbWNpWjN3PT0/master.m3u8"
       }
     ]
   },
@@ -10652,7 +11016,8 @@
     "channels": [
       {
         "id": 161,
-        "name": "Magenta Sport 303"
+        "name": "Magenta Sport 303",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0NpL3pOdHpheUJzZTNMSjdyK3lKTTJDZ2RyZjh0QWkraWNKT2NnPT0/master.m3u8"
       }
     ]
   },
@@ -10789,7 +11154,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "ORF Sport Plus"
+        "name": "ORF Sport Plus",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
@@ -10903,7 +11269,8 @@
     "channels": [
       {
         "id": 176,
-        "name": "ŠTV 1 Slovenia"
+        "name": "ŠTV 1 Slovenia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0N5anpOdHpheUJzZTNMSjdlcnd2TkN2YWw1MTV5dnFzZElzUEx3PT0/master.m3u8"
       }
     ]
   },
@@ -10925,7 +11292,8 @@
     "channels": [
       {
         "id": 758,
-        "name": "Fox Sports 2 USA"
+        "name": "Fox Sports 2 USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNTYnpOdHpheUJzZTNMSjdGeklhb3RaTi9tdWxJRUFmbWNpWjN3PT0/master.m3u8"
       },
       {
         "id": 449,
@@ -11183,7 +11551,8 @@
       },
       {
         "id": 308,
-        "name": "CBS Sports Network"
+        "name": "CBS Sports Network",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8"
       },
       {
         "id": 882,
@@ -11396,7 +11765,8 @@
     "channels": [
       {
         "id": 18,
-        "name": "Duna World Hungary"
+        "name": "Duna World Hungary",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZaMlVYR3lOSjNabEVCTFkvOUsrTjN1ZVVkVzFET0NacXIrVmc9PQ/master.m3u8"
       }
     ]
   },
@@ -11418,7 +11788,8 @@
     "channels": [
       {
         "id": 18,
-        "name": "Duna World Hungary"
+        "name": "Duna World Hungary",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2ZaMlVYR3lOSjNabEVCTFkvOUsrTjN1ZVVkVzFET0NacXIrVmc9PQ/master.m3u8"
       }
     ]
   },
