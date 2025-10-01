@@ -336,7 +336,8 @@
     "channels": [
       {
         "id": 206,
-        "name": "Sky Sports+"
+        "name": "Sky Sports+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOckRDanpOdHpheUJzZTNMSjcvU1ZubVhRa0ZkMXdVeHFTRVE2OXZ3PT0/master.m3u8"
       }
     ]
   },
@@ -3226,8 +3227,7 @@
     "channels": [
       {
         "id": 58,
-        "name": "EuroSport 2 Poland",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JER3hOTjNiaVZoQW12L3U0ejZJdTFLUm9jMXdybXlZSGhOYg/master.m3u8"
+        "name": "EuroSport 2 Poland"
       },
       {
         "id": 525,
@@ -3598,8 +3598,7 @@
       },
       {
         "id": 47,
-        "name": "Polsat Sport 1 Pland",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN6R3hOTjNiaVZoQW12OWpjWWJFam9rWE5Pbnlma280aUdIUQ/master.m3u8"
+        "name": "Polsat Sport 1 Pland"
       }
     ]
   },
