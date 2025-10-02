@@ -246,7 +246,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "TV2 Sport Norway"
+        "name": "TV2 Sport Norway",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
@@ -290,7 +291,8 @@
     "channels": [
       {
         "id": 573,
-        "name": "Match Premier Russia"
+        "name": "Match Premier Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
       }
     ]
   },
@@ -1613,7 +1615,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "ANT 1 Greece"
+        "name": "ANT 1 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       },
       {
         "id": 435,
@@ -2873,7 +2876,8 @@
     "channels": [
       {
         "id": 1,
-        "name": "Liga 1 Max Peru"
+        "name": "Liga 1 Max Peru",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
       }
     ]
   },
