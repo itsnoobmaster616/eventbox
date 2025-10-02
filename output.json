@@ -22,8 +22,7 @@
       },
       {
         "id": 103,
-        "name": "Sportklub 3 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+        "name": "Sportklub 3 Croatia"
       },
       {
         "id": 468,
@@ -37,8 +36,7 @@
       },
       {
         "id": 103,
-        "name": "Sport Klub 3 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+        "name": "Sport Klub 3 Croatia"
       }
     ]
   },
@@ -4349,8 +4347,7 @@
       },
       {
         "id": 103,
-        "name": "Sport Klub 3 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+        "name": "Sport Klub 3 Croatia"
       },
       {
         "id": 145,
@@ -4614,8 +4611,7 @@
       },
       {
         "id": 103,
-        "name": "Sport Klub 3 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+        "name": "Sport Klub 3 Croatia"
       }
     ]
   },
@@ -5505,7 +5501,8 @@
     "channels": [
       {
         "id": 113,
-        "name": "TSN3"
+        "name": "TSN3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTM3pOdHpheUJzZTNMSjdTQ0NZVWdSWXR3cTZEbGlXeFJIT1BBPT0/master.m3u8"
       },
       {
         "id": 115,
