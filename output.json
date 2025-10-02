@@ -177,8 +177,7 @@
       },
       {
         "id": 142,
-        "name": "Sport 3 Israel",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDenpOdHpheUJzZTNMSjdtZzAycHFyTFU5VWVjMis0RjcyR3JRPT0/master.m3u8"
+        "name": "Sport 3 Israel"
       }
     ]
   },
@@ -574,7 +573,8 @@
     "channels": [
       {
         "id": 911,
-        "name": "Cytavision Sports 1 Cyprus"
+        "name": "Cytavision Sports 1 Cyprus",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOZ0RTL3pOdHpheUJzZTNMSjdwV0pwM3NlNHptTzhuSnJYTFVuWGRnPT0/master.m3u8"
       }
     ]
   },
