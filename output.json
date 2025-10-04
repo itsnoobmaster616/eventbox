@@ -2319,8 +2319,7 @@
       },
       {
         "id": 104,
-        "name": "Sportklub 4 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
+        "name": "Sportklub 4 Croatia"
       }
     ]
   },
@@ -4215,8 +4214,7 @@
       },
       {
         "id": 104,
-        "name": "Sportklub 4 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
+        "name": "Sportklub 4 Croatia"
       },
       {
         "id": 633,
@@ -5822,8 +5820,7 @@
       },
       {
         "id": 104,
-        "name": "Sport Klub 4 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
+        "name": "Sport Klub 4 Croatia"
       }
     ]
   },
@@ -7388,8 +7385,7 @@
       },
       {
         "id": 104,
-        "name": "Sport Klub 4 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
+        "name": "Sport Klub 4 Croatia"
       },
       {
         "id": 142,
@@ -15367,7 +15363,8 @@
     "channels": [
       {
         "id": 200,
-        "name": "Canal+ Live 5 France"
+        "name": "Canal+ Live 5 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3Y1cEUzT3pOZHlheWdZRzE0SHJ0Um1TUUdPdEljQVNSWUF1N293PQ/master.m3u8"
       }
     ]
   },
