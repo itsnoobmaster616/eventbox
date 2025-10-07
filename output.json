@@ -1,269 +1,392 @@
 [
   {
     "id": 1,
-    "slug": "2025-10-06-1200-russia---fnl-2-1",
+    "slug": "2025-10-07-1800-england---efl-trophy-1",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T12:00:00+00:00",
-    "end": "2025-10-06T15:00:00+00:00",
-    "start_timestamp": 1759752000,
-    "end_timestamp": 1759762800,
-    "event": "Russia - FNL 2 : Orenburg II vs Nosta",
-    "match": "Russia - FNL 2",
-    "team1": "Orenburg II",
-    "team2": "Nosta",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Salford City vs Stockport County",
+    "match": "England - EFL Trophy",
+    "team1": "Salford City",
+    "team2": "Stockport County",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 573,
-        "name": "Match Premier Russia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
+        "id": 55,
+        "name": "Sky Sports+",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       }
     ]
   },
   {
     "id": 2,
-    "slug": "2025-10-06-1430-romania---liga-i-2",
+    "slug": "2025-10-07-1800-england---efl-trophy-2",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T14:30:00+00:00",
-    "end": "2025-10-06T17:30:00+00:00",
-    "start_timestamp": 1759761000,
-    "end_timestamp": 1759771800,
-    "event": "Romania - Liga I : Oţelul vs Metaloglobus",
-    "match": "Romania - Liga I",
-    "team1": "Oţelul",
-    "team2": "Metaloglobus",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Cambridge United vs Luton Town",
+    "match": "England - EFL Trophy",
+    "team1": "Cambridge United",
+    "team2": "Luton Town",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 400,
-        "name": "Digi Sport 1 Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
-      },
-      {
-        "id": 583,
-        "name": "Prima Sport 1 Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGZacUUzT3pOZHlheWdZRzEzdkpiN0dabmxXSnNVQ3lyRnhGV09vPQ/master.m3u8"
-      },
-      {
-        "id": 432,
-        "name": "Arena Sport 1 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
+        "id": 59,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 3,
-    "slug": "2025-10-06-1600-germany---frauen-bundesliga-3",
+    "slug": "2025-10-07-1800-england---efl-trophy-3",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "Germany - Frauen-Bundesliga : Hamburger SV vs Hoffenheim",
-    "match": "Germany - Frauen-Bundesliga",
-    "team1": "Hamburger SV",
-    "team2": "Hoffenheim",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Wycombe Wanderers vs Fulham U21",
+    "match": "England - EFL Trophy",
+    "team1": "Wycombe Wanderers",
+    "team2": "Fulham U21",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1,
-        "name": "Magenta Sport 301",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
-      },
-      {
-        "id": 641,
-        "name": "Sport1 DE",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdkNDL3pOdHpheUJzZTNMSjdkdGFLV3V4eS8xRHJPdnhDamdFZXlnPT0/master.m3u8"
-      },
-      {
-        "id": 426,
-        "name": "DAZN1 DE",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERpanpOdHpheUJzZTNMSjcvSmdLTFBRWHN1TENudkVxZFNjdUJRPT0/master.m3u8"
+        "id": 68,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 4,
-    "slug": "2025-10-06-1600-bosnia-and-herzegovina---premijer-liga-4",
+    "slug": "2025-10-07-1800-england---efl-trophy-4",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "Bosnia and Herzegovina - Premijer Liga : Sarajevo vs Zrinjski",
-    "match": "Bosnia and Herzegovina - Premijer Liga",
-    "team1": "Sarajevo",
-    "team2": "Zrinjski",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Leyton Orient vs Crawley Town",
+    "match": "England - EFL Trophy",
+    "team1": "Leyton Orient",
+    "team2": "Crawley Town",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 581,
-        "name": "Arena Sport 4 Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDL3pOdHpheUJzZTNMSjdFZERGMGNhZkw0YWxBZlpLaFJ5dFZnPT0/master.m3u8"
-      },
-      {
-        "id": 433,
-        "name": "Arena Sport 2 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdER5M3pOdHpheUJzZTNMSjdVQ1hVM2EyVmxpamE2MTZwN2haeHZ3PT0/master.m3u8"
+        "id": 69,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 5,
-    "slug": "2025-10-06-1600-bulgaria,-second-professional-league---gorna-oryahovitsa-vs.-fc-fratria-varna-5",
+    "slug": "2025-10-07-1800-england---efl-trophy-5",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "Bulgaria, Second Professional League - Gorna Oryahovitsa vs. FC Fratria Varna",
-    "match": "Bulgaria, Second Professional League - Gorna Oryahovitsa vs. FC Fratria Varna",
-    "team1": null,
-    "team2": null,
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Stevenage vs Bromley",
+    "match": "England - EFL Trophy",
+    "team1": "Stevenage",
+    "team2": "Bromley",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 465,
-        "name": "Diema Sport 1 Bulgaria",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpdnpOdHpheUJzZTNMSjdlR0Z3SXBrRVljZUM0QVpXTlVUUnJnPT0/master.m3u8"
-      },
-      {
-        "id": 103,
-        "name": "Sport Klub 3 Crotaia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+        "id": 76,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 6,
-    "slug": "2025-10-06-1630-russia---fnl-6",
+    "slug": "2025-10-07-1800-england---efl-trophy-6",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:30:00+00:00",
-    "end": "2025-10-06T19:30:00+00:00",
-    "start_timestamp": 1759768200,
-    "end_timestamp": 1759779000,
-    "event": "Russia - FNL : KAMAZ vs Ural",
-    "match": "Russia - FNL",
-    "team1": "KAMAZ",
-    "team2": "Ural",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Reading vs Milton Keynes Dons",
+    "match": "England - EFL Trophy",
+    "team1": "Reading",
+    "team2": "Milton Keynes Dons",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 573,
-        "name": "Match Premier Russia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0N5M3pOdHpheUJzZTNMSjcyMmZlYmo1MlNXQWcxcVVZOEpwcEZBPT0/master.m3u8"
-      },
-      {
-        "id": 127,
-        "name": "Match Tv Russia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RpbnpOdHpheUJzZTNMSjdlSUVQOVc3OTM1RTI3SW03L3loZ3F3PT0/master.m3u8"
+        "id": 77,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 7,
-    "slug": "2025-10-06-1700-sweden---superettan-7",
+    "slug": "2025-10-07-1800-england---efl-trophy-7",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:00:00+00:00",
-    "end": "2025-10-06T20:00:00+00:00",
-    "start_timestamp": 1759770000,
-    "end_timestamp": 1759780800,
-    "event": "Sweden - Superettan : Sandviken vs Örgryte",
-    "match": "Sweden - Superettan",
-    "team1": "Sandviken",
-    "team2": "Örgryte",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Walsall vs Northampton Town",
+    "match": "England - EFL Trophy",
+    "team1": "Walsall",
+    "team2": "Northampton Town",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 2,
-        "name": "Discovery+",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
+        "id": 86,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 8,
-    "slug": "2025-10-06-1700-denmark-betinia-liga-8",
+    "slug": "2025-10-07-1800-england---efl-trophy-8",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:00:00+00:00",
-    "end": "2025-10-06T20:00:00+00:00",
-    "start_timestamp": 1759770000,
-    "end_timestamp": 1759780800,
-    "event": "Denmark Betinia Liga : Hvidovre vs Lyngby",
-    "match": "Denmark Betinia Liga",
-    "team1": "Hvidovre",
-    "team2": "Lyngby",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Cheltenham Town vs Bristol Rovers",
+    "match": "England - EFL Trophy",
+    "team1": "Cheltenham Town",
+    "team2": "Bristol Rovers",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 809,
-        "name": "TV3 Sport Denmark",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERDZnpOdHpheUJzZTNMSjdYQWlrWFNYeGo1VUN5KzBLNkhBbXZ3PT0/master.m3u8"
+        "id": 105,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 9,
-    "slug": "2025-10-06-1730-romania---liga-i-9",
+    "slug": "2025-10-07-1800-england---efl-trophy-9",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:30:00+00:00",
-    "end": "2025-10-06T20:30:00+00:00",
-    "start_timestamp": 1759771800,
-    "end_timestamp": 1759782600,
-    "event": "Romania - Liga I : Botoşani vs UTA Arad",
-    "match": "Romania - Liga I",
-    "team1": "Botoşani",
-    "team2": "UTA Arad",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Chesterfield vs Burton Albion",
+    "match": "England - EFL Trophy",
+    "team1": "Chesterfield",
+    "team2": "Burton Albion",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 400,
-        "name": "Digi Sport 1 Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
-      },
-      {
-        "id": 583,
-        "name": "Prima Sport 1 Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGZacUUzT3pOZHlheWdZRzEzdkpiN0dabmxXSnNVQ3lyRnhGV09vPQ/master.m3u8"
-      },
-      {
-        "id": 580,
-        "name": "Arena Sport 4 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0JDN3pOdHpheUJzZTNMSjd2d0dqUmlaMnlOTW5DcmhTM21HWHN3PT0/master.m3u8"
+        "id": 106,
+        "name": "Sky Sports+"
       }
     ]
   },
   {
     "id": 10,
-    "slug": "2025-10-06-1800-netherlands---eerste-divisie-10",
+    "slug": "2025-10-07-1800-england---efl-trophy-10",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:00:00+00:00",
-    "end": "2025-10-06T21:00:00+00:00",
-    "start_timestamp": 1759773600,
-    "end_timestamp": 1759784400,
-    "event": "Netherlands - Eerste Divisie : Vitesse vs Den Bosch",
-    "match": "Netherlands - Eerste Divisie",
-    "team1": "Vitesse",
-    "team2": "Den Bosch",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Fleetwood Town vs Leeds United U21",
+    "match": "England - EFL Trophy",
+    "team1": "Fleetwood Town",
+    "team2": "Leeds United U21",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 107,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "2025-10-07-1800-england---efl-trophy-11",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Rotherham United vs Oldham Athletic",
+    "match": "England - EFL Trophy",
+    "team1": "Rotherham United",
+    "team2": "Oldham Athletic",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 108,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "2025-10-07-1800-england---efl-trophy-12",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Grimsby Town vs Doncaster Rovers",
+    "match": "England - EFL Trophy",
+    "team1": "Grimsby Town",
+    "team2": "Doncaster Rovers",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 109,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "2025-10-07-1800-england---efl-trophy-13",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "England - EFL Trophy : Wigan Athletic vs Wolves U21",
+    "match": "England - EFL Trophy",
+    "team1": "Wigan Athletic",
+    "team2": "Wolves U21",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 110,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "2025-10-07-1830-england---efl-trophy-14",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:30:00+00:00",
+    "end": "2025-10-07T21:30:00+00:00",
+    "start_timestamp": 1759861800,
+    "end_timestamp": 1759872600,
+    "event": "England - EFL Trophy : Barrow vs Tranmere Rovers",
+    "match": "England - EFL Trophy",
+    "team1": "Barrow",
+    "team2": "Tranmere Rovers",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 151,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "2025-10-07-1845-england---efl-trophy-15",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:45:00+00:00",
+    "end": "2025-10-07T21:45:00+00:00",
+    "start_timestamp": 1759862700,
+    "end_timestamp": 1759873500,
+    "event": "England - EFL Trophy : Accrington Stanley vs Port Vale",
+    "match": "England - EFL Trophy",
+    "team1": "Accrington Stanley",
+    "team2": "Port Vale",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 152,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "2025-10-07-1845-england---efl-trophy-16",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:45:00+00:00",
+    "end": "2025-10-07T21:45:00+00:00",
+    "start_timestamp": 1759862700,
+    "end_timestamp": 1759873500,
+    "event": "England - EFL Trophy : Cardiff City vs Newport County",
+    "match": "England - EFL Trophy",
+    "team1": "Cardiff City",
+    "team2": "Newport County",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 153,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "2025-10-07-1845-england---efl-trophy-17",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:45:00+00:00",
+    "end": "2025-10-07T21:45:00+00:00",
+    "start_timestamp": 1759862700,
+    "end_timestamp": 1759873500,
+    "event": "England - EFL Trophy : Colchester United vs Gillingham",
+    "match": "England - EFL Trophy",
+    "team1": "Colchester United",
+    "team2": "Gillingham",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 154,
+        "name": "Sky Sports+"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "2025-10-07-1645-netherlands---eredivisie-women-18",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:45:00+00:00",
+    "end": "2025-10-07T19:45:00+00:00",
+    "start_timestamp": 1759855500,
+    "end_timestamp": 1759866300,
+    "event": "Netherlands - Eredivisie Women : Utrecht vs Feyenoord",
+    "match": "Netherlands - Eredivisie Women",
+    "team1": "Utrecht",
+    "team2": "Feyenoord",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -275,54 +398,35 @@
     ]
   },
   {
-    "id": 11,
-    "slug": "2025-10-06-1900-england---league-two-11",
+    "id": 19,
+    "slug": "2025-10-07-1645-europe---uefa-women's-champions-league-19",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T19:00:00+00:00",
-    "end": "2025-10-06T22:00:00+00:00",
-    "start_timestamp": 1759777200,
-    "end_timestamp": 1759788000,
-    "event": "England - League Two : Harrogate Town vs Crewe Alexandra",
-    "match": "England - League Two",
-    "team1": "Harrogate Town",
-    "team2": "Crewe Alexandra",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:45:00+00:00",
+    "end": "2025-10-07T19:45:00+00:00",
+    "start_timestamp": 1759855500,
+    "end_timestamp": 1759866300,
+    "event": "Europe - UEFA Women's Champions League : Juventus vs SL Benfica",
+    "match": "Europe - UEFA Women's Champions League",
+    "team1": "Juventus",
+    "team2": "SL Benfica",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 910,
-        "name": "CBS Sports Golazo USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RTN3pOdHpheUJzZTNMSjdQZXcwcFIvT2pxNU0wVkZYLzdtaHFnPT0/master.m3u8"
+        "id": 380,
+        "name": "BTV 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhSXVFaUZnY2dhaHQvb3QvbDN1YXJwOWcyQnJSRHJ2enc0UXRJbVk9/master.m3u8"
       },
       {
-        "id": 35,
-        "name": "Sky Sports Football UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNUR3hOTjNiaVZoQW12OWNCREIwMFhDVm1HZGhTeGZ2eVZwRQ/master.m3u8"
+        "id": 719,
+        "name": "RTP 1 Portugal",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdURTZnpOdHpheUJzZTNMSjdPamFXYjBJU1JIMlREcTdMNXR4ZmhnPT0/master.m3u8"
       },
       {
-        "id": 1023,
-        "name": "Nova Sport 3 CZ"
-      },
-      {
-        "id": 124,
-        "name": "Astro Football",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpcnpOdHpheUJzZTNMSjdtZUlxZUtSeldyeGJxaCtxUzZBSWtBPT0/master.m3u8"
-      },
-      {
-        "id": 493,
-        "name": "beIN SPORTS Australia 3",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTM3pOdHpheUJzZTNMSjdUNVB4d3VKS21uY1BHbTFsTFRiK2V3PT0/master.m3u8"
-      },
-      {
-        "id": 430,
-        "name": "Arena Sport 2 Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdER5N3pOdHpheUJzZTNMSjdZVlovWll5dnY5WmM5b3lCQTVFK2tRPT0/master.m3u8"
-      },
-      {
-        "id": 466,
-        "name": "Diema Sport 2 Bulgaria",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENpanpOdHpheUJzZTNMSjdTUkxibXJnK1NEa0UvZFIrMk1PZWdBPT0/master.m3u8"
+        "id": 932,
+        "name": "TVC Deportes Mexico",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWYxckUzT3pOZHlheWdZRzF3YVFYYkUwS3RpRG8zTzc4ZGRJWXlZPQ/master.m3u8"
       },
       {
         "id": 61,
@@ -332,143 +436,291 @@
     ]
   },
   {
-    "id": 12,
-    "slug": "2025-10-06-2200-argentina---primera-división-12",
+    "id": 20,
+    "slug": "2025-10-07-1700-romania---liga-ii-20",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T22:00:00+00:00",
-    "end": "2025-10-07T01:00:00+00:00",
-    "start_timestamp": 1759788000,
-    "end_timestamp": 1759798800,
-    "event": "Argentina - Primera División : Deportivo Riestra vs Vélez Sarsfield",
-    "match": "Argentina - Primera División",
-    "team1": "Deportivo Riestra",
-    "team2": "Vélez Sarsfield",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Romania - Liga II : ASA Târgu Mureş vs Gloria Bistriţa",
+    "match": "Romania - Liga II",
+    "team1": "ASA Târgu Mureş",
+    "team2": "Gloria Bistriţa",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 387,
-        "name": "ESPN Premium Argentina",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOcUJDbnpOdHpheUJzZTNMSjdRRWZRMWRjV2NFQU5hNGtWd0U1cmVBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "slug": "2025-10-06-2200-uruguay---primera-division-13",
-    "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T22:00:00+00:00",
-    "end": "2025-10-07T01:00:00+00:00",
-    "start_timestamp": 1759788000,
-    "end_timestamp": 1759798800,
-    "event": "Uruguay - Primera Division : Defensor Sporting vs Wanderers",
-    "match": "Uruguay - Primera Division",
-    "team1": "Defensor Sporting",
-    "team2": "Wanderers",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 391,
-        "name": "VTV+ Uruguay",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby9kb0UzT3pOZHlheWdZRzE0TnlGSGdPalA2QTdpWG5NSlFZcUpvPQ/master.m3u8"
+        "id": 400,
+        "name": "Digi Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1cEUzT3pOZHlheWdZRzF5V2Y1dVNlZThmOCtzNk1HZGhjd2Q4PQ/master.m3u8"
       },
       {
-        "id": 597,
-        "name": "GOLTV USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0JTbnpOdHpheUJzZTNMSjdYQTQrclZXVGptSFFNcy9ZcXFXYTF3PT0/master.m3u8"
+        "id": 583,
+        "name": "Prima Sport 1 Romania",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGZacUUzT3pOZHlheWdZRzEzdkpiN0dabmxXSnNVQ3lyRnhGV09vPQ/master.m3u8"
       }
     ]
   },
   {
-    "id": 14,
-    "slug": "2025-10-06-2300-copa-libertadores-femenina-14",
+    "id": 21,
+    "slug": "2025-10-07-1730-france---national-1-21",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T23:00:00+00:00",
-    "end": "2025-10-07T02:00:00+00:00",
-    "start_timestamp": 1759791600,
-    "end_timestamp": 1759802400,
-    "event": "Copa Libertadores Femenina : São Paulo vs Colo Colo",
-    "match": "Copa Libertadores Femenina",
-    "team1": "São Paulo",
-    "team2": "Colo Colo",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:30:00+00:00",
+    "end": "2025-10-07T20:30:00+00:00",
+    "start_timestamp": 1759858200,
+    "end_timestamp": 1759869000,
+    "event": "France - National 1 : Versailles vs Villefranche",
+    "match": "France - National 1",
+    "team1": "Versailles",
+    "team2": "Villefranche",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 78,
-        "name": "Sportv Brazil",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdUJER3hOTjNiaVZoQW12OHYzSEZ1bmswNVpMb2JYSyswMnZ4Zw/master.m3u8"
+        "id": 10,
+        "name": "BFM Lyon",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1MlVYR3lOSjNabEVCTENQQUEwRGlnM050ZVNwaDBudURIOUE9PQ/master.m3u8"
       }
     ]
   },
   {
-    "id": 15,
-    "slug": "2025-10-06-0000-argentina---primera-división-15",
+    "id": 22,
+    "slug": "2025-10-07-1900-europe---uefa-women's-champions-league-22",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:00:00+00:00",
-    "end": "2025-10-06T03:00:00+00:00",
-    "start_timestamp": 1759708800,
-    "end_timestamp": 1759719600,
-    "event": "Argentina - Primera División : Racing Club vs Independiente Rivadavia",
-    "match": "Argentina - Primera División",
-    "team1": "Racing Club",
-    "team2": "Independiente Rivadavia",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T19:00:00+00:00",
+    "end": "2025-10-07T22:00:00+00:00",
+    "start_timestamp": 1759863600,
+    "end_timestamp": 1759874400,
+    "event": "Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais",
+    "match": "Europe - UEFA Women's Champions League",
+    "team1": "Arsenal",
+    "team2": "Olympique Lyonnais",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 388,
-        "name": "TNT Sports Argentina",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOcUJDYnpOdHpheUJzZTNMSjdaT3BidUpsd1VwZDRXbGVud3RzLyt3PT0/master.m3u8"
+        "id": 308,
+        "name": "CBS Sports Network USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8"
       },
       {
-        "id": 81,
-        "name": "ESPN Brazil",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOaERUR3hOTjNiaVZoQW12OWttVW1DWmI5VjEraXpIQlNESThGVg/master.m3u8"
+        "id": 645,
+        "name": "L'Equipe France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhiWWVCaUZnY2dhaHQvb3QvbDhONmRJdGxLbVhULzFINS9nODZ3U0E9/master.m3u8"
+      },
+      {
+        "id": 1033,
+        "name": "ČT Sport CZ"
+      },
+      {
+        "id": 712,
+        "name": "beIN Sports Malaysia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC85ckUzT3pOZHlheWdZRzE4cHE1eTZEVHhxTWt5SUk5MlJLQ1ZVPQ/master.m3u8"
+      },
+      {
+        "id": 94,
+        "name": "beIN Sports MENA 4"
+      },
+      {
+        "id": 61,
+        "name": "beIN Sports MENA English 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkRUR3hOTjNiaVZoQW12OGxDVGRWTkhIdUxrNW1tV3REM2ZXbQ/master.m3u8"
       }
     ]
   },
   {
-    "id": 16,
-    "slug": "2025-10-06-0010-argentina---primera-b-metropolitana-16",
+    "id": 23,
+    "slug": "2025-10-07-1900-europe---uefa-women's-champions-league-23",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:10:00+00:00",
-    "end": "2025-10-06T03:10:00+00:00",
-    "start_timestamp": 1759709400,
-    "end_timestamp": 1759720200,
-    "event": "Argentina - Primera B Metropolitana : Midland vs Deportivo Armenio",
-    "match": "Argentina - Primera B Metropolitana",
-    "team1": "Midland",
-    "team2": "Deportivo Armenio",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T19:00:00+00:00",
+    "end": "2025-10-07T22:00:00+00:00",
+    "start_timestamp": 1759863600,
+    "end_timestamp": 1759874400,
+    "event": "Europe - UEFA Women's Champions League : Paris vs OH Leuven",
+    "match": "Europe - UEFA Women's Champions League",
+    "team1": "Paris",
+    "team2": "OH Leuven",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 746,
-        "name": "TyC Sports Argentina",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdUNDanpOdHpheUJzZTNMSjdzbmRiVkttNnlmTXJFazEyTkpkZVpBPT0/master.m3u8"
+        "id": 713,
+        "name": "beIN Sports 2 Malaysia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcC85cUUzT3pOZHlheWdZRzE4TDlCOGRrR3BpSDNUcFRpbDZ2N1VJPQ/master.m3u8"
+      },
+      {
+        "id": 100,
+        "name": "beIN Sports MENA Xtra 1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDN3pOdHpheUJzZTNMSjdobm9SMHgrdXdEMnVRRk5FaFM0UDJnPT0/master.m3u8"
       }
     ]
   },
   {
-    "id": 17,
-    "slug": "2025-10-06-0030-colombia---primera-a-17",
+    "id": 24,
+    "slug": "2025-10-07-1900-europe---uefa-women's-champions-league-24",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:30:00+00:00",
-    "end": "2025-10-06T03:30:00+00:00",
-    "start_timestamp": 1759710600,
-    "end_timestamp": 1759721400,
-    "event": "Colombia - Primera A : La Equidad vs Once Caldas",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T19:00:00+00:00",
+    "end": "2025-10-07T22:00:00+00:00",
+    "start_timestamp": 1759863600,
+    "end_timestamp": 1759874400,
+    "event": "Europe - UEFA Women's Champions League : Barcelona vs Bayern",
+    "match": "Europe - UEFA Women's Champions League",
+    "team1": "Barcelona",
+    "team2": "Bayern",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 90,
+        "name": "beIN Sports MENA English 2"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "2025-10-07-1930-fifa-u-20-world-cup-25",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T19:30:00+00:00",
+    "end": "2025-10-07T22:30:00+00:00",
+    "start_timestamp": 1759865400,
+    "end_timestamp": 1759876200,
+    "event": "FIFA U-20 World Cup : Ukraine U20 vs Spain U20",
+    "match": "FIFA U-20 World Cup",
+    "team1": "Ukraine U20",
+    "team2": "Spain U20",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 758,
+        "name": "Fox Sports 2 USA"
+      },
+      {
+        "id": 845,
+        "name": "NBC UNIVERSO USA"
+      },
+      {
+        "id": 115,
+        "name": "TSN5",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTdnpOdHpheUJzZTNMSjdLc2ZQSWtZczVQZTJOZnpISGg5UVlBPT0/master.m3u8"
+      },
+      {
+        "id": 127,
+        "name": "Match TV Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RpbnpOdHpheUJzZTNMSjdlSUVQOVc3OTM1RTI3SW03L3loZ3F3PT0/master.m3u8"
+      },
+      {
+        "id": 136,
+        "name": "Match! Football 1 Russia"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "2025-10-07-2300-fifa-u-20-world-cup-26",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "FIFA U-20 World Cup : Chile U20 vs Mexico U20",
+    "match": "FIFA U-20 World Cup",
+    "team1": "Chile U20",
+    "team2": "Mexico U20",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 758,
+        "name": "Fox Sports 2 USA"
+      },
+      {
+        "id": 113,
+        "name": "TSN3",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTM3pOdHpheUJzZTNMSjdTQ0NZVWdSWXR3cTZEbGlXeFJIT1BBPT0/master.m3u8"
+      },
+      {
+        "id": 115,
+        "name": "TSN5",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTdnpOdHpheUJzZTNMSjdLc2ZQSWtZczVQZTJOZnpISGg5UVlBPT0/master.m3u8"
+      },
+      {
+        "id": 127,
+        "name": "Match TV Russia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RpbnpOdHpheUJzZTNMSjdlSUVQOVc3OTM1RTI3SW03L3loZ3F3PT0/master.m3u8"
+      },
+      {
+        "id": 136,
+        "name": "Match! Football 1 Russia"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "2025-10-07-2300-united-states---ncaa-men's-soccer-27",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "United States - NCAA Men's Soccer : Georgetown vs Denver",
+    "match": "United States - NCAA Men's Soccer",
+    "team1": "Georgetown",
+    "team2": "Denver",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 316,
+        "name": "ESPNU USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURTanpOdHpheUJzZTNMSjdDcHVsU2FtOXlSK3NHSmdWaGxQWFlBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "2025-10-07-2300-united-states---ncaa-men's-soccer-28",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "United States - NCAA Men's Soccer : Harvard vs Vermont",
+    "match": "United States - NCAA Men's Soccer",
+    "team1": "Harvard",
+    "team2": "Vermont",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 762,
+        "name": "NESN USA"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "2025-10-07-0030-colombia---primera-a-29",
+    "category": "soccer",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:30:00+00:00",
+    "end": "2025-10-07T03:30:00+00:00",
+    "start_timestamp": 1759797000,
+    "end_timestamp": 1759807800,
+    "event": "Colombia - Primera A : Millonarios vs América de Cali",
     "match": "Colombia - Primera A",
-    "team1": "La Equidad",
-    "team2": "Once Caldas",
+    "team1": "Millonarios",
+    "team2": "América de Cali",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -480,135 +732,41 @@
     ]
   },
   {
-    "id": 18,
-    "slug": "2025-10-06-0200-liga-mx-femenil-18",
+    "id": 30,
+    "slug": "2025-10-07-0030-brazil-brasileirão-série-b-30",
     "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T02:00:00+00:00",
-    "end": "2025-10-06T05:00:00+00:00",
-    "start_timestamp": 1759716000,
-    "end_timestamp": 1759726800,
-    "event": "Liga MX Femenil : Monterrey vs América",
-    "match": "Liga MX Femenil",
-    "team1": "Monterrey",
-    "team2": "América",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:30:00+00:00",
+    "end": "2025-10-07T03:30:00+00:00",
+    "start_timestamp": 1759797000,
+    "end_timestamp": 1759807800,
+    "event": "Brazil Brasileirão Série B : Botafogo-SP vs Paysandu SC",
+    "match": "Brazil Brasileirão Série B",
+    "team1": "Botafogo-SP",
+    "team2": "Paysandu SC",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 935,
-        "name": "TUDN MX",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWYxc0UzT3pOZHlheWdZRzF6MTMveXlBZ2xhelNUbzdnblB4MzBNPQ/master.m3u8"
-      },
-      {
-        "id": 66,
-        "name": "TUDN USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdkNqR3hOTjNiaVZoQW12OXJPTkQzcWNWR29INk0wT3N3ZVV3YQ/master.m3u8"
+        "id": 81,
+        "name": "ESPN Brazil",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOaERUR3hOTjNiaVZoQW12OWttVW1DWmI5VjEraXpIQlNESThGVg/master.m3u8"
       }
     ]
   },
   {
-    "id": 19,
-    "slug": "2025-10-06-0200-portugal---liga-revelação-19",
-    "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T02:00:00+00:00",
-    "end": "2025-10-06T05:00:00+00:00",
-    "start_timestamp": 1759716000,
-    "end_timestamp": 1759726800,
-    "event": "Portugal - Liga Revelação : Torreense U23 vs Estrela U23",
-    "match": "Portugal - Liga Revelação",
-    "team1": "Torreense U23",
-    "team2": "Estrela U23",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 540,
-        "name": "Canal 11 Portugal",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NDN3pOdHpheUJzZTNMSjd3Yi9OOXlWbG5oaTdHVi9kbWxJSUZnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "slug": "2025-10-06-0230-nwsl-20",
-    "category": "soccer",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T02:30:00+00:00",
-    "end": "2025-10-06T05:30:00+00:00",
-    "start_timestamp": 1759717800,
-    "end_timestamp": 1759728600,
-    "event": "NWSL : Angel City vs Kansas City Current",
-    "match": "NWSL",
-    "team1": "Angel City",
-    "team2": "Kansas City Current",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 308,
-        "name": "CBS Sports Network USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURDYnpOdHpheUJzZTNMSjdTWkZSWmdWaDljeTdOMVRkKzQ1Nzl3PT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "slug": "2025-10-06-0400-1st-test-|-day-5-21",
+    "id": 31,
+    "slug": "2025-10-07-0930-icc-world-cup-women-31",
     "category": "cricket",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:00:00+00:00",
-    "end": "2025-10-06T07:00:00+00:00",
-    "start_timestamp": 1759723200,
-    "end_timestamp": 1759734000,
-    "event": "1st Test | Day 5 : India vs West Indies",
-    "match": "1st Test | Day 5",
-    "team1": "India",
-    "team2": "West Indies",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 33,
-        "name": "TNT Sports 3 UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby8xMlVYR3lOSjNabEVCTHB3Q3hKazd6eGczNjFCcEo3WFZtUFE9PQ/master.m3u8"
-      },
-      {
-        "id": 369,
-        "name": "Fox Cricket",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOcUNpZnpOdHpheUJzZTNMSjdWbGp5YWtMdzVONmJoWXEvZnU5MlpnPT0/master.m3u8"
-      },
-      {
-        "id": 368,
-        "name": "SuperSport Cricket",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhSVdNaUZnY2dhaHQvb3QvbDFZN01MNHFNT0VyTXAyWWMvV2p3YVE9/master.m3u8"
-      },
-      {
-        "id": 589,
-        "name": "Sky Sport 2 NZ",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VOaUZnY2dhaHQvb3QvbDIyNS9mNjE4Z3FOdXVBaUFiSXR4N0k9/master.m3u8"
-      },
-      {
-        "id": 412,
-        "name": "SuperSport Grandstand",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERTenpOdHpheUJzZTNMSjd6RG1kaTU2eTJubE9mQ0FIVHg2QWtnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "slug": "2025-10-06-0930-icc-world-cup-women-22",
-    "category": "cricket",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T09:30:00+00:00",
-    "end": "2025-10-06T12:30:00+00:00",
-    "start_timestamp": 1759743000,
-    "end_timestamp": 1759753800,
-    "event": "ICC World Cup Women : New Zealand W vs South Africa W",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T09:30:00+00:00",
+    "end": "2025-10-07T12:30:00+00:00",
+    "start_timestamp": 1759829400,
+    "end_timestamp": 1759840200,
+    "event": "ICC World Cup Women : Bangladesh W vs England W",
     "match": "ICC World Cup Women",
-    "team1": "New Zealand W",
-    "team2": "South Africa W",
+    "team1": "Bangladesh W",
+    "team2": "England W",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -640,244 +798,41 @@
     ]
   },
   {
-    "id": 23,
-    "slug": "2025-10-06-0430-atp---shanghai-23",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "ATP - SHANGHAI : Auger-Aliassime F. vs De Jong J.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Auger-Aliassime F.",
-    "team2": "De Jong J.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "slug": "2025-10-06-0430-atp---shanghai-24",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "ATP - SHANGHAI : Majchrzak K. vs De Minaur A.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Majchrzak K.",
-    "team2": "De Minaur A.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1507,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "slug": "2025-10-06-0430-atp---shanghai-25",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "ATP - SHANGHAI : Krajicek A./Mektic N. vs Harrison C./King E.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Krajicek A./Mektic N.",
-    "team2": "Harrison C./King E.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1509,
-        "name": "Tennis Stream"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "slug": "2025-10-06-0600-atp---shanghai-26",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "ATP - SHANGHAI : Shang J. vs Borges N.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Shang J.",
-    "team2": "Borges N.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1507,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "slug": "2025-10-06-0600-atp---shanghai-27",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "ATP - SHANGHAI : Shapovalov D. vs Lehecka J.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Shapovalov D.",
-    "team2": "Lehecka J.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "slug": "2025-10-06-0600-atp---shanghai-28",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "ATP - SHANGHAI : Arevalo M./Pavic M. vs Skupski N./Smith J. P.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Arevalo M./Pavic M.",
-    "team2": "Skupski N./Smith J. P.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1509,
-        "name": "Tennis Stream"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "slug": "2025-10-06-0730-atp---shanghai-29",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T07:30:00+00:00",
-    "end": "2025-10-06T10:30:00+00:00",
-    "start_timestamp": 1759735800,
-    "end_timestamp": 1759746600,
-    "event": "ATP - SHANGHAI : Darderi L. vs Musetti L.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Darderi L.",
-    "team2": "Musetti L.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "slug": "2025-10-06-0730-atp---shanghai-30",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T07:30:00+00:00",
-    "end": "2025-10-06T10:30:00+00:00",
-    "start_timestamp": 1759735800,
-    "end_timestamp": 1759746600,
-    "event": "ATP - SHANGHAI : Peers J./Zielinski J. vs Schnaitter J./Wallner M.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Peers J./Zielinski J.",
-    "team2": "Schnaitter J./Wallner M.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1509,
-        "name": "Tennis Stream"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "slug": "2025-10-06-0900-atp---shanghai-31",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T09:00:00+00:00",
-    "end": "2025-10-06T12:00:00+00:00",
-    "start_timestamp": 1759741200,
-    "end_timestamp": 1759752000,
-    "event": "ATP - SHANGHAI : Tien L. vs Norrie C.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Tien L.",
-    "team2": "Norrie C.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
     "id": 32,
-    "slug": "2025-10-06-0900-atp---shanghai-32",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T09:00:00+00:00",
-    "end": "2025-10-06T12:00:00+00:00",
-    "start_timestamp": 1759741200,
-    "end_timestamp": 1759752000,
-    "event": "ATP - SHANGHAI : Bu Y./Ho R. vs Heliovaara H./Patten H.",
-    "match": "ATP - SHANGHAI",
-    "team1": "Bu Y./Ho R.",
-    "team2": "Heliovaara H./Patten H.",
+    "slug": "2025-10-07-2300-national-league-women-32",
+    "category": "cricket",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "National League Women : Victorian Spirit W vs Tasmanian Roar W",
+    "match": "National League Women",
+    "team1": "Victorian Spirit W",
+    "team2": "Tasmanian Roar W",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1509,
-        "name": "Tennis Stream"
+        "id": 591,
+        "name": "Sky Sport 4 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
       }
     ]
   },
   {
     "id": 33,
-    "slug": "2025-10-06-1030-atp---shanghai-33",
+    "slug": "2025-10-07-0430-atp---shanghai-33",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T10:30:00+00:00",
-    "end": "2025-10-06T13:30:00+00:00",
-    "start_timestamp": 1759746600,
-    "end_timestamp": 1759757400,
-    "event": "ATP - SHANGHAI : Zverev A. vs Rinderknech A.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "ATP - SHANGHAI : Diallo G. vs Bergs Z.",
     "match": "ATP - SHANGHAI",
-    "team1": "Zverev A.",
-    "team2": "Rinderknech A.",
+    "team1": "Diallo G.",
+    "team2": "Bergs Z.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -885,22 +840,49 @@
         "id": 1507,
         "name": "Tennis Stream",
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
+      },
+      {
+        "id": 1523,
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 34,
-    "slug": "2025-10-06-1200-atp---shanghai-34",
+    "slug": "2025-10-07-0430-atp---shanghai-34",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T12:00:00+00:00",
-    "end": "2025-10-06T15:00:00+00:00",
-    "start_timestamp": 1759752000,
-    "end_timestamp": 1759762800,
-    "event": "ATP - SHANGHAI : Davidovich Fokina A. vs Medvedev D.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "ATP - SHANGHAI : Cash R./Tracy J. vs Krawietz K./Puetz T.",
     "match": "ATP - SHANGHAI",
-    "team1": "Davidovich Fokina A.",
-    "team2": "Medvedev D.",
+    "team1": "Cash R./Tracy J.",
+    "team2": "Krawietz K./Puetz T.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1508,
+        "name": "Tennis Stream",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "2025-10-07-0600-atp---shanghai-35",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T09:00:00+00:00",
+    "start_timestamp": 1759816800,
+    "end_timestamp": 1759827600,
+    "event": "ATP - SHANGHAI : Mpetshi Perricard G. vs Rune H.",
+    "match": "ATP - SHANGHAI",
+    "team1": "Mpetshi Perricard G.",
+    "team2": "Rune H.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -908,293 +890,283 @@
         "id": 1507,
         "name": "Tennis Stream",
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "slug": "2025-10-06-0300-wta---wuhan-35",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T03:00:00+00:00",
-    "end": "2025-10-06T06:00:00+00:00",
-    "start_timestamp": 1759719600,
-    "end_timestamp": 1759730400,
-    "event": "WTA - WUHAN : Krueger A. vs Baptiste H.",
-    "match": "WTA - WUHAN",
-    "team1": "Krueger A.",
-    "team2": "Baptiste H.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
+      },
       {
-        "id": 1501,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+        "id": 1523,
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 36,
-    "slug": "2025-10-06-0300-wta---wuhan-36",
+    "slug": "2025-10-07-0600-atp---shanghai-36",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T03:00:00+00:00",
-    "end": "2025-10-06T06:00:00+00:00",
-    "start_timestamp": 1759719600,
-    "end_timestamp": 1759730400,
-    "event": "WTA - WUHAN : Osorio C. vs Bouzkova M.",
-    "match": "WTA - WUHAN",
-    "team1": "Osorio C.",
-    "team2": "Bouzkova M.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T09:00:00+00:00",
+    "start_timestamp": 1759816800,
+    "end_timestamp": 1759827600,
+    "event": "ATP - SHANGHAI : Andreozzi G./Guinard M. vs Cerundolo F./Darderi L.",
+    "match": "ATP - SHANGHAI",
+    "team1": "Andreozzi G./Guinard M.",
+    "team2": "Cerundolo F./Darderi L.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1502,
+        "id": 1508,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
       }
     ]
   },
   {
     "id": 37,
-    "slug": "2025-10-06-0300-wta---wuhan-37",
+    "slug": "2025-10-07-1030-atp---shanghai-37",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T03:00:00+00:00",
-    "end": "2025-10-06T06:00:00+00:00",
-    "start_timestamp": 1759719600,
-    "end_timestamp": 1759730400,
-    "event": "WTA - WUHAN : Yastremska D. vs Siegemund L.",
-    "match": "WTA - WUHAN",
-    "team1": "Yastremska D.",
-    "team2": "Siegemund L.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T10:30:00+00:00",
+    "end": "2025-10-07T13:30:00+00:00",
+    "start_timestamp": 1759833000,
+    "end_timestamp": 1759843800,
+    "event": "ATP - SHANGHAI : Munar J. vs Djokovic N.",
+    "match": "ATP - SHANGHAI",
+    "team1": "Munar J.",
+    "team2": "Djokovic N.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1503,
+        "id": 1507,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
       },
       {
-        "id": 1504,
+        "id": 1523,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 40,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERER3hOTjNiaVZoQW12LzlVTzlUK0lrVGFUSkRjL01TSS85NQ/master.m3u8"
       }
     ]
   },
   {
     "id": 38,
-    "slug": "2025-10-06-0430-wta---wuhan-38",
+    "slug": "2025-10-07-1200-atp---shanghai-38",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "WTA - WUHAN : Gracheva V. vs Bouzas Maneiro J.",
-    "match": "WTA - WUHAN",
-    "team1": "Gracheva V.",
-    "team2": "Bouzas Maneiro J.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:00:00+00:00",
+    "end": "2025-10-07T15:00:00+00:00",
+    "start_timestamp": 1759838400,
+    "end_timestamp": 1759849200,
+    "event": "ATP - SHANGHAI : Vacherot V. vs Griekspoor T.",
+    "match": "ATP - SHANGHAI",
+    "team1": "Vacherot V.",
+    "team2": "Griekspoor T.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1503,
+        "id": 1507,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpbnpOdHpheUJzZTNMSjdQVDlkVHk1WnhtVENaWjVSTzFOUUdBPT0/master.m3u8"
       },
       {
-        "id": 1504,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "id": 1523,
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 39,
-    "slug": "2025-10-06-0430-wta---wuhan-39",
+    "slug": "2025-10-07-0300-wta---wuhan-39",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "WTA - WUHAN : Mertens E. vs Kudermetova P.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T03:00:00+00:00",
+    "end": "2025-10-07T06:00:00+00:00",
+    "start_timestamp": 1759806000,
+    "end_timestamp": 1759816800,
+    "event": "WTA - WUHAN : Arango E. vs Samsonova L.",
     "match": "WTA - WUHAN",
-    "team1": "Mertens E.",
-    "team2": "Kudermetova P.",
+    "team1": "Arango E.",
+    "team2": "Samsonova L.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 40,
-    "slug": "2025-10-06-0430-wta---wuhan-40",
+    "slug": "2025-10-07-0300-wta---wuhan-40",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "WTA - WUHAN : Siniakova K. vs Shnaider D.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T03:00:00+00:00",
+    "end": "2025-10-07T06:00:00+00:00",
+    "start_timestamp": 1759806000,
+    "end_timestamp": 1759816800,
+    "event": "WTA - WUHAN : Kessler M. vs Cristian J.",
     "match": "WTA - WUHAN",
-    "team1": "Siniakova K.",
-    "team2": "Shnaider D.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1501,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "slug": "2025-10-06-0600-wta---wuhan-41",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "WTA - WUHAN : Danilovic 0. vs Tauson C.",
-    "match": "WTA - WUHAN",
-    "team1": "Danilovic 0.",
-    "team2": "Tauson C.",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "slug": "2025-10-06-0600-wta---wuhan-42",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "WTA - WUHAN : Ruzic A. vs Linette M.",
-    "match": "WTA - WUHAN",
-    "team1": "Ruzic A.",
-    "team2": "Linette M.",
+    "team1": "Kessler M.",
+    "team2": "Cristian J.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
         "id": 1503,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
-      },
+        "name": "Tennis Stream"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "2025-10-07-0300-wta---wuhan-41",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T03:00:00+00:00",
+    "end": "2025-10-07T06:00:00+00:00",
+    "start_timestamp": 1759806000,
+    "end_timestamp": 1759816800,
+    "event": "WTA - WUHAN : Zakharova A. vs Kenin S.",
+    "match": "WTA - WUHAN",
+    "team1": "Zakharova A.",
+    "team2": "Kenin S.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
       {
         "id": 1504,
+        "name": "Tennis Stream"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "2025-10-07-0300-wta---wuhan-42",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T03:00:00+00:00",
+    "end": "2025-10-07T06:00:00+00:00",
+    "start_timestamp": 1759806000,
+    "end_timestamp": 1759816800,
+    "event": "WTA - WUHAN : Osaka N. vs Fernandez L.",
+    "match": "WTA - WUHAN",
+    "team1": "Osaka N.",
+    "team2": "Fernandez L.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1524,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 1501,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+      },
+      {
+        "id": 40,
+        "name": "Tennis Stream",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERER3hOTjNiaVZoQW12LzlVTzlUK0lrVGFUSkRjL01TSS85NQ/master.m3u8"
       }
     ]
   },
   {
     "id": 43,
-    "slug": "2025-10-06-0600-wta---wuhan-43",
+    "slug": "2025-10-07-0430-wta---wuhan-43",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T06:00:00+00:00",
-    "end": "2025-10-06T09:00:00+00:00",
-    "start_timestamp": 1759730400,
-    "end_timestamp": 1759741200,
-    "event": "WTA - WUHAN : Zhu L. vs Joint M.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "WTA - WUHAN : Frech M. vs Kudermetova V.",
     "match": "WTA - WUHAN",
-    "team1": "Zhu L.",
-    "team2": "Joint M.",
+    "team1": "Frech M.",
+    "team2": "Kudermetova V.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1501,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+        "id": 1504,
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 44,
-    "slug": "2025-10-06-0800-wta---wuhan-44",
+    "slug": "2025-10-07-0430-wta---wuhan-44",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T08:00:00+00:00",
-    "end": "2025-10-06T11:00:00+00:00",
-    "start_timestamp": 1759737600,
-    "end_timestamp": 1759748400,
-    "event": "WTA - WUHAN : Bronzetti L. vs Yuan Y.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "WTA - WUHAN : Kostyuk M. vs Muchova K.",
     "match": "WTA - WUHAN",
-    "team1": "Bronzetti L.",
-    "team2": "Yuan Y.",
+    "team1": "Kostyuk M.",
+    "team2": "Muchova K.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 45,
-    "slug": "2025-10-06-1130-wta---wuhan-45",
+    "slug": "2025-10-07-0430-wta---wuhan-45",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T11:30:00+00:00",
-    "end": "2025-10-06T14:30:00+00:00",
-    "start_timestamp": 1759750200,
-    "end_timestamp": 1759761000,
-    "event": "WTA - WUHAN : Uchijima M. vs Wang Xin.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "WTA - WUHAN : Sramkova R. vs Kalinskaya A.",
     "match": "WTA - WUHAN",
-    "team1": "Uchijima M.",
-    "team2": "Wang Xin.",
+    "team1": "Sramkova R.",
+    "team2": "Kalinskaya A.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 1501,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+        "id": 1503,
+        "name": "Tennis Stream"
       }
     ]
   },
   {
     "id": 46,
-    "slug": "2025-10-06-1300-wta---wuhan-46",
+    "slug": "2025-10-07-0430-wta---wuhan-46",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T13:00:00+00:00",
-    "end": "2025-10-06T16:00:00+00:00",
-    "start_timestamp": 1759755600,
-    "end_timestamp": 1759766400,
-    "event": "WTA - WUHAN : Alexandrova E. vs Mboko V.",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T04:30:00+00:00",
+    "end": "2025-10-07T07:30:00+00:00",
+    "start_timestamp": 1759811400,
+    "end_timestamp": 1759822200,
+    "event": "WTA - WUHAN : Raducanu E. vs Li A.",
     "match": "WTA - WUHAN",
-    "team1": "Alexandrova E.",
-    "team2": "Mboko V.",
+    "team1": "Raducanu E.",
+    "team2": "Li A.",
     "team1_img": null,
     "team2_img": null,
     "channels": [
+      {
+        "id": 1524,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 1515,
+        "name": "Tennis Stream"
+      },
       {
         "id": 1501,
         "name": "Tennis Stream",
@@ -1204,15 +1176,162 @@
   },
   {
     "id": 47,
-    "slug": "2025-10-06-0430-wta-tour-1000-beijing,-atp-tour-1000-shanghai-47",
+    "slug": "2025-10-07-0600-wta---wuhan-47",
     "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T04:30:00+00:00",
-    "end": "2025-10-06T07:30:00+00:00",
-    "start_timestamp": 1759725000,
-    "end_timestamp": 1759735800,
-    "event": "WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai",
-    "match": "WTA Tour 1000 Beijing, ATP Tour 1000 Shanghai",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T09:00:00+00:00",
+    "start_timestamp": 1759816800,
+    "end_timestamp": 1759827600,
+    "event": "WTA - WUHAN : Navarro E. vs Zhang S.",
+    "match": "WTA - WUHAN",
+    "team1": "Navarro E.",
+    "team2": "Zhang S.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1524,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 1501,
+        "name": "Tennis Stream",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "slug": "2025-10-07-0630-wta---wuhan-48",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:30:00+00:00",
+    "end": "2025-10-07T09:30:00+00:00",
+    "start_timestamp": 1759818600,
+    "end_timestamp": 1759829400,
+    "event": "WTA - WUHAN : Bencic B. vs Vekic D.",
+    "match": "WTA - WUHAN",
+    "team1": "Bencic B.",
+    "team2": "Vekic D.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1502,
+        "name": "Tennis Stream"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "slug": "2025-10-07-0630-wta---wuhan-49",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:30:00+00:00",
+    "end": "2025-10-07T09:30:00+00:00",
+    "start_timestamp": 1759818600,
+    "end_timestamp": 1759829400,
+    "event": "WTA - WUHAN : Noskova L. vs Putintseva Y.",
+    "match": "WTA - WUHAN",
+    "team1": "Noskova L.",
+    "team2": "Putintseva Y.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1503,
+        "name": "Tennis Stream"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "slug": "2025-10-07-0800-wta---wuhan-50",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T08:00:00+00:00",
+    "end": "2025-10-07T11:00:00+00:00",
+    "start_timestamp": 1759824000,
+    "end_timestamp": 1759834800,
+    "event": "WTA - WUHAN : Cirstea S. vs Ostapenko J.",
+    "match": "WTA - WUHAN",
+    "team1": "Cirstea S.",
+    "team2": "Ostapenko J.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1502,
+        "name": "Tennis Stream"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "slug": "2025-10-07-1100-wta---wuhan-51",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T11:00:00+00:00",
+    "end": "2025-10-07T14:00:00+00:00",
+    "start_timestamp": 1759834800,
+    "end_timestamp": 1759845600,
+    "event": "WTA - WUHAN : Bouzkova M. vs Swiatek I.",
+    "match": "WTA - WUHAN",
+    "team1": "Bouzkova M.",
+    "team2": "Swiatek I.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1524,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 1501,
+        "name": "Tennis Stream",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "slug": "2025-10-07-1230-wta---wuhan-52",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:30:00+00:00",
+    "end": "2025-10-07T15:30:00+00:00",
+    "start_timestamp": 1759840200,
+    "end_timestamp": 1759851000,
+    "event": "WTA - WUHAN : Andreeva M. vs Siegemund L.",
+    "match": "WTA - WUHAN",
+    "team1": "Andreeva M.",
+    "team2": "Siegemund L.",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1524,
+        "name": "Tennis Stream"
+      },
+      {
+        "id": 1501,
+        "name": "Tennis Stream",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpL3pOdHpheUJzZTNMSjdYOWdLUDJ3dGxabk9Yam9BNEYzT1JBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "slug": "2025-10-07-1230-shanghai-atp-round-of-16;-wuhan-wta-1st-round-53",
+    "category": "tennis",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:30:00+00:00",
+    "end": "2025-10-07T15:30:00+00:00",
+    "start_timestamp": 1759840200,
+    "end_timestamp": 1759851000,
+    "event": "Shanghai-ATP Round of 16; Wuhan-WTA 1st Round",
+    "match": "Shanghai-ATP Round of 16; Wuhan-WTA 1st Round",
     "team1": null,
     "team2": null,
     "team1_img": null,
@@ -1274,6 +1393,10 @@
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWY5Z0UzT3pOZHlheWdZRzE4QldxQXFNZkZoWU1TOTM2b1NCUWIwPQ/master.m3u8"
       },
       {
+        "id": 393,
+        "name": "Ziggo Sport 1 NL"
+      },
+      {
         "id": 491,
         "name": "beIN SPORTS Australia 1",
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTL3pOdHpheUJzZTNMSjcwREU4N1NPWlZOd0xEUEZWbTh5THNBPT0/master.m3u8"
@@ -1301,74 +1424,133 @@
     ]
   },
   {
-    "id": 48,
-    "slug": "2025-10-06-1100-center-court-live-shanghai-atp-3rd-round;-wuhan-wta-1st-round-48",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T11:00:00+00:00",
-    "end": "2025-10-06T14:00:00+00:00",
-    "start_timestamp": 1759748400,
-    "end_timestamp": 1759759200,
-    "event": "Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round",
-    "match": "Center Court Live Shanghai-ATP 3rd Round; Wuhan-WTA 1st Round",
+    "id": 54,
+    "slug": "2025-10-07-0000-dana-white-contender-series-week-9-(dwcs)-54",
+    "category": "mma",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:00:00+00:00",
+    "end": "2025-10-07T03:00:00+00:00",
+    "start_timestamp": 1759795200,
+    "end_timestamp": 1759806000,
+    "event": "Dana White Contender Series Week 9 (DWCS) : Lucas Caldas vs Magomed Zayunokov",
+    "match": "Dana White Contender Series Week 9 (DWCS)",
+    "team1": "Lucas Caldas",
+    "team2": "Magomed Zayunokov",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 5,
+        "name": "PPV Feed",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGVFMFUzQ3pkZDZIMGcxMGJQNTkyNXcxM2U0WThkT3BKbGpZ/master.m3u8"
+      },
+      {
+        "id": 112,
+        "name": "TSN2"
+      },
+      {
+        "id": 119,
+        "name": "RMC Sport 1 France"
+      },
+      {
+        "id": 409,
+        "name": "Sportsnet 360"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "slug": "2025-10-07-0000-wwe-nxt-55",
+    "category": "wwe (aew/nxt)",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:00:00+00:00",
+    "end": "2025-10-07T03:00:00+00:00",
+    "start_timestamp": 1759795200,
+    "end_timestamp": 1759806000,
+    "event": "WWE NXT",
+    "match": "WWE NXT",
     "team1": null,
     "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 40,
-        "name": "Tennis Channel USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERER3hOTjNiaVZoQW12LzlVTzlUK0lrVGFUSkRjL01TSS85NQ/master.m3u8"
+        "id": 300,
+        "name": "CW USA"
       },
       {
-        "id": 115,
-        "name": "TSN5",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTdnpOdHpheUJzZTNMSjdLc2ZQSWtZczVQZTJOZnpISGg5UVlBPT0/master.m3u8"
+        "id": 280,
+        "name": "CW PIX 11 USA"
+      },
+      {
+        "id": 418,
+        "name": "SuperSport Variety 3"
+      },
+      {
+        "id": 412,
+        "name": "SuperSport Grandstand",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERTenpOdHpheUJzZTNMSjd6RG1kaTU2eTJubE9mQ0FIVHg2QWtnPT0/master.m3u8"
       }
     ]
   },
   {
-    "id": 49,
-    "slug": "2025-10-06-0300-center-court-live-shanghai-atp-round-of-16;-wuhan-wta-1st-round-live-49",
-    "category": "tennis",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T03:00:00+00:00",
-    "end": "2025-10-06T06:00:00+00:00",
-    "start_timestamp": 1759719600,
-    "end_timestamp": 1759730400,
-    "event": "Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE",
-    "match": "Center Court Live Shanghai-ATP Round of 16; Wuhan-WTA 1st Round LIVE",
+    "id": 56,
+    "slug": "2025-10-07-0000-all-elite-wrestling-(aew)-56",
+    "category": "wwe (aew/nxt)",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:00:00+00:00",
+    "end": "2025-10-07T03:00:00+00:00",
+    "start_timestamp": 1759795200,
+    "end_timestamp": 1759806000,
+    "event": "All Elite Wrestling (AEW) : Dynamite LIVE",
+    "match": "All Elite Wrestling (AEW)",
+    "team1": "2025",
+    "team2": "Dynamite LIVE",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 336,
+        "name": "TBS USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUR5anpOdHpheUJzZTNMSjdPRmFLaUhwellodTZoS2lqZkNZY3FBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "slug": "2025-10-07-2130-college-golf-2025-nb3-collegiate-match-play,-day-1-57",
+    "category": "golf",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T21:30:00+00:00",
+    "end": "2025-10-08T00:30:00+00:00",
+    "start_timestamp": 1759872600,
+    "end_timestamp": 1759883400,
+    "event": "College Golf 2025 NB3 Collegiate Match Play, Day 1",
+    "match": "College Golf 2025 NB3 Collegiate Match Play, Day 1",
     "team1": null,
     "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 40,
-        "name": "Tennis Channel USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdERER3hOTjNiaVZoQW12LzlVTzlUK0lrVGFUSkRjL01TSS85NQ/master.m3u8"
-      },
-      {
-        "id": 115,
-        "name": "TSN5",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTdnpOdHpheUJzZTNMSjdLc2ZQSWtZczVQZTJOZnpISGg5UVlBPT0/master.m3u8"
+        "id": 318,
+        "name": "GOLF Channel USA"
       }
     ]
   },
   {
-    "id": 50,
-    "slug": "2025-10-06-1830-sgb-premiership-50",
-    "category": "motorsport",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:30:00+00:00",
-    "end": "2025-10-06T21:30:00+00:00",
-    "start_timestamp": 1759775400,
-    "end_timestamp": 1759786200,
-    "event": "SGB Premiership : Leicester Lions vs Ipswich",
-    "match": "SGB Premiership",
-    "team1": "Leicester Lions",
-    "team2": "Ipswich",
+    "id": 58,
+    "slug": "2025-10-07-0600-xi'an-grand-prix-|-round-1-58",
+    "category": "snooker",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T06:00:00+00:00",
+    "end": "2025-10-07T09:00:00+00:00",
+    "start_timestamp": 1759816800,
+    "end_timestamp": 1759827600,
+    "event": "Xi'an Grand Prix | Round 1",
+    "match": "Xi'an Grand Prix | Round 1",
+    "team1": null,
+    "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -1376,726 +1558,7 @@
         "id": 31,
         "name": "TNT Sports 1 UK",
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby85MlVYR3lOSjNabEVCTFhNTmpySGVnYjJyNDg3QzBVMmZvVlE9PQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "slug": "2025-10-06-0000-wwe-monday-night-raw-51",
-    "category": "wwe (raw)",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:00:00+00:00",
-    "end": "2025-10-06T03:00:00+00:00",
-    "start_timestamp": 1759708800,
-    "end_timestamp": 1759719600,
-    "event": "WWE Monday Night RAW",
-    "match": "WWE Monday Night RAW",
-    "team1": null,
-    "team2": null,
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 2,
-        "name": "Netflix PPV",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
       },
-      {
-        "id": 419,
-        "name": "SuperSport Variety 4"
-      },
-      {
-        "id": 412,
-        "name": "SuperSport Grandstand",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERTenpOdHpheUJzZTNMSjd6RG1kaTU2eTJubE9mQ0FIVHg2QWtnPT0/master.m3u8"
-      },
-      {
-        "id": 420,
-        "name": "Supersports Action",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERpN3pOdHpheUJzZTNMSjdUbS9UYVYzWFRjd2wvaEZDOXlhWFRBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "slug": "2025-10-06-1700-ultimate-pool:-pairs-cup-52",
-    "category": "snooker",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:00:00+00:00",
-    "end": "2025-10-06T20:00:00+00:00",
-    "start_timestamp": 1759770000,
-    "end_timestamp": 1759780800,
-    "event": "Ultimate Pool: Pairs Cup",
-    "match": "Ultimate Pool: Pairs Cup",
-    "team1": null,
-    "team2": null,
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 33,
-        "name": "TNT Sports 3 UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby8xMlVYR3lOSjNabEVCTHB3Q3hKazd6eGczNjFCcEo3WFZtUFE9PQ/master.m3u8"
-      },
-      {
-        "id": 591,
-        "name": "Sky Sport 4 NZ",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3FGaUZnY2dhaHQvb3QvbDdENlBJZENINm5TVkVoTkw2azVyeXM9/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "slug": "2025-10-06-0015-nfl-53",
-    "category": "am. football (nfl)",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:15:00+00:00",
-    "end": "2025-10-06T03:15:00+00:00",
-    "start_timestamp": 1759709700,
-    "end_timestamp": 1759720500,
-    "event": "NFL : Jacksonville Jaguars vs Kansas City Chiefs",
-    "match": "NFL",
-    "team1": "Jacksonville Jaguars",
-    "team2": "Kansas City Chiefs",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 3,
-        "name": "NFL Sunday Ticket",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
-      },
-      {
-        "id": 44,
-        "name": "ESPN USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENER3hOTjNiaVZoQW12OStoUVVKakQ5T0tvWm0wejgyU2dQRg/master.m3u8"
-      },
-      {
-        "id": 51,
-        "name": "ABC USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0RUR3hOTjNiaVZoQW12OEs3aTJESlJEUHErNEk4WFNGZnBXbQ/master.m3u8"
-      },
-      {
-        "id": 766,
-        "name": "ABC NY USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdUNpanpOdHpheUJzZTNMSjdadlhCVEtsZmFieWtrN3hoSG1EK2dBPT0/master.m3u8"
-      },
-      {
-        "id": 45,
-        "name": "ESPN2 USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENUR3hOTjNiaVZoQW12OVJ2S2tGWFVlOE1QOXVUdnpDL2FvWQ/master.m3u8"
-      },
-      {
-        "id": 38,
-        "name": "Sky Sports Main Event UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
-      },
-      {
-        "id": 37,
-        "name": "Sky Sports NFL UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby9sMlVYR3lOSjNabEVCTGtvY1VNanhVbE1QK20wK3lrVkI2N0E9PQ/master.m3u8"
-      },
-      {
-        "id": 113,
-        "name": "TSN3",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTM3pOdHpheUJzZTNMSjdTQ0NZVWdSWXR3cTZEbGlXeFJIT1BBPT0/master.m3u8"
-      },
-      {
-        "id": 839,
-        "name": "RDS CA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZNENOaUZnY2dhaHQvb3QvbHl2KzNTcUZHbW1xajF6cTYvTTB3T1E9/master.m3u8"
-      },
-      {
-        "id": 115,
-        "name": "TSN5",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTdnpOdHpheUJzZTNMSjdLc2ZQSWtZczVQZTJOZnpISGg5UVlBPT0/master.m3u8"
-      },
-      {
-        "id": 1021,
-        "name": "Nova SPORT 1 CZ"
-      },
-      {
-        "id": 375,
-        "name": "ESPN Deportes",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5dnpOdHpheUJzZTNMSjdiTDkrcy96VUhlMFJvUnZtWlVyRUZnPT0/master.m3u8"
-      },
-      {
-        "id": 379,
-        "name": "ESPN 1 NL",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5ZnpOdHpheUJzZTNMSjdxWEhRVTNnOHVoY0oxbE5GMDFmNHJnPT0/master.m3u8"
-      },
-      {
-        "id": 150,
-        "name": "ESPN2 Argentina",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0NTN3pOdHpheUJzZTNMSjdLcFpYaGJwZ2IyUmpiVzVMVmZCYXV3PT0/master.m3u8"
-      },
-      {
-        "id": 82,
-        "name": "ESPN2 Brazil",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaERqR3hOTjNiaVZoQW12OTViY3BQWndrTXlZY25zV0dONGFOQQ/master.m3u8"
-      },
-      {
-        "id": 926,
-        "name": "ESPN2 Mexico",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWZ4dkUzT3pOZHlheWdZRzEya3ZOL0g4L3R2Z2cwbXJQOWs3NUhjPQ/master.m3u8"
-      },
-      {
-        "id": 134,
-        "name": "Arena 1 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
-      },
-      {
-        "id": 144,
-        "name": "Sport 5 Israel",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDcnpOdHpheUJzZTNMSjcrT3BoMXVpL0FDZ1NTTXZwekxNWThRPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "slug": "2025-10-06-2200-mlb-54",
-    "category": "baseball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T22:00:00+00:00",
-    "end": "2025-10-07T01:00:00+00:00",
-    "start_timestamp": 1759788000,
-    "end_timestamp": 1759798800,
-    "event": "MLB : Los Angeles Dodgers vs Philadelphia Phillies",
-    "match": "MLB",
-    "team1": "Los Angeles Dodgers",
-    "team2": "Philadelphia Phillies",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 4,
-        "name": "MLB League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcE9FMFUzQ3pkZDZIMGcyQmhidGhja2lHWFAzTmp3eWdZV3lT/master.m3u8"
-      },
-      {
-        "id": 336,
-        "name": "TBS USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUR5anpOdHpheUJzZTNMSjdPRmFLaUhwellodTZoS2lqZkNZY3FBPT0/master.m3u8"
-      },
-      {
-        "id": 341,
-        "name": "Trutv USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhSWVGaUZnY2dhaHQvb3QvbHcvbkRuRUtwNXpDQnZYdWpuRnV6OGc9/master.m3u8"
-      },
-      {
-        "id": 408,
-        "name": "Sportsnet East",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERDYnpOdHpheUJzZTNMSjdSQ25JRjRsVzNHUWpPRkUyMXJxTHF3PT0/master.m3u8"
-      },
-      {
-        "id": 406,
-        "name": "Sportsnet Ontario",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERDanpOdHpheUJzZTNMSjdIa1dyMk14dHRUVS9XWVdsMWwzQzJBPT0/master.m3u8"
-      },
-      {
-        "id": 407,
-        "name": "Sportsnet West",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERDbnpOdHpheUJzZTNMSjdzSlROVHl5RVVtQzlVc3U5alNENFBRPT0/master.m3u8"
-      },
-      {
-        "id": 494,
-        "name": "beIN Sports 4 Max France",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTcnpOdHpheUJzZTNMSjdnNlhBSlVEWEx0K0JLb2NzclVWYXdnPT0/master.m3u8"
-      },
-      {
-        "id": 133,
-        "name": "UniMas",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2YxcUUzT3pOZHlheWdZRzEvMUloL1RESlNwS05vSTNvODBWN0FzPQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "slug": "2025-10-06-0030-mlb-55",
-    "category": "baseball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:30:00+00:00",
-    "end": "2025-10-06T03:30:00+00:00",
-    "start_timestamp": 1759710600,
-    "end_timestamp": 1759721400,
-    "event": "MLB : Chicago Cubs vs Milwaukee Brewers",
-    "match": "MLB",
-    "team1": "Chicago Cubs",
-    "team2": "Milwaukee Brewers",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 5,
-        "name": "MLB League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGVFMFUzQ3pkZDZIMGcxMGJQNTkyNXcxM2U0WThkT3BKbGpZ/master.m3u8"
-      },
-      {
-        "id": 336,
-        "name": "TBS USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUR5anpOdHpheUJzZTNMSjdPRmFLaUhwellodTZoS2lqZkNZY3FBPT0/master.m3u8"
-      },
-      {
-        "id": 341,
-        "name": "Trutv USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhSWVGaUZnY2dhaHQvb3QvbHcvbkRuRUtwNXpDQnZYdWpuRnV6OGc9/master.m3u8"
-      },
-      {
-        "id": 32,
-        "name": "TNT Sports 2 UK",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby94MlVYR3lOSjNabEVCTDJ1RllZMUphRXI1N3g4ODNNbndoQ1E9PQ/master.m3u8"
-      },
-      {
-        "id": 408,
-        "name": "Sportsnet East",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERDYnpOdHpheUJzZTNMSjdSQ25JRjRsVzNHUWpPRkUyMXJxTHF3PT0/master.m3u8"
-      },
-      {
-        "id": 407,
-        "name": "Sportsnet West",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERDbnpOdHpheUJzZTNMSjdzSlROVHl5RVVtQzlVc3U5alNENFBRPT0/master.m3u8"
-      },
-      {
-        "id": 496,
-        "name": "beIN Sports 6 Max France",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTanpOdHpheUJzZTNMSjdIQWNOQ29FRTRIU0ZQQnNjRzc4dkNRPT0/master.m3u8"
-      },
-      {
-        "id": 133,
-        "name": "UniMas",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2YxcUUzT3pOZHlheWdZRzEvMUloL1RESlNwS05vSTNvODBWN0FzPQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "slug": "2025-10-06-1400-turkiye,-tbl-56",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T14:00:00+00:00",
-    "end": "2025-10-06T17:00:00+00:00",
-    "start_timestamp": 1759759200,
-    "end_timestamp": 1759770000,
-    "event": "Turkiye, TBL : Harem Spor vs. Buyuksehir Belediyesi Kagit SK",
-    "match": "Turkiye, TBL",
-    "team1": "2025",
-    "team2": "Harem Spor vs. Buyuksehir Belediyesi Kagit SK",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 4,
-        "name": "HT Spor Turkiye",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcE9FMFUzQ3pkZDZIMGcyQmhidGhja2lHWFAzTmp3eWdZV3lT/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "slug": "2025-10-06-1500-aba-league-57",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T15:00:00+00:00",
-    "end": "2025-10-06T18:00:00+00:00",
-    "start_timestamp": 1759762800,
-    "end_timestamp": 1759773600,
-    "event": "ABA League : Dubai vs Split",
-    "match": "ABA League",
-    "team1": "Dubai",
-    "team2": "Split",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 135,
-        "name": "Arena 2 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5dnpOdHpheUJzZTNMSjcva1ZWT2tiSlJMZzV0QTNRTk9qd2hBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "slug": "2025-10-06-1530-slovenian-league-58",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T15:30:00+00:00",
-    "end": "2025-10-06T18:30:00+00:00",
-    "start_timestamp": 1759764600,
-    "end_timestamp": 1759775400,
-    "event": "Slovenian league : Podčetrtek vs Šenčur",
-    "match": "Slovenian league",
-    "team1": "Podčetrtek",
-    "team2": "Šenčur",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 104,
-        "name": "Sport Klub 4 Crotaia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "slug": "2025-10-06-1600-poland,-plk-59",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "Poland, PLK : Anwil Wroclawek vs. GTK Gliwice",
-    "match": "Poland, PLK",
-    "team1": "2025",
-    "team2": "Anwil Wroclawek vs. GTK Gliwice",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 5,
-        "name": "Polsat Sport Extra 4 Poland",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGVFMFUzQ3pkZDZIMGcxMGJQNTkyNXcxM2U0WThkT3BKbGpZ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "slug": "2025-10-06-1600-süper-ligi-60",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "Süper Ligi : Fenerbahce Istanbul vs. Petkim Spor Aliaga",
-    "match": "Süper Ligi",
-    "team1": "2025",
-    "team2": "Fenerbahce Istanbul vs. Petkim Spor Aliaga",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 1010,
-        "name": "beIN SPORTS 5 Turkey",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1b0RER3hOTjNiaVZoQW12L3Nvd3d1T3pQMHQwTkNqUEEzU3hkSg/master.m3u8"
-      },
-      {
-        "id": 3,
-        "name": "Arena 5 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "slug": "2025-10-06-1600-aba-league-61",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "ABA League : Partizan vs KK Krka Novo Mesto",
-    "match": "ABA League",
-    "team1": "Partizan",
-    "team2": "KK Krka Novo Mesto",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 134,
-        "name": "Arena 1 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "slug": "2025-10-06-1615-bulgaria,-nbl-62",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:15:00+00:00",
-    "end": "2025-10-06T19:15:00+00:00",
-    "start_timestamp": 1759767300,
-    "end_timestamp": 1759778100,
-    "event": "Bulgaria, NBL : Lokomotiv Plovdiv 1926 vs. Cherno More IG",
-    "match": "Bulgaria, NBL",
-    "team1": "2025",
-    "team2": "Lokomotiv Plovdiv 1926 vs. Cherno More IG",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 473,
-        "name": "Max Sport 2 Bulgaria",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5M3pOdHpheUJzZTNMSjdBK0N3c2pLWFo3aUZsYnBjazNDcUZnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "slug": "2025-10-06-1800-aba-league-63",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:00:00+00:00",
-    "end": "2025-10-06T21:00:00+00:00",
-    "start_timestamp": 1759773600,
-    "end_timestamp": 1759784400,
-    "event": "ABA League : Crvena zvezda vs Zadar",
-    "match": "ABA League",
-    "team1": "Crvena zvezda",
-    "team2": "Zadar",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 134,
-        "name": "Arena 1 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 64,
-    "slug": "2025-10-06-1800-lnb-64",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:00:00+00:00",
-    "end": "2025-10-06T21:00:00+00:00",
-    "start_timestamp": 1759773600,
-    "end_timestamp": 1759784400,
-    "event": "LNB : Le Mans vs Paris",
-    "match": "LNB",
-    "team1": "Le Mans",
-    "team2": "Paris",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 6,
-        "name": "Arena Sport 1x2 Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcHVFMFUzQ3pkZDZIMGcyb1Z6RllJZUhoWHRwbmNyS3k3d1FI/master.m3u8"
-      },
-      {
-        "id": 101,
-        "name": "Sport Klub 1 Crotaia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDL3pOdHpheUJzZTNMSjdLS3QzUlA5SEoyZ3NTeDFjM2xNMVB3PT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "slug": "2025-10-06-1800-lega-a-65",
-    "category": "basketball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:00:00+00:00",
-    "end": "2025-10-06T21:00:00+00:00",
-    "start_timestamp": 1759773600,
-    "end_timestamp": 1759784400,
-    "event": "Lega A : Virtus Bologna vs Basket Napoli",
-    "match": "Lega A",
-    "team1": "Virtus Bologna",
-    "team2": "Basket Napoli",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 135,
-        "name": "Arena 2 Premium Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5dnpOdHpheUJzZTNMSjcva1ZWT2tiSlJMZzV0QTNRTk9qd2hBPT0/master.m3u8"
-      },
-      {
-        "id": 432,
-        "name": "Arena Sport 1 Croatia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
-      },
-      {
-        "id": 140,
-        "name": "Sport 1 Israel",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDN3pOdHpheUJzZTNMSjdCYS83aVdzWW5YNGFaZk9Jb1VmelpnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "slug": "2025-10-06-2330-nba-66",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T23:30:00+00:00",
-    "end": "2025-10-07T02:30:00+00:00",
-    "start_timestamp": 1759793400,
-    "end_timestamp": 1759804200,
-    "event": "NBA : Miami Heat vs Milwaukee Bucks",
-    "match": "NBA",
-    "team1": "Miami Heat",
-    "team2": "Milwaukee Bucks",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 6,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcHVFMFUzQ3pkZDZIMGcyb1Z6RllJZUhoWHRwbmNyS3k3d1FI/master.m3u8"
-      },
-      {
-        "id": 905,
-        "name": "Bally Sports Sun",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOZ0RDdnpOdHpheUJzZTNMSjdkeDVmalpWbm9TL051VDkxdEFxVlBBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 67,
-    "slug": "2025-10-06-0000-nba-67",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:00:00+00:00",
-    "end": "2025-10-06T03:00:00+00:00",
-    "start_timestamp": 1759708800,
-    "end_timestamp": 1759719600,
-    "event": "NBA : Houston Rockets vs Atlanta Hawks",
-    "match": "NBA",
-    "team1": "Houston Rockets",
-    "team2": "Atlanta Hawks",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 7,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcCtFMFUzQ3pkZDZIMGcxZHZuUkVpRFZTMzhteURHMjdxREJO/master.m3u8"
-      },
-      {
-        "id": 921,
-        "name": "Space City Home Network",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhZb0dGaUZnY2dhaHQvb3QvbDkvbXVJSVVZQ29jaHFFSHpxWTQ4d0E9/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "slug": "2025-10-06-0000-nba-68",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:00:00+00:00",
-    "end": "2025-10-06T03:00:00+00:00",
-    "start_timestamp": 1759708800,
-    "end_timestamp": 1759719600,
-    "event": "NBA : Memphis Grizzlies vs Detroit Pistons",
-    "match": "NBA",
-    "team1": "Memphis Grizzlies",
-    "team2": "Detroit Pistons",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 8,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcU9FMFUzQ3pkZDZIMGcxMWFvZjJtNy9VVUN3emdvalBSQi9z/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "slug": "2025-10-06-0000-nba-69",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:00:00+00:00",
-    "end": "2025-10-06T03:00:00+00:00",
-    "start_timestamp": 1759708800,
-    "end_timestamp": 1759719600,
-    "event": "NBA : Guangzhou Loong-Lions vs San Antonio Spurs",
-    "match": "NBA",
-    "team1": "Guangzhou Loong-Lions",
-    "team2": "San Antonio Spurs",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 9,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWVFMFUzQ3pkZDZIMGcyQWc4THFNbXRuMFQvbS9GZkdBeXVt/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 70,
-    "slug": "2025-10-06-0030-nba-70",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T00:30:00+00:00",
-    "end": "2025-10-06T03:30:00+00:00",
-    "start_timestamp": 1759710600,
-    "end_timestamp": 1759721400,
-    "event": "NBA : Oklahoma City Thunder vs Dallas Mavericks",
-    "match": "NBA",
-    "team1": "Oklahoma City Thunder",
-    "team2": "Dallas Mavericks",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 10,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1MlVYR3lOSjNabEVCTENQQUEwRGlnM050ZVNwaDBudURIOUE9PQ/master.m3u8"
-      },
-      {
-        "id": 404,
-        "name": "NBA TV USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERDcnpOdHpheUJzZTNMSjd0N2hkR3pVaDNBWkpDWndONlNyN0tnPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 71,
-    "slug": "2025-10-06-0200-nba-71",
-    "category": "nba",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T02:00:00+00:00",
-    "end": "2025-10-06T05:00:00+00:00",
-    "start_timestamp": 1759716000,
-    "end_timestamp": 1759726800,
-    "event": "NBA : Toronto Raptors vs Denver Nuggets",
-    "match": "NBA",
-    "team1": "Toronto Raptors",
-    "team2": "Denver Nuggets",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 11,
-        "name": "NBA League Pass",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
-      },
-      {
-        "id": 114,
-        "name": "TSN4",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTcnpOdHpheUJzZTNMSjdoQmFwdGFiRkE2STBQckxmUldKcWhRPT0/master.m3u8"
-      },
-      {
-        "id": 111,
-        "name": "TSN1",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTL3pOdHpheUJzZTNMSjcxNEpWZmNXTGVhRytHTVNtYyt1Nzl3PT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 72,
-    "slug": "2025-10-06-1100-binche---chimay---binche-|-197-km-|-1980-m-72",
-    "category": "cycling",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T11:00:00+00:00",
-    "end": "2025-10-06T14:00:00+00:00",
-    "start_timestamp": 1759748400,
-    "end_timestamp": 1759759200,
-    "event": "Binche - Chimay - Binche | 197 km | 1980 m",
-    "match": "Binche - Chimay - Binche | 197 km | 1980 m",
-    "team1": null,
-    "team2": null,
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
       {
         "id": 57,
         "name": "EuroSport 1 Poland",
@@ -2128,18 +1591,604 @@
     ]
   },
   {
-    "id": 73,
-    "slug": "2025-10-06-1330-uci-proseries-cycling-73",
-    "category": "cycling",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T13:30:00+00:00",
-    "end": "2025-10-06T16:30:00+00:00",
-    "start_timestamp": 1759757400,
-    "end_timestamp": 1759768200,
-    "event": "UCI ProSeries Cycling : Coppa Bernocchi",
-    "match": "UCI ProSeries Cycling",
+    "id": 59,
+    "slug": "2025-10-07-1130-xi'an-grand-prix-|-round-1-59",
+    "category": "snooker",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T11:30:00+00:00",
+    "end": "2025-10-07T14:30:00+00:00",
+    "start_timestamp": 1759836600,
+    "end_timestamp": 1759847400,
+    "event": "Xi'an Grand Prix | Round 1",
+    "match": "Xi'an Grand Prix | Round 1",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 33,
+        "name": "TNT Sports 3 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby8xMlVYR3lOSjNabEVCTHB3Q3hKazd6eGczNjFCcEo3WFZtUFE9PQ/master.m3u8"
+      },
+      {
+        "id": 57,
+        "name": "EuroSport 1 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0N6R3hOTjNiaVZoQW12OXI1bVl0YWR5VlA2ZnFKVGNDYllYSA/master.m3u8"
+      },
+      {
+        "id": 524,
+        "name": "EuroSport 1 Spain",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0RpcnpOdHpheUJzZTNMSjdqZUtTTXdHNjlRa1JqZmZHS2JyVTlRPT0/master.m3u8"
+      },
+      {
+        "id": 772,
+        "name": "EuroSport 1 France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdUN5enpOdHpheUJzZTNMSjdaSmw1S2hBMHFpTSs3VjM2M2l5YjN3PT0/master.m3u8"
+      },
+      {
+        "id": 231,
+        "name": "Eurosport 1 SE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOckR5L3pOdHpheUJzZTNMSjd5cWhnYWdjazh5QUk2cHdQVHowUVB3PT0/master.m3u8"
+      },
+      {
+        "id": 878,
+        "name": "EuroSport 1 Italy",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOaEN5YnpOdHpheUJzZTNMSjdiUGlyWGJNWWJKMWJjYTZybWFhQzh3PT0/master.m3u8"
+      },
+      {
+        "id": 41,
+        "name": "EuroSport 1 Greece"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "slug": "2025-10-07-1600-eurocup-60",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "Eurocup : Neptunas vs Cluj Napoca",
+    "match": "Eurocup",
+    "team1": "Neptunas",
+    "team2": "Cluj Napoca",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1,
+        "name": "Magenta Sport 302",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
+      },
+      {
+        "id": 135,
+        "name": "Arena 2 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5dnpOdHpheUJzZTNMSjcva1ZWT2tiSlJMZzV0QTNRTk9qd2hBPT0/master.m3u8"
+      },
+      {
+        "id": 637,
+        "name": "Nova Sports Start Greece"
+      },
+      {
+        "id": 11,
+        "name": "STV1 Slovenia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
+      },
+      {
+        "id": 102,
+        "name": "Sport Klub 2 Crotaia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDenpOdHpheUJzZTNMSjdHZGpjL041OURwYXFWczkwTTlSNkVRPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "slug": "2025-10-07-1600-champions-league-61",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "Champions League : Promitheas Patras BC vs. MLP Academics Heidelberg",
+    "match": "Champions League",
     "team1": "2025",
-    "team2": "Coppa Bernocchi",
+    "team2": "Promitheas Patras BC vs. MLP Academics Heidelberg",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1025,
+        "name": "Nova Sport 5 CZ"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "slug": "2025-10-07-1600-aba-league-2-62",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "ABA League 2 : Podgorica vs Borac",
+    "match": "ABA League 2",
+    "team1": "Podgorica",
+    "team2": "Borac",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 430,
+        "name": "Arena Sport 2 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdER5N3pOdHpheUJzZTNMSjdZVlovWll5dnY5WmM5b3lCQTVFK2tRPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "slug": "2025-10-07-1630-champions-league-63",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:30:00+00:00",
+    "end": "2025-10-07T19:30:00+00:00",
+    "start_timestamp": 1759854600,
+    "end_timestamp": 1759865400,
+    "event": "Champions League : Basketball Nymburk vs. BK Sabah Baku",
+    "match": "Champions League",
+    "team1": "2025",
+    "team2": "Basketball Nymburk vs. BK Sabah Baku",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1021,
+        "name": "Nova Sport 1 Czech HD"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "slug": "2025-10-07-1700-champions-league-64",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Champions League : Lietuvos Rytas vs Legia",
+    "match": "Champions League",
+    "team1": "Lietuvos Rytas",
+    "team2": "Legia",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 128,
+        "name": "TVP Sport Poland"
+      },
+      {
+        "id": 12,
+        "name": "Go3 Sport 1 Estonia"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "slug": "2025-10-07-1700-eurocup-65",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Eurocup : Ulm vs Panionios",
+    "match": "Eurocup",
+    "team1": "Ulm",
+    "team2": "Panionios",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 2,
+        "name": "Magenta Sport 303",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
+      },
+      {
+        "id": 4,
+        "name": "Arena 4 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcE9FMFUzQ3pkZDZIMGcyQmhidGhja2lHWFAzTmp3eWdZV3lT/master.m3u8"
+      },
+      {
+        "id": 638,
+        "name": "Nova Sports Prime Greece"
+      },
+      {
+        "id": 13,
+        "name": "STV3 Slovenia"
+      },
+      {
+        "id": 472,
+        "name": "MAX Sport 1 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5enpOdHpheUJzZTNMSjdyVEhXSmRKK2dPMEhudlJFeUEyUTh3PT0/master.m3u8"
+      },
+      {
+        "id": 103,
+        "name": "Sport Klub 3 Crotaia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1cUUzT3pOZHlheWdZRzF5dHB2ZDA5b3plWUhtK3c3T001MVJ3PQ/master.m3u8"
+      },
+      {
+        "id": 140,
+        "name": "Sport 1 Israel",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDN3pOdHpheUJzZTNMSjdCYS83aVdzWW5YNGFaZk9Jb1VmelpnPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "slug": "2025-10-07-1700-eurocup-66",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Eurocup : Besiktas vs London Lions",
+    "match": "Eurocup",
+    "team1": "Besiktas",
+    "team2": "London Lions",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 3,
+        "name": "Magenta Sport 304",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
+      },
+      {
+        "id": 74,
+        "name": "Sport TV2 Portugal"
+      },
+      {
+        "id": 634,
+        "name": "Nova Sports 4 Greece"
+      },
+      {
+        "id": 139,
+        "name": "Arena 3 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5ZnpOdHpheUJzZTNMSjdPNHY3MnNJaDQwSWh3MFZ6Z3ZYTVBBPT0/master.m3u8"
+      },
+      {
+        "id": 14,
+        "name": "STV2 Slovenia"
+      },
+      {
+        "id": 473,
+        "name": "MAX Sport 2 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5M3pOdHpheUJzZTNMSjdBK0N3c2pLWFo3aUZsYnBjazNDcUZnPT0/master.m3u8"
+      },
+      {
+        "id": 101,
+        "name": "Sport Klub 1 Crotaia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDL3pOdHpheUJzZTNMSjdLS3QzUlA5SEoyZ3NTeDFjM2xNMVB3PT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "slug": "2025-10-07-1700-champions-league-67",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Champions League : Galatasaray vs Igokea",
+    "match": "Champions League",
+    "team1": "Galatasaray",
+    "team2": "Igokea",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 134,
+        "name": "Arena 1 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0R5cnpOdHpheUJzZTNMSjdnSVM5bUUyVUR6NVE1QWZ4TnBydGRBPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "slug": "2025-10-07-1800-champions-league-68",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "Champions League : VEF Riga vs AEK Athens",
+    "match": "Champions League",
+    "team1": "VEF Riga",
+    "team2": "AEK Athens",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1025,
+        "name": "Nova Sport 5 CZ"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "slug": "2025-10-07-1800-aba-league-2-69",
+    "category": "basketball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "ABA League 2 : MZT Skopje vs Vrsac",
+    "match": "ABA League 2",
+    "team1": "MZT Skopje",
+    "team2": "Vrsac",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 430,
+        "name": "Arena Sport 2 Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdER5N3pOdHpheUJzZTNMSjdZVlovWll5dnY5WmM5b3lCQTVFK2tRPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "slug": "2025-10-07-2300-nba-70",
+    "category": "nba",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "NBA : Cleveland Cavaliers vs Chicago Bulls",
+    "match": "NBA",
+    "team1": "Cleveland Cavaliers",
+    "team2": "Chicago Bulls",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 6,
+        "name": "NBA League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcHVFMFUzQ3pkZDZIMGcyb1Z6RllJZUhoWHRwbmNyS3k3d1FI/master.m3u8"
+      },
+      {
+        "id": 111,
+        "name": "TSN1",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTL3pOdHpheUJzZTNMSjcxNEpWZmNXTGVhRytHTVNtYyt1Nzl3PT0/master.m3u8"
+      },
+      {
+        "id": 114,
+        "name": "TSN4",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RTcnpOdHpheUJzZTNMSjdoQmFwdGFiRkE2STBQckxmUldKcWhRPT0/master.m3u8"
+      },
+      {
+        "id": 8,
+        "name": "Sky Sport 1 DE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcU9FMFUzQ3pkZDZIMGcxMWFvZjJtNy9VVUN3emdvalBSQi9z/master.m3u8"
+      },
+      {
+        "id": 776,
+        "name": "Chicago Sports Network"
+      },
+      {
+        "id": 899,
+        "name": "FanDuel Sports Network Ohio"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "slug": "2025-10-07-0000-nba-71",
+    "category": "nba",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:00:00+00:00",
+    "end": "2025-10-07T03:00:00+00:00",
+    "start_timestamp": 1759795200,
+    "end_timestamp": 1759806000,
+    "event": "NBA : Minnesota Timberwolves vs Indiana Pacers",
+    "match": "NBA",
+    "team1": "Minnesota Timberwolves",
+    "team2": "Indiana Pacers",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 7,
+        "name": "NBA League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcCtFMFUzQ3pkZDZIMGcxZHZuUkVpRFZTMzhteURHMjdxREJO/master.m3u8"
+      },
+      {
+        "id": 894,
+        "name": "FanDuel Sports Network Indiana"
+      },
+      {
+        "id": 898,
+        "name": "FanDuel Sports Network North"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "slug": "2025-10-07-0900-tre-valli-varesine-women-|-busto-arsizio-–-varese-(136.3km)-72",
+    "category": "cycling",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T09:00:00+00:00",
+    "end": "2025-10-07T12:00:00+00:00",
+    "start_timestamp": 1759827600,
+    "end_timestamp": 1759838400,
+    "event": "Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km)",
+    "match": "Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km)",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 32,
+        "name": "TNT Sports 2 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby94MlVYR3lOSjNabEVCTDJ1RllZMUphRXI1N3g4ODNNbndoQ1E9PQ/master.m3u8"
+      },
+      {
+        "id": 58,
+        "name": "EuroSport 2 Poland"
+      },
+      {
+        "id": 525,
+        "name": "EuroSport 2 Spain"
+      },
+      {
+        "id": 773,
+        "name": "EuroSport 2 France"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      },
+      {
+        "id": 879,
+        "name": "EuroSport 2 Italy"
+      },
+      {
+        "id": 42,
+        "name": "EuroSport 2 Greece"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "slug": "2025-10-07-1100-binche-chimay-binche-women-|-chimay---binche-(121.4km)-73",
+    "category": "cycling",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T11:00:00+00:00",
+    "end": "2025-10-07T14:00:00+00:00",
+    "start_timestamp": 1759834800,
+    "end_timestamp": 1759845600,
+    "event": "Binche-Chimay-Binche Women | Chimay - Binche (121.4km)",
+    "match": "Binche-Chimay-Binche Women | Chimay - Binche (121.4km)",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 31,
+        "name": "TNT Sports 1 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby85MlVYR3lOSjNabEVCTFhNTmpySGVnYjJyNDg3QzBVMmZvVlE9PQ/master.m3u8"
+      },
+      {
+        "id": 58,
+        "name": "EuroSport 2 Poland"
+      },
+      {
+        "id": 525,
+        "name": "EuroSport 2 Spain"
+      },
+      {
+        "id": 773,
+        "name": "EuroSport 2 France"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      },
+      {
+        "id": 879,
+        "name": "EuroSport 2 Italy"
+      },
+      {
+        "id": 42,
+        "name": "EuroSport 2 Greece"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "slug": "2025-10-07-1200-tre-valli-varesine-men-|-busto-arsizio---varese-(200.3km)-74",
+    "category": "cycling",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:00:00+00:00",
+    "end": "2025-10-07T15:00:00+00:00",
+    "start_timestamp": 1759838400,
+    "end_timestamp": 1759849200,
+    "event": "Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km)",
+    "match": "Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km)",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 32,
+        "name": "TNT Sports 2 UK",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrby94MlVYR3lOSjNabEVCTDJ1RllZMUphRXI1N3g4ODNNbndoQ1E9PQ/master.m3u8"
+      },
+      {
+        "id": 58,
+        "name": "EuroSport 2 Poland"
+      },
+      {
+        "id": 525,
+        "name": "EuroSport 2 Spain"
+      },
+      {
+        "id": 773,
+        "name": "EuroSport 2 France"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      },
+      {
+        "id": 879,
+        "name": "EuroSport 2 Italy"
+      },
+      {
+        "id": 42,
+        "name": "EuroSport 2 Greece"
+      },
+      {
+        "id": 232,
+        "name": "Eurosport 2 SE"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "slug": "2025-10-07-1245-binche-chimay-binche-men-|-binche-(203.2km)-75",
+    "category": "cycling",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:45:00+00:00",
+    "end": "2025-10-07T15:45:00+00:00",
+    "start_timestamp": 1759841100,
+    "end_timestamp": 1759851900,
+    "event": "Binche-Chimay-Binche Men | Binche (203.2km)",
+    "match": "Binche-Chimay-Binche Men | Binche (203.2km)",
+    "team1": null,
+    "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -2151,37 +2200,14 @@
     ]
   },
   {
-    "id": 74,
-    "slug": "2025-10-06-1500-romania,-liga-1-74",
-    "category": "futsal",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T15:00:00+00:00",
-    "end": "2025-10-06T18:00:00+00:00",
-    "start_timestamp": 1759762800,
-    "end_timestamp": 1759773600,
-    "event": "Romania, Liga 1 : Acs West Deva vs. Acs Sepsi Sic",
-    "match": "Romania, Liga 1",
-    "team1": "2025",
-    "team2": "Acs West Deva vs. Acs Sepsi Sic",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 402,
-        "name": "Digi Sport 3 Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcFA1ckUzT3pOZHlheWdZRzF6U3dKemRRME1QcVp2NDY0NjJYQ2ZFPQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 75,
-    "slug": "2025-10-06-1700-pdc-darts-8x-first-round-matches---mattioli-arena,-leicester-75",
+    "id": 76,
+    "slug": "2025-10-07-1700-pdc-darts-8x-first-round-matches---mattioli-arena,-leicester-76",
     "category": "darts",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:00:00+00:00",
-    "end": "2025-10-06T20:00:00+00:00",
-    "start_timestamp": 1759770000,
-    "end_timestamp": 1759780800,
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
     "event": "PDC Darts 8x First Round Matches - Mattioli Arena, Leicester",
     "match": "PDC Darts 8x First Round Matches - Mattioli Arena, Leicester",
     "team1": null,
@@ -2205,100 +2231,97 @@
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdkNDL3pOdHpheUJzZTNMSjdkdGFLV3V4eS8xRHJPdnhDamdFZXlnPT0/master.m3u8"
       },
       {
-        "id": 589,
-        "name": "Sky Sport 2 NZ",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VOaUZnY2dhaHQvb3QvbDIyNS9mNjE4Z3FOdXVBaUFiSXR4N0k9/master.m3u8"
-      },
-      {
         "id": 38,
         "name": "Sky Sports Main Event",
         "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUJER3hOTjNiaVZoQW12L3J6RWNRMERBNkFodG44UHFQendjUQ/master.m3u8"
       },
       {
-        "id": 223,
-        "name": "TV3 MAX Denmark",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOckRpM3pOdHpheUJzZTNMSjduSHkwa01Ta3hOcnM2VnhkM2ZLbkJRPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 76,
-    "slug": "2025-10-06-1430-romania,-liga-nationala-76",
-    "category": "handball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T14:30:00+00:00",
-    "end": "2025-10-06T17:30:00+00:00",
-    "start_timestamp": 1759761000,
-    "end_timestamp": 1759771800,
-    "event": "Romania, Liga Nationala : CSM Bucuresti vs. HC Buzau",
-    "match": "Romania, Liga Nationala",
-    "team1": "2025",
-    "team2": "CSM Bucuresti vs. HC Buzau",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
+        "id": 809,
+        "name": "TV3 Sport Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERDZnpOdHpheUJzZTNMSjdYQWlrWFNYeGo1VUN5KzBLNkhBbXZ3PT0/master.m3u8"
+      },
       {
-        "id": 7,
-        "name": "Pro Arena Romania",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcCtFMFUzQ3pkZDZIMGcxZHZuUkVpRFZTMzhteURHMjdxREJO/master.m3u8"
+        "id": 589,
+        "name": "Sky Sport 2 NZ",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhib3VOaUZnY2dhaHQvb3QvbDIyNS9mNjE4Z3FOdXVBaUFiSXR4N0k9/master.m3u8"
       }
     ]
   },
   {
     "id": 77,
-    "slug": "2025-10-06-1700-serbia-super-liga,-women-77",
-    "category": "handball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T17:00:00+00:00",
-    "end": "2025-10-06T20:00:00+00:00",
-    "start_timestamp": 1759770000,
-    "end_timestamp": 1759780800,
-    "event": "Serbia Super Liga, Women : GŽRK Napredak vs ŽRK Mladost Nova Pazova",
-    "match": "Serbia Super Liga, Women",
-    "team1": "GŽRK Napredak",
-    "team2": "ŽRK Mladost Nova Pazova",
+    "slug": "2025-10-07-1830-serie-a-77",
+    "category": "futsal",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:30:00+00:00",
+    "end": "2025-10-07T21:30:00+00:00",
+    "start_timestamp": 1759861800,
+    "end_timestamp": 1759872600,
+    "event": "Serie A : Sala Consilina vs Came Treviso",
+    "match": "Serie A",
+    "team1": "Sala Consilina",
+    "team2": "Came Treviso",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 430,
-        "name": "Arena Sport 2 Serbia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdER5N3pOdHpheUJzZTNMSjdZVlovWll5dnY5WmM5b3lCQTVFK2tRPT0/master.m3u8"
+        "id": 870,
+        "name": "Sky Sport Calcio Italy"
       }
     ]
   },
   {
     "id": 78,
-    "slug": "2025-10-06-1830-poland,-superliga-78",
+    "slug": "2025-10-07-1530-czech-republic,-extraliga-78",
     "category": "handball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:30:00+00:00",
-    "end": "2025-10-06T21:30:00+00:00",
-    "start_timestamp": 1759775400,
-    "end_timestamp": 1759786200,
-    "event": "Poland, Superliga : SPR Stal Mielec vs. KPR Gwardia Opole",
-    "match": "Poland, Superliga",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T15:30:00+00:00",
+    "end": "2025-10-07T18:30:00+00:00",
+    "start_timestamp": 1759851000,
+    "end_timestamp": 1759861800,
+    "event": "Czech Republic, Extraliga : Jicin vs. HC Zlin",
+    "match": "Czech Republic, Extraliga",
     "team1": "2025",
-    "team2": "SPR Stal Mielec vs. KPR Gwardia Opole",
+    "team2": "Jicin vs. HC Zlin",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 50,
-        "name": "Polsat Sport 2 Poland",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0RER3hOTjNiaVZoQW12OGwxNEdQOUdnOXNaY0FiTGR4eVR4Nw/master.m3u8"
+        "id": 1033,
+        "name": "CT Sport Czech HD"
       }
     ]
   },
   {
     "id": 79,
-    "slug": "2025-10-06-1200-live-racing-from-around-the-uk-79",
+    "slug": "2025-10-07-1800-denmark,-handboldligaen-79",
+    "category": "handball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:00:00+00:00",
+    "end": "2025-10-07T21:00:00+00:00",
+    "start_timestamp": 1759860000,
+    "end_timestamp": 1759870800,
+    "event": "Denmark, Handboldligaen : Fredericia HK 1990 vs. Tth Holstebro",
+    "match": "Denmark, Handboldligaen",
+    "team1": "2025",
+    "team2": "Fredericia HK 1990 vs. Tth Holstebro",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 817,
+        "name": "TV2 Denmark HD"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "slug": "2025-10-07-1200-live-racing-from-around-the-uk-80",
     "category": "horse racing",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T12:00:00+00:00",
-    "end": "2025-10-06T15:00:00+00:00",
-    "start_timestamp": 1759752000,
-    "end_timestamp": 1759762800,
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T12:00:00+00:00",
+    "end": "2025-10-07T15:00:00+00:00",
+    "start_timestamp": 1759838400,
+    "end_timestamp": 1759849200,
     "event": "Live racing from around the UK",
     "match": "Live racing from around the UK",
     "team1": null,
@@ -2314,16 +2337,16 @@
     ]
   },
   {
-    "id": 80,
-    "slug": "2025-10-06-1200-live-racing-from-pontefract,-stratford,-tipperary-and-killarney-80",
+    "id": 81,
+    "slug": "2025-10-07-1300-live-racing-from-leicester,-huntingdon-and-galway-81",
     "category": "horse racing",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T12:00:00+00:00",
-    "end": "2025-10-06T15:00:00+00:00",
-    "start_timestamp": 1759752000,
-    "end_timestamp": 1759762800,
-    "event": "Live racing from Pontefract, Stratford, Tipperary and Killarney",
-    "match": "Live racing from Pontefract, Stratford, Tipperary and Killarney",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T13:00:00+00:00",
+    "end": "2025-10-07T16:00:00+00:00",
+    "start_timestamp": 1759842000,
+    "end_timestamp": 1759852800,
+    "event": "Live racing from Leicester, Huntingdon and Galway",
+    "match": "Live racing from Leicester, Huntingdon and Galway",
     "team1": null,
     "team2": null,
     "team1_img": null,
@@ -2337,41 +2360,509 @@
     ]
   },
   {
-    "id": 81,
-    "slug": "2025-10-06-1330-khl-81",
+    "id": 82,
+    "slug": "2025-10-07-1530-finland-mestis---roki-vs-ipk-82",
     "category": "ice hockey",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T13:30:00+00:00",
-    "end": "2025-10-06T16:30:00+00:00",
-    "start_timestamp": 1759757400,
-    "end_timestamp": 1759768200,
-    "event": "KHL : Avangard Omsk vs Avtomobilist Yekaterinburg",
-    "match": "KHL",
-    "team1": "Avangard Omsk",
-    "team2": "Avtomobilist Yekaterinburg",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T15:30:00+00:00",
+    "end": "2025-10-07T18:30:00+00:00",
+    "start_timestamp": 1759851000,
+    "end_timestamp": 1759861800,
+    "event": "Finland Mestis - RoKi vs IPK",
+    "match": "Finland Mestis - RoKi vs IPK",
+    "team1": "Finland Mestis - RoKi",
+    "team2": "IPK",
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 127,
-        "name": "Match Tv Russia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RpbnpOdHpheUJzZTNMSjdlSUVQOVc3OTM1RTI3SW03L3loZ3F3PT0/master.m3u8"
+        "id": 15,
+        "name": "MTV Urheilu 2 Finland"
       }
     ]
   },
   {
-    "id": 82,
-    "slug": "2025-10-06-1600-khl-82",
+    "id": 83,
+    "slug": "2025-10-07-1530-champions-hockey-league-83",
     "category": "ice hockey",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T16:00:00+00:00",
-    "end": "2025-10-06T19:00:00+00:00",
-    "start_timestamp": 1759766400,
-    "end_timestamp": 1759777200,
-    "event": "KHL : Lokomotiv Yaroslavl vs SKA St. Petersburg",
-    "match": "KHL",
-    "team1": "Lokomotiv Yaroslavl",
-    "team2": "SKA St. Petersburg",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T15:30:00+00:00",
+    "end": "2025-10-07T18:30:00+00:00",
+    "start_timestamp": 1759851000,
+    "end_timestamp": 1759861800,
+    "event": "Champions Hockey League : Lukko Rauma vs. EV Zug",
+    "match": "Champions Hockey League",
+    "team1": "2025",
+    "team2": "Lukko Rauma vs. EV Zug",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 432,
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
+      },
+      {
+        "id": 129,
+        "name": "Polsat Sport 3 Poland"
+      },
+      {
+        "id": 6,
+        "name": "Sport 2 Hungary",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcHVFMFUzQ3pkZDZIMGcyb1Z6RllJZUhoWHRwbmNyS3k3d1FI/master.m3u8"
+      },
+      {
+        "id": 5,
+        "name": "Sport 1 Czech HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGVFMFUzQ3pkZDZIMGcxMGJQNTkyNXcxM2U0WThkT3BKbGpZ/master.m3u8"
+      },
+      {
+        "id": 16,
+        "name": "Viaplay 1 Urheilu Finland"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "slug": "2025-10-07-1600-champions-hockey-league-84",
+    "category": "ice hockey",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "Champions Hockey League : Mountfield HK vs. KalPa Hockey",
+    "match": "Champions Hockey League",
+    "team1": "2025",
+    "team2": "Mountfield HK vs. KalPa Hockey",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 7,
+        "name": "Sport 2 Czech HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcCtFMFUzQ3pkZDZIMGcxZHZuUkVpRFZTMzhteURHMjdxREJO/master.m3u8"
+      },
+      {
+        "id": 17,
+        "name": "Viaplay 2 Urheilu Finland"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "slug": "2025-10-07-1600-slovakia,-1st-liga-85",
+    "category": "ice hockey",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "Slovakia, 1st Liga : Nove Zamky vs. 95 Povazska Bystrica",
+    "match": "Slovakia, 1st Liga",
+    "team1": "2025",
+    "team2": "Nove Zamky vs. 95 Povazska Bystrica",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 8,
+        "name": "JOJ Sport Slovakia HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcU9FMFUzQ3pkZDZIMGcxMWFvZjJtNy9VVUN3emdvalBSQi9z/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "slug": "2025-10-07-1700-champions-hockey-league-86",
+    "category": "ice hockey",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:00:00+00:00",
+    "end": "2025-10-07T20:00:00+00:00",
+    "start_timestamp": 1759856400,
+    "end_timestamp": 1759867200,
+    "event": "Champions Hockey League : Brynas IF vs. Storhamar Hockey",
+    "match": "Champions Hockey League",
+    "team1": "2025",
+    "team2": "Brynas IF vs. Storhamar Hockey",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 9,
+        "name": "V Sport Vinter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWVFMFUzQ3pkZDZIMGcyQWc4THFNbXRuMFQvbS9GZkdBeXVt/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "slug": "2025-10-07-1730-international-champions-league-87",
+    "category": "ice hockey",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:30:00+00:00",
+    "end": "2025-10-07T20:30:00+00:00",
+    "start_timestamp": 1759858200,
+    "end_timestamp": 1759869000,
+    "event": "International Champions League : Eisbären Berlin vs Frölunda HC",
+    "match": "International Champions League",
+    "team1": "Eisbären Berlin",
+    "team2": "Frölunda HC",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 18,
+        "name": "V Sport 1 Finland"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "slug": "2025-10-07-1745-champions-hockey-league-88",
+    "category": "ice hockey",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:45:00+00:00",
+    "end": "2025-10-07T20:45:00+00:00",
+    "start_timestamp": 1759859100,
+    "end_timestamp": 1759869900,
+    "event": "Champions Hockey League : ZSC Lions Zurich vs. Sparta Prague",
+    "match": "Champions Hockey League",
+    "team1": "2025",
+    "team2": "ZSC Lions Zurich vs. Sparta Prague",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 50,
+        "name": "Polsat Sport 2 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOc0RER3hOTjNiaVZoQW12OGwxNEdQOUdnOXNaY0FiTGR4eVR4Nw/master.m3u8"
+      },
+      {
+        "id": 5,
+        "name": "Sport 1 Czech HD",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcGVFMFUzQ3pkZDZIMGcxMGJQNTkyNXcxM2U0WThkT3BKbGpZ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "slug": "2025-10-07-2100-nhl-89",
+    "category": "nhl",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T21:00:00+00:00",
+    "end": "2025-10-08T00:00:00+00:00",
+    "start_timestamp": 1759870800,
+    "end_timestamp": 1759881600,
+    "event": "NHL : Florida Panthers vs Chicago Blackhawks",
+    "match": "NHL",
+    "team1": "Florida Panthers",
+    "team2": "Chicago Blackhawks",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 1,
+        "name": "NHL Gamecenter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2VFMFUzQ3pkZDZIMGcwbnllb1BmTTc3MmFGTkNxK01Pb255/master.m3u8"
+      },
+      {
+        "id": 550,
+        "name": "Viaplay Sports 2 UK"
+      },
+      {
+        "id": 411,
+        "name": "Sportsnet One"
+      },
+      {
+        "id": 833,
+        "name": "TVA Sports"
+      },
+      {
+        "id": 556,
+        "name": "Sky Sport Top Event DE"
+      },
+      {
+        "id": 557,
+        "name": "Sky Sport Mix DE",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NTbnpOdHpheUJzZTNMSjdGTzlyOEc0ZmZ6SStaNjNQWnh0SlN3PT0/master.m3u8"
+      },
+      {
+        "id": 454,
+        "name": "Sport TV3 Portugal"
+      },
+      {
+        "id": 494,
+        "name": "beIN Sports 4 Max France",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEJTcnpOdHpheUJzZTNMSjdnNlhBSlVEWEx0K0JLb2NzclVWYXdnPT0/master.m3u8"
+      },
+      {
+        "id": 432,
+        "name": "Arena Sport 1 Croatia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdER5enpOdHpheUJzZTNMSjdHTHNIazU1WGVqYkIvZEVRWmVrZ2RnPT0/master.m3u8"
+      },
+      {
+        "id": 888,
+        "name": "ESPN 3 NL"
+      },
+      {
+        "id": 135,
+        "name": "Arena 2 Premium Serbia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0R5dnpOdHpheUJzZTNMSjcva1ZWT2tiSlJMZzV0QTNRTk9qd2hBPT0/master.m3u8"
+      },
+      {
+        "id": 375,
+        "name": "ESPN Deportes",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5dnpOdHpheUJzZTNMSjdiTDkrcy96VUhlMFJvUnZtWlVyRUZnPT0/master.m3u8"
+      },
+      {
+        "id": 9,
+        "name": "V Sport Vinter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWVFMFUzQ3pkZDZIMGcyQWc4THFNbXRuMFQvbS9GZkdBeXVt/master.m3u8"
+      },
+      {
+        "id": 473,
+        "name": "MAX Sport 2 Bulgaria",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdEN5M3pOdHpheUJzZTNMSjdBK0N3c2pLWFo3aUZsYnBjazNDcUZnPT0/master.m3u8"
+      },
+      {
+        "id": 146,
+        "name": "Sport 5 Live Israel"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "slug": "2025-10-07-0000-nhl-90",
+    "category": "nhl",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T00:00:00+00:00",
+    "end": "2025-10-07T03:00:00+00:00",
+    "start_timestamp": 1759795200,
+    "end_timestamp": 1759806000,
+    "event": "NHL : New York Rangers vs Pittsburgh Penguins",
+    "match": "NHL",
+    "team1": "New York Rangers",
+    "team2": "Pittsburgh Penguins",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 2,
+        "name": "NHL Gamecenter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb3VFMFUzQ3pkZDZIMGczNzhpVXFock12V3BVeWljNlg4OVV0/master.m3u8"
+      },
+      {
+        "id": 550,
+        "name": "Viaplay Sports 2 UK"
+      },
+      {
+        "id": 44,
+        "name": "ESPN USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENER3hOTjNiaVZoQW12OStoUVVKakQ5T0tvWm0wejgyU2dQRg/master.m3u8"
+      },
+      {
+        "id": 833,
+        "name": "TVA Sports"
+      },
+      {
+        "id": 411,
+        "name": "Sportsnet One"
+      },
+      {
+        "id": 809,
+        "name": "TV3 Sport Denmark",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERDZnpOdHpheUJzZTNMSjdYQWlrWFNYeGo1VUN5KzBLNkhBbXZ3PT0/master.m3u8"
+      },
+      {
+        "id": 9,
+        "name": "V Sport Vinter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcWVFMFUzQ3pkZDZIMGcyQWc4THFNbXRuMFQvbS9GZkdBeXVt/master.m3u8"
+      },
+      {
+        "id": 147,
+        "name": "Sport 5 Stars Israel"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "slug": "2025-10-07-0230-nhl-91",
+    "category": "nhl",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T02:30:00+00:00",
+    "end": "2025-10-07T05:30:00+00:00",
+    "start_timestamp": 1759804200,
+    "end_timestamp": 1759815000,
+    "event": "NHL : Los Angeles Kings vs Colorado Avalanche",
+    "match": "NHL",
+    "team1": "Los Angeles Kings",
+    "team2": "Colorado Avalanche",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 3,
+        "name": "NHL Gamecenter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrbytFMFUzQ3pkZDZIMGcwT0cyQTJMMmVjMjRibjl4R2V0T0Zu/master.m3u8"
+      },
+      {
+        "id": 451,
+        "name": "Viaplay Sports 1 UK"
+      },
+      {
+        "id": 44,
+        "name": "ESPN USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdENER3hOTjNiaVZoQW12OStoUVVKakQ5T0tvWm0wejgyU2dQRg/master.m3u8"
+      },
+      {
+        "id": 411,
+        "name": "Sportsnet One"
+      },
+      {
+        "id": 833,
+        "name": "TVA Sports"
+      },
+      {
+        "id": 4,
+        "name": "V Sport Premium",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcE9FMFUzQ3pkZDZIMGcyQmhidGhja2lHWFAzTmp3eWdZV3lT/master.m3u8"
+      },
+      {
+        "id": 147,
+        "name": "Sport 5 Stars Israel"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "slug": "2025-10-07-0730-paddle-tournament,-milan-7.10-(1)-92",
+    "category": "squash",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T07:30:00+00:00",
+    "end": "2025-10-07T10:30:00+00:00",
+    "start_timestamp": 1759822200,
+    "end_timestamp": 1759833000,
+    "event": "Paddle Tournament, Milan 7.10 (1)",
+    "match": "Paddle Tournament, Milan 7.10 (1)",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 141,
+        "name": "Sport 2 Israel"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "slug": "2025-10-07-1600-paddle-tournament,-milan-7.10-(2)-93",
+    "category": "squash",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "Paddle Tournament, Milan 7.10 (2)",
+    "match": "Paddle Tournament, Milan 7.10 (2)",
+    "team1": null,
+    "team2": null,
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 141,
+        "name": "Sport 2 Israel"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "slug": "2025-10-07-1500-beach-volleyball-94",
+    "category": "volleyball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T15:00:00+00:00",
+    "end": "2025-10-07T18:00:00+00:00",
+    "start_timestamp": 1759849200,
+    "end_timestamp": 1759860000,
+    "event": "Beach Volleyball : Pro Tour: Newport Beach - Qualifiers",
+    "match": "Beach Volleyball",
+    "team1": "Pro Tour: Newport Beach",
+    "team2": "Qualifiers",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 104,
+        "name": "Sport Klub 4 Crotaia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y1dEUzT3pOZHlheWdZRzF4Q09IMENKQzdtbzlDWXduMGVBYVhrPQ/master.m3u8"
+      },
+      {
+        "id": 453,
+        "name": "Sport Klub HD Crotaia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdENTM3pOdHpheUJzZTNMSjdNUzJmYytGWnpMeVRDWXJxYVFWaDNnPT0/master.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "slug": "2025-10-07-1830-french-cup-95",
+    "category": "volleyball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T18:30:00+00:00",
+    "end": "2025-10-07T21:30:00+00:00",
+    "start_timestamp": 1759861800,
+    "end_timestamp": 1759872600,
+    "event": "French Cup : Levallois women vs Mulhouse women",
+    "match": "French Cup",
+    "team1": "Levallois women",
+    "team2": "Mulhouse women",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 116,
+        "name": "beIN Sports 1 France"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "slug": "2025-10-07-2300-women's-college-volleyball-96",
+    "category": "volleyball",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T23:00:00+00:00",
+    "end": "2025-10-08T02:00:00+00:00",
+    "start_timestamp": 1759878000,
+    "end_timestamp": 1759888800,
+    "event": "Women's College Volleyball : Valparaiso vs Illinois-Chicago",
+    "match": "Women's College Volleyball",
+    "team1": "Valparaiso",
+    "team2": "Illinois-Chicago",
+    "team1_img": null,
+    "team2_img": null,
+    "channels": [
+      {
+        "id": 770,
+        "name": "Marquee Sports Network"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "slug": "2025-10-07-1600-vrl-premier-liga-97",
+    "category": "water polo",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T16:00:00+00:00",
+    "end": "2025-10-07T19:00:00+00:00",
+    "start_timestamp": 1759852800,
+    "end_timestamp": 1759863600,
+    "event": "VRL Premier Liga : PVK Budućnost One Podgorica - VK Primorac Kotor",
+    "match": "VRL Premier Liga",
+    "team1": "PVK Budućnost One Podgorica",
+    "team2": "VK Primorac Kotor",
     "team1_img": null,
     "team2_img": null,
     "channels": [
@@ -2383,117 +2874,46 @@
     ]
   },
   {
-    "id": 83,
-    "slug": "2025-10-06-0700-premier-padel,-day-1-83",
-    "category": "squash",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T07:00:00+00:00",
-    "end": "2025-10-06T10:00:00+00:00",
-    "start_timestamp": 1759734000,
-    "end_timestamp": 1759744800,
-    "event": "Premier Padel, Day 1",
-    "match": "Premier Padel, Day 1",
+    "id": 98,
+    "slug": "2025-10-07-1500-weight:-less-than-88-kg-98",
+    "category": "weightlifting",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T15:00:00+00:00",
+    "end": "2025-10-07T18:00:00+00:00",
+    "start_timestamp": 1759849200,
+    "end_timestamp": 1759860000,
+    "event": "Weight: Less than 88 kg",
+    "match": "Weight: Less than 88 kg",
     "team1": null,
     "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 142,
-        "name": "Sport 3 Israel",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0NDenpOdHpheUJzZTNMSjdtZzAycHFyTFU5VWVjMis0RjcyR3JRPT0/master.m3u8"
+        "id": 471,
+        "name": "Ring BG"
       }
     ]
   },
   {
-    "id": 84,
-    "slug": "2025-10-06-1830-serie-a1-women-84",
-    "category": "volleyball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:30:00+00:00",
-    "end": "2025-10-06T21:30:00+00:00",
-    "start_timestamp": 1759775400,
-    "end_timestamp": 1759786200,
-    "event": "Serie A1 Women : Busto Arsizio W vs Conegliano W",
-    "match": "Serie A1 Women",
-    "team1": "Busto Arsizio W",
-    "team2": "Conegliano W",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 882,
-        "name": "Rai Sport 1 Italy HD",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaEJDenpOdHpheUJzZTNMSjduc1NFWFV5K01OZk8vSTA3TjhtUm5nPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 85,
-    "slug": "2025-10-06-1830-serie-a1-women-85",
-    "category": "volleyball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T18:30:00+00:00",
-    "end": "2025-10-06T21:30:00+00:00",
-    "start_timestamp": 1759775400,
-    "end_timestamp": 1759786200,
-    "event": "Serie A1 Women : Monza W vs Bergamo W",
-    "match": "Serie A1 Women",
-    "team1": "Monza W",
-    "team2": "Bergamo W",
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 877,
-        "name": "Zona DAZN IT",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrcVBsdUUzT3pOZHlheWdZRzE3Y3lmamVhS2pHRjd4cERkblc5Umo4PQ/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 86,
-    "slug": "2025-10-06-2230-athletes-unlimited-pro-volleyball-teams-tba-e-86",
-    "category": "volleyball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T22:30:00+00:00",
-    "end": "2025-10-07T01:30:00+00:00",
-    "start_timestamp": 1759789800,
-    "end_timestamp": 1759800600,
-    "event": "Athletes Unlimited Pro Volleyball Teams TBA E",
-    "match": "Athletes Unlimited Pro Volleyball Teams TBA E",
+    "id": 99,
+    "slug": "2025-10-07-1730-weight:-women-up-to-69-kg-99",
+    "category": "weightlifting",
+    "date": "2025-10-07+00:00",
+    "start": "2025-10-07T17:30:00+00:00",
+    "end": "2025-10-07T20:30:00+00:00",
+    "start_timestamp": 1759858200,
+    "end_timestamp": 1759869000,
+    "event": "Weight: Women up to 69 kg",
+    "match": "Weight: Women up to 69 kg",
     "team1": null,
     "team2": null,
     "team1_img": null,
     "team2_img": null,
     "channels": [
       {
-        "id": 316,
-        "name": "SPNU USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURTanpOdHpheUJzZTNMSjdDcHVsU2FtOXlSK3NHSmdWaGxQWFlBPT0/master.m3u8"
-      }
-    ]
-  },
-  {
-    "id": 87,
-    "slug": "2025-10-06-0100-athletes-unlimited-pro-volleyball-teams-tba-87",
-    "category": "volleyball",
-    "date": "2025-10-06+00:00",
-    "start": "2025-10-06T01:00:00+00:00",
-    "end": "2025-10-06T04:00:00+00:00",
-    "start_timestamp": 1759712400,
-    "end_timestamp": 1759723200,
-    "event": "Athletes Unlimited Pro Volleyball Teams TBA",
-    "match": "Athletes Unlimited Pro Volleyball Teams TBA",
-    "team1": null,
-    "team2": null,
-    "team1_img": null,
-    "team2_img": null,
-    "channels": [
-      {
-        "id": 316,
-        "name": "ESPNU USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcURTanpOdHpheUJzZTNMSjdDcHVsU2FtOXlSK3NHSmdWaGxQWFlBPT0/master.m3u8"
+        "id": 471,
+        "name": "Ring BG"
       }
     ]
   }
