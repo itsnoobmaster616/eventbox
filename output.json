@@ -186,7 +186,8 @@
     "channels": [
       {
         "id": 69,
-        "name": "ESPN+ USA"
+        "name": "ESPN+ USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdkJUR3hOTjNiaVZoQW12OCtMUVpua1AvdTdmOU5ING56QmYyVA/master.m3u8"
       },
       {
         "id": 49,
@@ -292,7 +293,8 @@
     "channels": [
       {
         "id": 76,
-        "name": "ESPN+ USA"
+        "name": "ESPN+ USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdUNqR3hOTjNiaVZoQW12OWpyekFlVHBERXF6Q1VpNVlLbktnTg/master.m3u8"
       },
       {
         "id": 386,
@@ -2979,7 +2981,8 @@
       },
       {
         "id": 69,
-        "name": "STV1 Slovenia"
+        "name": "STV1 Slovenia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdkJUR3hOTjNiaVZoQW12OCtMUVpua1AvdTdmOU5ING56QmYyVA/master.m3u8"
       },
       {
         "id": 102,
@@ -3149,7 +3152,8 @@
       },
       {
         "id": 76,
-        "name": "STV3 Slovenia"
+        "name": "STV3 Slovenia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdUNqR3hOTjNiaVZoQW12OWpyekFlVHBERXF6Q1VpNVlLbktnTg/master.m3u8"
       },
       {
         "id": 104,
