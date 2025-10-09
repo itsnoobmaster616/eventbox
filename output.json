@@ -1419,8 +1419,7 @@
     "channels": [
       {
         "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1442,8 +1441,7 @@
     "channels": [
       {
         "id": 1508,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpYnpOdHpheUJzZTNMSjd5WUpZRjR1TFNHQmNEd1RhWU1rampnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -3114,7 +3112,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "Cosmote Sport 4 Greece"
+        "name": "Cosmote Sport 4 Greece",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       }
     ]
   },
@@ -3359,7 +3358,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "NBA League Pass"
+        "name": "NBA League Pass",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       },
       {
         "id": 114,
@@ -5264,7 +5264,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "Belarus 5"
+        "name": "Belarus 5",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       },
       {
         "id": 817,
@@ -8801,7 +8802,8 @@
     "channels": [
       {
         "id": 11,
-        "name": "NHL Gamecenter"
+        "name": "NHL Gamecenter",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdqQVVCeEVwRmZNLzQ0b3VVRVVNS3pqUUl1Q0FGR0hzMVBzVXdrb2Y5MlVYR3lOSjNabEVCTGRSSHBsU1FKQ0dqZldVMEtRZW1Bd0E9PQ/master.m3u8"
       },
       {
         "id": 765,
