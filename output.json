@@ -1522,8 +1522,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1545,8 +1544,7 @@
     "channels": [
       {
         "id": 1503,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1568,8 +1566,7 @@
     "channels": [
       {
         "id": 1504,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1624,8 +1621,7 @@
     "channels": [
       {
         "id": 1503,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1647,8 +1643,7 @@
     "channels": [
       {
         "id": 1504,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1698,8 +1693,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1749,8 +1743,7 @@
     "channels": [
       {
         "id": 1503,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1772,8 +1765,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -1795,8 +1787,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -4102,7 +4093,8 @@
     "channels": [
       {
         "id": 129,
-        "name": "Polsat Sport 3 Poland"
+        "name": "Polsat Sport 3 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpZnpOdHpheUJzZTNMSjc4djNpRDhCeUdoUEIxaGtScHNBT3pRPT0/master.m3u8"
       }
     ]
   },
@@ -5092,7 +5084,8 @@
       },
       {
         "id": 129,
-        "name": "Polsat Sport 3 Poland"
+        "name": "Polsat Sport 3 Poland",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOb0RpZnpOdHpheUJzZTNMSjc4djNpRDhCeUdoUEIxaGtScHNBT3pRPT0/master.m3u8"
       },
       {
         "id": 7,
@@ -5271,8 +5264,7 @@
       },
       {
         "id": 817,
-        "name": "TV2 Denmark",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOaERTbnpOdHpheUJzZTNMSjdId0pRY29rdHMwWVY1Q0hDbGEyS0tBPT0/master.m3u8"
+        "name": "TV2 Denmark"
       },
       {
         "id": 587,
@@ -6215,8 +6207,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -6271,8 +6262,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -6355,8 +6345,7 @@
     "channels": [
       {
         "id": 1502,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpenpOdHpheUJzZTNMSjdicXVoaDAwWHZHZElRK2dvRGRxQmFnPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -6379,7 +6368,7 @@
       {
         "id": 1505,
         "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpdnpOdHpheUJzZTNMSjdvcDJRWU8rS0NNL0djd0poamFrbDB3PT0/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc1Q0VNdEdZTUdjL1VxdnYwWUVaNjAxME04RkY0RVE4cEhyQUYrcC81ckRDM3pOdHpheUJzZTNMSjdBZUQ3UXkra1RSWVdFNUhSNTdzY2NBPT0/master.m3u8"
       }
     ]
   },
@@ -6401,8 +6390,7 @@
     "channels": [
       {
         "id": 1503,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpM3pOdHpheUJzZTNMSjd3SHJIRUszK1d6TEtTS1l3VnFlN2p3PT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -6424,8 +6412,7 @@
     "channels": [
       {
         "id": 1504,
-        "name": "Tennis Stream",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGxoMkdZTUdjL1VxdnYwWUVaNjAxME0vRWtWZlE5OUxzMUI1b0xvOFVpcnpOdHpheUJzZTNMSjdERXoyOXc5ajc1cEVlRXg1MXRRZk5nPT0/master.m3u8"
+        "name": "Tennis Stream"
       }
     ]
   },
@@ -7306,8 +7293,7 @@
       },
       {
         "id": 54,
-        "name": "FOX USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOc0NER3hOTjNiaVZoQW12OTJFdVhnYTJyTUljaCtpRUlNcitmUw/master.m3u8"
+        "name": "FOX USA"
       },
       {
         "id": 768,
