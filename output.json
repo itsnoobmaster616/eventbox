@@ -2230,13 +2230,11 @@
     "channels": [
       {
         "id": 425,
-        "name": "beIN SPORTS USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERpdnpOdHpheUJzZTNMSjdLNlFVVFFZR2tGZmRudUtqU0NJS0J3PT0/master.m3u8"
+        "name": "beIN SPORTS USA"
       },
       {
         "id": 372,
-        "name": "beIN SPORTS en Español",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUN5enpOdHpheUJzZTNMSjdvSWxQVkY1SnFVV2ZrZkd2NVRsZ3J3PT0/master.m3u8"
+        "name": "beIN SPORTS en Español"
       },
       {
         "id": 7,
@@ -3074,8 +3072,7 @@
       },
       {
         "id": 425,
-        "name": "beIN Sports USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOdERpdnpOdHpheUJzZTNMSjdLNlFVVFFZR2tGZmRudUtqU0NJS0J3PT0/master.m3u8"
+        "name": "beIN Sports USA"
       },
       {
         "id": 127,
