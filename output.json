@@ -909,8 +909,7 @@
     "channels": [
       {
         "id": 55,
-        "name": "DAZN Italia",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
+        "name": "DAZN Italia"
       }
     ]
   },
@@ -1648,8 +1647,7 @@
       },
       {
         "id": 417,
-        "name": "SuperSport Variety 2",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERTbnpOdHpheUJzZTNMSjdxZkphcjhWakIrSzJITlBtOEJvZDJRPT0/master.m3u8"
+        "name": "SuperSport Variety 2"
       },
       {
         "id": 151,
@@ -2747,8 +2745,7 @@
     "channels": [
       {
         "id": 55,
-        "name": "ESPN+ USA",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
+        "name": "ESPN+ USA"
       }
     ]
   },
@@ -3492,7 +3489,7 @@
       {
         "id": 368,
         "name": "SuperSport Cricket",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQ0ZoMEdOY2ZPT3hocC9NY0ZjT3BqQjQ5VkVwWkI4Tk42Ulk1NHFzMFZXdXhhSVdNaUZnY2dhaHQvb3QvbDFZN01MNHFNT0VyTXAyWWMvV2p3YVE9/master.m3u8"
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOcUNpYnpOdHpheUJzZTNMSjdIc1loSkhFeUNNQ0Frd1VHOVJBbnJ3PT0/master.m3u8"
       },
       {
         "id": 412,
@@ -8269,8 +8266,7 @@
       },
       {
         "id": 417,
-        "name": "SuperSport Variety 2",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGc2RGwxN0dZTUdjL1VxdnYwWUVaNjAxME0vRWtCU1E5aFF2VlFnNWFOdERTbnpOdHpheUJzZTNMSjdxZkphcjhWakIrSzJITlBtOEJvZDJRPT0/master.m3u8"
+        "name": "SuperSport Variety 2"
       }
     ]
   }
