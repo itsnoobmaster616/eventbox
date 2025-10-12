@@ -909,7 +909,8 @@
     "channels": [
       {
         "id": 55,
-        "name": "DAZN Italia"
+        "name": "DAZN Italia",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       }
     ]
   },
@@ -2746,7 +2747,8 @@
     "channels": [
       {
         "id": 55,
-        "name": "ESPN+ USA"
+        "name": "ESPN+ USA",
+        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOc0NUR3hOTjNiaVZoQW12K0pPOGZaVWFhUzZGb3RVYmloRjJrYQ/master.m3u8"
       }
     ]
   },
