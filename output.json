@@ -392,8 +392,7 @@
       },
       {
         "id": 719,
-        "name": "RTP 1 Portugal",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdURTZnpOdHpheUJzZTNMSjdPamFXYjBJU1JIMlREcTdMNXR4ZmhnPT0/master.m3u8"
+        "name": "RTP 1 Portugal"
       },
       {
         "id": 712,
@@ -4139,8 +4138,7 @@
       },
       {
         "id": 106,
-        "name": "MTV Urheilu 1 Finland",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDanpOdHpheUJzZTNMSjc1SjFHbzEzYWs4Q2llL2NWWGlDUmhnPT0/master.m3u8"
+        "name": "MTV Urheilu 1 Finland"
       }
     ]
   },
@@ -7024,8 +7022,7 @@
       },
       {
         "id": 719,
-        "name": "RTP 1 Portugal",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdURTZnpOdHpheUJzZTNMSjdPamFXYjBJU1JIMlREcTdMNXR4ZmhnPT0/master.m3u8"
+        "name": "RTP 1 Portugal"
       },
       {
         "id": 104,
@@ -11698,8 +11695,7 @@
     "channels": [
       {
         "id": 106,
-        "name": "Sport 1 Czech",
-        "hlsUrl": "https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOb0RDanpOdHpheUJzZTNMSjc1SjFHbzEzYWs4Q2llL2NWWGlDUmhnPT0/master.m3u8"
+        "name": "Sport 1 Czech"
       }
     ]
   },
