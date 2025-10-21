@@ -2,7 +2,7 @@
   {
     "id": 1,
     "slug": "2025-10-21-1800-england---efl-trophy-1",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:00:00+00:00",
     "end": "2025-10-21T21:00:00+00:00",
@@ -24,7 +24,7 @@
   {
     "id": 2,
     "slug": "2025-10-21-1800-england---efl-trophy-2",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:00:00+00:00",
     "end": "2025-10-21T21:00:00+00:00",
@@ -46,7 +46,7 @@
   {
     "id": 3,
     "slug": "2025-10-21-1845-england---championship-3",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -68,7 +68,7 @@
   {
     "id": 4,
     "slug": "2025-10-21-1845-england---efl-trophy-4",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -90,7 +90,7 @@
   {
     "id": 5,
     "slug": "2025-10-21-1845-england---championship-5",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -112,7 +112,7 @@
   {
     "id": 6,
     "slug": "2025-10-21-1845-england---championship-6",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -134,7 +134,7 @@
   {
     "id": 7,
     "slug": "2025-10-21-1845-england---championship-7",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -156,7 +156,7 @@
   {
     "id": 8,
     "slug": "2025-10-21-1845-england---championship-8",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -178,7 +178,7 @@
   {
     "id": 9,
     "slug": "2025-10-21-1845-england---championship-9",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -200,7 +200,7 @@
   {
     "id": 10,
     "slug": "2025-10-21-1845-england---championship-10",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -222,7 +222,7 @@
   {
     "id": 11,
     "slug": "2025-10-21-1845-england---league-two-11",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T18:45:00+00:00",
     "end": "2025-10-21T21:45:00+00:00",
@@ -244,7 +244,7 @@
   {
     "id": 12,
     "slug": "2025-10-21-1900-england---league-one-12",
-    "category": "england - championship/efl trophy/league one",
+    "category": "soccer",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T19:00:00+00:00",
     "end": "2025-10-21T22:00:00+00:00",
@@ -3196,7 +3196,7 @@
   {
     "id": 90,
     "slug": "2025-10-21-2330-nba-90",
-    "category": "nba",
+    "category": "basketball",
     "date": "2025-10-21+00:00",
     "start": "2025-10-21T23:30:00+00:00",
     "end": "2025-10-22T02:30:00+00:00",
